@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a job with median annual pay over $100,000 in the US",
+  "category": "Work, Money & Society",
+  "round": 2,
+  "answers": 1420,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 813,
+    "rare": 537,
+    "schooler": 61,
+    "plankton": 8
+  }
+}

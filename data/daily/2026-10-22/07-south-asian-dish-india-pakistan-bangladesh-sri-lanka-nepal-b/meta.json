@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a South Asian dish (India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan, Maldives, Afghanistan)",
+  "category": "Food & Drink",
+  "round": 7,
+  "answers": 2154,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1723,
+    "rare": 382,
+    "schooler": 42,
+    "plankton": 6
+  }
+}

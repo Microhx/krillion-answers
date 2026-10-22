@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a game with a number in its name (sequels and 3D variants don't count)",
+  "category": "Sports & Games",
+  "round": 3,
+  "answers": 5834,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 5612,
+    "rare": 198,
+    "schooler": 22,
+    "plankton": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an environmental problem (like pollution)",
+  "category": "Science, Space & Tech",
+  "round": 6,
+  "answers": 245,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 125,
+    "rare": 75,
+    "schooler": 37,
+    "plankton": 7
+  }
+}

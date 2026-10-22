@@ -1,0 +1,67 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-22",
+  "rounds": 7,
+  "answers": 14820,
+  "categories": {
+    "People & Entertainment": 1,
+    "Work, Money & Society": 1,
+    "Sports & Games": 1,
+    "Words, Language & Numbers": 1,
+    "Country / Geography / Places": 1,
+    "Science, Space & Tech": 1,
+    "Food & Drink": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-character-from-attack-on-titan-one-piece-or-naruto.txt",
+      "folder": "01-character-from-attack-on-titan-one-piece-or-naruto",
+      "prompt": "Name a character from Attack on Titan, One Piece or Naruto",
+      "answers": 3418
+    },
+    {
+      "round": 2,
+      "file": "02-job-with-median-annual-pay-over-100-000-in-the-us.txt",
+      "folder": "02-job-with-median-annual-pay-over-100-000-in-the-us",
+      "prompt": "Name a job with median annual pay over $100,000 in the US",
+      "answers": 1420
+    },
+    {
+      "round": 3,
+      "file": "03-game-with-a-number-in-its-name-sequels-and-3d-variants-don-t.txt",
+      "folder": "03-game-with-a-number-in-its-name-sequels-and-3d-variants-don-t",
+      "prompt": "Name a game with a number in its name (sequels and 3D variants don't count)",
+      "answers": 5834
+    },
+    {
+      "round": 4,
+      "file": "04-field-art-or-skill-ending-in-graphy.txt",
+      "folder": "04-field-art-or-skill-ending-in-graphy",
+      "prompt": "Name a field, art or skill ending in -graphy",
+      "answers": 1722
+    },
+    {
+      "round": 5,
+      "file": "05-country-with-a-five-letter-english-name.txt",
+      "folder": "05-country-with-a-five-letter-english-name",
+      "prompt": "Name a country with a five-letter English name",
+      "answers": 27
+    },
+    {
+      "round": 6,
+      "file": "06-environmental-problem-like-pollution.txt",
+      "folder": "06-environmental-problem-like-pollution",
+      "prompt": "Name an environmental problem (like pollution)",
+      "answers": 245
+    },
+    {
+      "round": 7,
+      "file": "07-south-asian-dish-india-pakistan-bangladesh-sri-lanka-nepal-b.txt",
+      "folder": "07-south-asian-dish-india-pakistan-bangladesh-sri-lanka-nepal-b",
+      "prompt": "Name a South Asian dish (India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan, Maldives, Afghanistan)",
+      "answers": 2154
+    }
+  ],
+  "generated_at": "2026-10-22T06:15:29.175Z"
+}
