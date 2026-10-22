@@ -1,0 +1,1 @@
+Name a country whose name uses only one vowel letter (a, e, i, o, or u), repeats allowed (like Canada)

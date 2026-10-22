@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Greek god or goddess",
+  "category": "People & Entertainment",
+  "round": 7,
+  "answers": 80,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 39,
+    "rare": 21,
+    "schooler": 12,
+    "tooclever": 1,
+    "plankton": 6
+  }
+}

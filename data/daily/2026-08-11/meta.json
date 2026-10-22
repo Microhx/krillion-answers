@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-11",
+  "rounds": 7,
+  "answers": 614,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 2,
+    "Sports & Games": 2
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-sovereign-country-whose-flag-contains-both-red-and-white.txt",
+      "folder": "01-sovereign-country-whose-flag-contains-both-red-and-white",
+      "prompt": "Name a sovereign country whose flag contains both red and white",
+      "answers": 111
+    },
+    {
+      "round": 2,
+      "file": "02-animal-threatened-with-extinction.txt",
+      "folder": "02-animal-threatened-with-extinction",
+      "prompt": "Name an animal threatened with extinction",
+      "answers": 105
+    },
+    {
+      "round": 3,
+      "file": "03-cut-of-beef.txt",
+      "folder": "03-cut-of-beef",
+      "prompt": "Name a cut of beef",
+      "answers": 47
+    },
+    {
+      "round": 4,
+      "file": "04-girl-group.txt",
+      "folder": "04-girl-group",
+      "prompt": "Name a girl group",
+      "answers": 97
+    },
+    {
+      "round": 5,
+      "file": "05-famous-scientist.txt",
+      "folder": "05-famous-scientist",
+      "prompt": "Name a famous scientist",
+      "answers": 102
+    },
+    {
+      "round": 6,
+      "file": "06-arcade-game.txt",
+      "folder": "06-arcade-game",
+      "prompt": "Name an arcade game",
+      "answers": 104
+    },
+    {
+      "round": 7,
+      "file": "07-team-that-played-in-the-2026-fifa-world-cup.txt",
+      "folder": "07-team-that-played-in-the-2026-fifa-world-cup",
+      "prompt": "Name a team that played in the 2026 FIFA World Cup",
+      "answers": 48
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

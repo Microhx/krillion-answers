@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a prehistoric mammal",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 114,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 85,
+    "rare": 21,
+    "schooler": 4,
+    "tooclever": 1,
+    "plankton": 2
+  }
+}

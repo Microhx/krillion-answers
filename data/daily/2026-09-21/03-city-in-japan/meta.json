@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a city in Japan",
+  "category": "Country / Geography / Places",
+  "round": 3,
+  "answers": 864,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 775,
+    "rare": 71,
+    "schooler": 12,
+    "plankton": 4
+  }
+}

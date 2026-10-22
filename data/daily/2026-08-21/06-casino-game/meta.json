@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a casino game",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 51,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 30,
+    "rare": 12,
+    "schooler": 3,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

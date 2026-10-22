@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a foul or rule violation in soccer, basketball, American football, cricket, rugby or ice hockey",
+  "category": "Sports & Games",
+  "round": 2,
+  "answers": 392,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 249,
+    "rare": 101,
+    "schooler": 33,
+    "plankton": 7
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a standard type of insurance policy (all vehicles count as one type)",
+  "category": "Work, Money & Society",
+  "round": 4,
+  "answers": 433,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 347,
+    "rare": 59,
+    "schooler": 18,
+    "plankton": 7
+  }
+}

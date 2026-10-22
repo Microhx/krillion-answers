@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a mammal that lives underground",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 860,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 771,
+    "rare": 69,
+    "schooler": 14,
+    "plankton": 5
+  }
+}

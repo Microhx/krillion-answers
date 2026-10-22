@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a body part people have exactly two of (like ears)",
+  "category": "Body, Health & Medicine",
+  "round": 3,
+  "answers": 2611,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 2518,
+    "rare": 61,
+    "schooler": 18,
+    "plankton": 12
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an app or service meant for editing photos",
+  "category": "Brands / Companies / Apps",
+  "round": 6,
+  "answers": 1277,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1222,
+    "rare": 44,
+    "schooler": 8,
+    "plankton": 2
+  }
+}

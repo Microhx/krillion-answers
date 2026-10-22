@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Toy Story character",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 60,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 31,
+    "rare": 16,
+    "schooler": 9,
+    "tooclever": 1,
+    "plankton": 2
+  }
+}

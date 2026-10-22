@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an artist with at least 1 million monthly listeners on Spotify",
+  "category": "People & Entertainment",
+  "round": 1,
+  "answers": 14605,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 11875,
+    "rare": 2323,
+    "schooler": 381,
+    "plankton": 24
+  }
+}

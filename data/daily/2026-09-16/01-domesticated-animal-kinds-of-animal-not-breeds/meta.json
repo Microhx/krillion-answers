@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a domesticated animal (kinds of animal, not breeds)",
+  "category": "Animals & Nature",
+  "round": 1,
+  "answers": 186,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 76,
+    "rare": 79,
+    "schooler": 20,
+    "plankton": 9
+  }
+}

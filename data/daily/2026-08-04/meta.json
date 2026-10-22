@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-04",
+  "rounds": 7,
+  "answers": 320,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 2,
+    "Body, Health & Medicine": 1,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-in-the-middle-east.txt",
+      "folder": "01-country-in-the-middle-east",
+      "prompt": "Name a country in the Middle East",
+      "answers": 17
+    },
+    {
+      "round": 2,
+      "file": "02-parrot-species.txt",
+      "folder": "02-parrot-species",
+      "prompt": "Name a parrot species",
+      "answers": 41
+    },
+    {
+      "round": 3,
+      "file": "03-condiment.txt",
+      "folder": "03-condiment",
+      "prompt": "Name a condiment",
+      "answers": 68
+    },
+    {
+      "round": 4,
+      "file": "04-batman-villain.txt",
+      "folder": "04-batman-villain",
+      "prompt": "Name a Batman villain",
+      "answers": 61
+    },
+    {
+      "round": 5,
+      "file": "05-part-of-the-human-eye.txt",
+      "folder": "05-part-of-the-human-eye",
+      "prompt": "Name a part of the human eye",
+      "answers": 35
+    },
+    {
+      "round": 6,
+      "file": "06-formula-1-world-champion.txt",
+      "folder": "06-formula-1-world-champion",
+      "prompt": "Name a Formula 1 world champion",
+      "answers": 35
+    },
+    {
+      "round": 7,
+      "file": "07-stephen-king-novel.txt",
+      "folder": "07-stephen-king-novel",
+      "prompt": "Name a Stephen King novel",
+      "answers": 63
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

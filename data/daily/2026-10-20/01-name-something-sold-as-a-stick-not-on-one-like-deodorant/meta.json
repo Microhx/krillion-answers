@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something sold as a stick, not on one (like deodorant)",
+  "category": "Objects, Tools & Materials",
+  "round": 1,
+  "answers": 384,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 289,
+    "rare": 63,
+    "schooler": 23,
+    "plankton": 7
+  }
+}

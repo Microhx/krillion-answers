@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a crab or other crustacean",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 40,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 19,
+    "rare": 7,
+    "schooler": 8,
+    "tooclever": 2,
+    "plankton": 3
+  }
+}

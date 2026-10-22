@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something that uses a filter (physical filters, not photo filters)",
+  "category": "Objects, Tools & Materials",
+  "round": 2,
+  "answers": 1611,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 1505,
+    "rare": 81,
+    "schooler": 14,
+    "plankton": 9
+  }
+}

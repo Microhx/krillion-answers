@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a country in Asia",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 52,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 10,
+    "rare": 16,
+    "schooler": 19,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

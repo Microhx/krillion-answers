@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a landlocked country",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 45,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 9,
+    "rare": 16,
+    "schooler": 13,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

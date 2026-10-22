@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an African capital city",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 60,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 21,
+    "rare": 20,
+    "schooler": 12,
+    "tooclever": 3,
+    "plankton": 3
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a branch of science ending in -ology",
+  "category": "Science, Space & Tech",
+  "round": 5,
+  "answers": 95,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 37,
+    "rare": 34,
+    "schooler": 18,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

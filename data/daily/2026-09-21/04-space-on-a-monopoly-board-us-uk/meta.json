@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a space on a Monopoly board (US/UK)",
+  "category": "Sports & Games",
+  "round": 4,
+  "answers": 62,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 30,
+    "rare": 15,
+    "schooler": 9,
+    "plankton": 7
+  }
+}

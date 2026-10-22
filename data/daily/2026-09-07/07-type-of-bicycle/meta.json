@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a type of bicycle",
+  "category": "Objects, Tools & Materials",
+  "round": 7,
+  "answers": 121,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 78,
+    "rare": 22,
+    "schooler": 14,
+    "plankton": 5
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a language whose English name ends in -ish",
+  "category": "Words, Language & Numbers",
+  "round": 2,
+  "answers": 259,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 229,
+    "rare": 19,
+    "schooler": 8,
+    "plankton": 2
+  }
+}

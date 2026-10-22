@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-07-27",
+  "rounds": 7,
+  "answers": 349,
+  "categories": {
+    "Country / Geography / Places": 2,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 1,
+    "Body, Health & Medicine": 1,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-where-spanish-is-an-official-language.txt",
+      "folder": "01-country-where-spanish-is-an-official-language",
+      "prompt": "Name a country where Spanish is an official language",
+      "answers": 21
+    },
+    {
+      "round": 2,
+      "file": "02-primate-species.txt",
+      "folder": "02-primate-species",
+      "prompt": "Name a primate species",
+      "answers": 49
+    },
+    {
+      "round": 3,
+      "file": "03-candy-bar.txt",
+      "folder": "03-candy-bar",
+      "prompt": "Name a candy bar",
+      "answers": 61
+    },
+    {
+      "round": 4,
+      "file": "04-boy-band.txt",
+      "folder": "04-boy-band",
+      "prompt": "Name a boy band",
+      "answers": 58
+    },
+    {
+      "round": 5,
+      "file": "05-organ-of-the-human-body.txt",
+      "folder": "05-organ-of-the-human-body",
+      "prompt": "Name an organ of the human body",
+      "answers": 39
+    },
+    {
+      "round": 6,
+      "file": "06-yoga-pose.txt",
+      "folder": "06-yoga-pose",
+      "prompt": "Name a yoga pose",
+      "answers": 58
+    },
+    {
+      "round": 7,
+      "file": "07-us-national-park.txt",
+      "folder": "07-us-national-park",
+      "prompt": "Name a US national park",
+      "answers": 63
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

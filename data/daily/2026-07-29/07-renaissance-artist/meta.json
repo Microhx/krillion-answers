@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Renaissance artist",
+  "category": "People & Entertainment",
+  "round": 7,
+  "answers": 61,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 30,
+    "rare": 14,
+    "schooler": 10,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

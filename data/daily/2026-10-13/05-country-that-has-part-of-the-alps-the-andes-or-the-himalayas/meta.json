@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country that has part of the Alps, the Andes or the Himalayas",
+  "category": "Country / Geography / Places",
+  "round": 5,
+  "answers": 21,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 3,
+    "rare": 7,
+    "schooler": 8,
+    "plankton": 2
+  }
+}

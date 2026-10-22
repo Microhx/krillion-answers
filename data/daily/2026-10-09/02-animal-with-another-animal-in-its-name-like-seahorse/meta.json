@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an animal with another animal in its name (like seahorse)",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 22916,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 22398,
+    "rare": 477,
+    "schooler": 32,
+    "plankton": 7
+  }
+}

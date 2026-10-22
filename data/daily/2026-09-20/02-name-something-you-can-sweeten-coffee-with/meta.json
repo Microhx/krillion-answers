@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something you can sweeten coffee with",
+  "category": "Food & Drink",
+  "round": 2,
+  "answers": 176,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 121,
+    "rare": 30,
+    "schooler": 18,
+    "plankton": 5
+  }
+}

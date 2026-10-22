@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a villain from a Marvel Cinematic Universe movie",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 222,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 165,
+    "rare": 41,
+    "schooler": 13,
+    "plankton": 2
+  }
+}

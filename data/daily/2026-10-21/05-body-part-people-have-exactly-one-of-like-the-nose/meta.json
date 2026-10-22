@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a body part people have exactly one of (like the nose)",
+  "category": "Body, Health & Medicine",
+  "round": 5,
+  "answers": 589,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 498,
+    "rare": 60,
+    "schooler": 25,
+    "plankton": 5
+  }
+}

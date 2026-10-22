@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-23",
+  "rounds": 7,
+  "answers": 7681,
+  "categories": {
+    "Food & Drink": 1,
+    "Country / Geography / Places": 1,
+    "People & Entertainment": 1,
+    "Objects, Tools & Materials": 3,
+    "Brands / Companies / Apps": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-way-to-prepare-eggs.txt",
+      "folder": "01-way-to-prepare-eggs",
+      "prompt": "Name a way to prepare eggs",
+      "answers": 259
+    },
+    {
+      "round": 2,
+      "file": "02-country-whose-name-starts-with-a.txt",
+      "folder": "02-country-whose-name-starts-with-a",
+      "prompt": "Name a country whose name starts with A",
+      "answers": 11
+    },
+    {
+      "round": 3,
+      "file": "03-celebrity-chef.txt",
+      "folder": "03-celebrity-chef",
+      "prompt": "Name a celebrity chef",
+      "answers": 2104
+    },
+    {
+      "round": 4,
+      "file": "04-building-material.txt",
+      "folder": "04-building-material",
+      "prompt": "Name a building material",
+      "answers": 880
+    },
+    {
+      "round": 5,
+      "file": "05-phone-carrier.txt",
+      "folder": "05-phone-carrier",
+      "prompt": "Name a phone carrier",
+      "answers": 3936
+    },
+    {
+      "round": 6,
+      "file": "06-computer-part-accessories-don-t-count.txt",
+      "folder": "06-computer-part-accessories-don-t-count",
+      "prompt": "Name a computer part (accessories don't count)",
+      "answers": 293
+    },
+    {
+      "round": 7,
+      "file": "07-name-something-sprayed-out-of-a-can-pump-bottles-don-t-count.txt",
+      "folder": "07-name-something-sprayed-out-of-a-can-pump-bottles-don-t-count",
+      "prompt": "Name something sprayed out of a can (pump bottles don't count)",
+      "answers": 198
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

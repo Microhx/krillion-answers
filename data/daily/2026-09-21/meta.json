@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-21",
+  "rounds": 7,
+  "answers": 1606,
+  "categories": {
+    "Words, Language & Numbers": 1,
+    "Animals & Nature": 1,
+    "Country / Geography / Places": 2,
+    "Sports & Games": 1,
+    "Science, Space & Tech": 1,
+    "Objects, Tools & Materials": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-most-widely-spoken-language-of-an-asian-country.txt",
+      "folder": "01-most-widely-spoken-language-of-an-asian-country",
+      "prompt": "Name the most widely spoken language of an Asian country",
+      "answers": 35
+    },
+    {
+      "round": 2,
+      "file": "02-mammal-or-reptile-that-lives-in-rivers.txt",
+      "folder": "02-mammal-or-reptile-that-lives-in-rivers",
+      "prompt": "Name a mammal or reptile that lives in rivers",
+      "answers": 479
+    },
+    {
+      "round": 3,
+      "file": "03-city-in-japan.txt",
+      "folder": "03-city-in-japan",
+      "prompt": "Name a city in Japan",
+      "answers": 864
+    },
+    {
+      "round": 4,
+      "file": "04-space-on-a-monopoly-board-us-uk.txt",
+      "folder": "04-space-on-a-monopoly-board-us-uk",
+      "prompt": "Name a space on a Monopoly board (US/UK)",
+      "answers": 62
+    },
+    {
+      "round": 5,
+      "file": "05-chemical-element-whose-name-ends-in-ium.txt",
+      "folder": "05-chemical-element-whose-name-ends-in-ium",
+      "prompt": "Name a chemical element whose name ends in -ium",
+      "answers": 79
+    },
+    {
+      "round": 6,
+      "file": "06-part-of-a-smartphone-you-can-see-or-touch-accessories-don-t.txt",
+      "folder": "06-part-of-a-smartphone-you-can-see-or-touch-accessories-don-t",
+      "prompt": "Name a part of a smartphone you can see or touch (accessories don't count)",
+      "answers": 66
+    },
+    {
+      "round": 7,
+      "file": "07-country-with-both-a-u-and-an-s-in-its-name.txt",
+      "folder": "07-country-with-both-a-u-and-an-s-in-its-name",
+      "prompt": "Name a country with both a U and an S in its name",
+      "answers": 21
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

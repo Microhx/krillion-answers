@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country with both a U and an S in its name",
+  "category": "Country / Geography / Places",
+  "round": 7,
+  "answers": 21,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2,
+    "rare": 4,
+    "schooler": 8,
+    "plankton": 6
+  }
+}

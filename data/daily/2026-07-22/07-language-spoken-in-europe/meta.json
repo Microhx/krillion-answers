@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a language spoken in Europe",
+  "category": "Words, Language & Numbers",
+  "round": 7,
+  "answers": 79,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 31,
+    "rare": 24,
+    "schooler": 16,
+    "tooclever": 2,
+    "plankton": 5
+  }
+}

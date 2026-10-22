@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a phone carrier",
+  "category": "Brands / Companies / Apps",
+  "round": 5,
+  "answers": 3936,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 3862,
+    "rare": 58,
+    "schooler": 10,
+    "plankton": 4
+  }
+}

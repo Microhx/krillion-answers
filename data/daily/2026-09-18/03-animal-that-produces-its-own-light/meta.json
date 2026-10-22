@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an animal that produces its own light",
+  "category": "Animals & Nature",
+  "round": 3,
+  "answers": 107,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 75,
+    "rare": 23,
+    "schooler": 4,
+    "plankton": 3
+  }
+}

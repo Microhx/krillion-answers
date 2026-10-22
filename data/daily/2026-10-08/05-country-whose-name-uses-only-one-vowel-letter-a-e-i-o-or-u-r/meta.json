@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country whose name uses only one vowel letter (a, e, i, o, or u), repeats allowed (like Canada)",
+  "category": "Country / Geography / Places",
+  "round": 5,
+  "answers": 24,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2,
+    "rare": 7,
+    "schooler": 11,
+    "plankton": 3
+  }
+}

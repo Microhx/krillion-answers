@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a company in the S&P 500",
+  "category": "Brands / Companies / Apps",
+  "round": 1,
+  "answers": 500,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 265,
+    "rare": 87,
+    "schooler": 126,
+    "tooclever": 4,
+    "plankton": 16
+  }
+}

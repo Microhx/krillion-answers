@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country without the letter A in its name",
+  "category": "Country / Geography / Places",
+  "round": 2,
+  "answers": 31,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2,
+    "rare": 11,
+    "schooler": 10,
+    "plankton": 7
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a grain or cereal crop",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 254,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 205,
+    "rare": 34,
+    "schooler": 9,
+    "plankton": 5
+  }
+}

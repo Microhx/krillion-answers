@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a mammal with stripes",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 218,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 176,
+    "rare": 32,
+    "schooler": 7,
+    "plankton": 2
+  }
+}

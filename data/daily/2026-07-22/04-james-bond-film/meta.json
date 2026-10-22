@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a James Bond film",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 27,
+  "tiers": {
+    "krillion": 1,
+    "rare": 5,
+    "schooler": 15,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

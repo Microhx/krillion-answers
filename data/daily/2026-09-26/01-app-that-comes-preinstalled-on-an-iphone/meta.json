@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an app that comes preinstalled on an iPhone",
+  "category": "Brands / Companies / Apps",
+  "round": 1,
+  "answers": 59,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 10,
+    "rare": 21,
+    "schooler": 21,
+    "plankton": 6
+  }
+}

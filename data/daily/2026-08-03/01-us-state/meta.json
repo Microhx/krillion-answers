@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a US state",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 50,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 3,
+    "rare": 22,
+    "schooler": 18,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

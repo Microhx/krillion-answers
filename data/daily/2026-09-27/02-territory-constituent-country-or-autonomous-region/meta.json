@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a territory, constituent country or autonomous region",
+  "category": "Country / Geography / Places",
+  "round": 2,
+  "answers": 151,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 81,
+    "rare": 39,
+    "schooler": 22,
+    "plankton": 8
+  }
+}

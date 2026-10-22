@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a Scooby-Doo character",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 25,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 15,
+    "rare": 3,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

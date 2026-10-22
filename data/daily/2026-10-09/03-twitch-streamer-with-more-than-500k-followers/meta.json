@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a Twitch streamer with more than 500k followers",
+  "category": "People & Entertainment",
+  "round": 3,
+  "answers": 1501,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1144,
+    "rare": 294,
+    "schooler": 56,
+    "plankton": 6
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a salad dressing",
+  "category": "Food & Drink",
+  "round": 1,
+  "answers": 257,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 216,
+    "rare": 30,
+    "schooler": 7,
+    "plankton": 3
+  }
+}

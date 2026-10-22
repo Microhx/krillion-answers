@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a real-life melee weapon",
+  "category": "Objects, Tools & Materials",
+  "round": 6,
+  "answers": 602,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 551,
+    "rare": 29,
+    "schooler": 17,
+    "plankton": 4
+  }
+}

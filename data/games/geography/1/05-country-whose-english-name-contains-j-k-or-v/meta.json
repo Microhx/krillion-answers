@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a country whose English name contains J, K, or V",
+  "category": "Country / Geography / Places",
+  "round": 5,
+  "answers": 41,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 4,
+    "rare": 13,
+    "schooler": 19,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country in Eastern Europe",
+  "category": "Country / Geography / Places",
+  "round": 3,
+  "answers": 21,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1,
+    "rare": 10,
+    "schooler": 6,
+    "plankton": 3
+  }
+}

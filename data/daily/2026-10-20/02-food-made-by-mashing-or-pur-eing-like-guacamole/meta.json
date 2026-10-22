@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a food made by mashing or puréeing (like guacamole)",
+  "category": "Food & Drink",
+  "round": 2,
+  "answers": 1137,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1021,
+    "rare": 100,
+    "schooler": 10,
+    "plankton": 5
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-03",
+  "rounds": 7,
+  "answers": 394,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 2,
+    "Food & Drink": 1,
+    "Sports & Games": 2,
+    "People & Entertainment": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-us-state.txt",
+      "folder": "01-us-state",
+      "prompt": "Name a US state",
+      "answers": 50
+    },
+    {
+      "round": 2,
+      "file": "02-freshwater-fish.txt",
+      "folder": "02-freshwater-fish",
+      "prompt": "Name a freshwater fish",
+      "answers": 60
+    },
+    {
+      "round": 3,
+      "file": "03-type-of-dumpling.txt",
+      "folder": "03-type-of-dumpling",
+      "prompt": "Name a type of dumpling",
+      "answers": 46
+    },
+    {
+      "round": 4,
+      "file": "04-nintendo-video-game-franchise.txt",
+      "folder": "04-nintendo-video-game-franchise",
+      "prompt": "Name a Nintendo video game franchise",
+      "answers": 62
+    },
+    {
+      "round": 5,
+      "file": "05-weather-phenomenon.txt",
+      "folder": "05-weather-phenomenon",
+      "prompt": "Name a weather phenomenon",
+      "answers": 50
+    },
+    {
+      "round": 6,
+      "file": "06-heavyweight-boxing-world-champion.txt",
+      "folder": "06-heavyweight-boxing-world-champion",
+      "prompt": "Name a heavyweight boxing world champion",
+      "answers": 77
+    },
+    {
+      "round": 7,
+      "file": "07-dr-seuss-book.txt",
+      "folder": "07-dr-seuss-book",
+      "prompt": "Name a Dr. Seuss book",
+      "answers": 49
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

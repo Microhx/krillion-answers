@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a bone in the human body",
+  "category": "Body, Health & Medicine",
+  "round": 5,
+  "answers": 58,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 22,
+    "rare": 18,
+    "schooler": 12,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

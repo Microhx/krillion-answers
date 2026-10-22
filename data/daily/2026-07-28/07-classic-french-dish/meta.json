@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a classic French dish",
+  "category": "Food & Drink",
+  "round": 7,
+  "answers": 59,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 20,
+    "rare": 18,
+    "schooler": 15,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

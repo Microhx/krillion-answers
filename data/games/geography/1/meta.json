@@ -1,0 +1,61 @@
+{
+  "mode": "geography",
+  "game_id": "1",
+  "rounds": 7,
+  "answers": 301,
+  "categories": {
+    "Country / Geography / Places": 7
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-in-africa.txt",
+      "folder": "01-country-in-africa",
+      "prompt": "Name a country in Africa",
+      "answers": 55
+    },
+    {
+      "round": 2,
+      "file": "02-national-capital-that-is-not-its-country-s-largest-city.txt",
+      "folder": "02-national-capital-that-is-not-its-country-s-largest-city",
+      "prompt": "Name a national capital that is not its country’s largest city",
+      "answers": 31
+    },
+    {
+      "round": 3,
+      "file": "03-desert.txt",
+      "folder": "03-desert",
+      "prompt": "Name a desert",
+      "answers": 50
+    },
+    {
+      "round": 4,
+      "file": "04-country-whose-flag-includes-at-least-one-star.txt",
+      "folder": "04-country-whose-flag-includes-at-least-one-star",
+      "prompt": "Name a country whose flag includes at least one star",
+      "answers": 67
+    },
+    {
+      "round": 5,
+      "file": "05-country-whose-english-name-contains-j-k-or-v.txt",
+      "folder": "05-country-whose-english-name-contains-j-k-or-v",
+      "prompt": "Name a country whose English name contains J, K, or V",
+      "answers": 41
+    },
+    {
+      "round": 6,
+      "file": "06-island-country.txt",
+      "folder": "06-island-country",
+      "prompt": "Name an island country",
+      "answers": 48
+    },
+    {
+      "round": 7,
+      "file": "07-country-that-shares-a-land-border-with-germany.txt",
+      "folder": "07-country-that-shares-a-land-border-with-germany",
+      "prompt": "Name a country that shares a land border with Germany",
+      "answers": 9
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

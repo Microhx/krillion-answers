@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a river in Europe",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 84,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 48,
+    "rare": 20,
+    "schooler": 10,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

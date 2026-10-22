@@ -1,0 +1,61 @@
+{
+  "mode": "movies",
+  "game_id": "1",
+  "rounds": 7,
+  "answers": 426,
+  "categories": {
+    "People & Entertainment": 7
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-pixar-feature-film.txt",
+      "folder": "01-pixar-feature-film",
+      "prompt": "Name a Pixar feature film",
+      "answers": 31
+    },
+    {
+      "round": 2,
+      "file": "02-movie-starring-samuel-l-jackson.txt",
+      "folder": "02-movie-starring-samuel-l-jackson",
+      "prompt": "Name a movie starring Samuel L. Jackson",
+      "answers": 97
+    },
+    {
+      "round": 3,
+      "file": "03-character-from-aladdin.txt",
+      "folder": "03-character-from-aladdin",
+      "prompt": "Name a character from Aladdin",
+      "answers": 14
+    },
+    {
+      "round": 4,
+      "file": "04-famous-movie-monster.txt",
+      "folder": "04-famous-movie-monster",
+      "prompt": "Name a famous movie monster",
+      "answers": 113
+    },
+    {
+      "round": 5,
+      "file": "05-western-movie.txt",
+      "folder": "05-western-movie",
+      "prompt": "Name a western movie",
+      "answers": 117
+    },
+    {
+      "round": 6,
+      "file": "06-movie-starring-harrison-ford.txt",
+      "folder": "06-movie-starring-harrison-ford",
+      "prompt": "Name a movie starring Harrison Ford",
+      "answers": 48
+    },
+    {
+      "round": 7,
+      "file": "07-actor-who-has-played-james-bond-in-an-official-bond-film.txt",
+      "folder": "07-actor-who-has-played-james-bond-in-an-official-bond-film",
+      "prompt": "Name an actor who has played James Bond in an official Bond film",
+      "answers": 6
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

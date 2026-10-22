@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a fruit or vegetable that starts with S",
+  "category": "Food & Drink",
+  "round": 1,
+  "answers": 589,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 521,
+    "rare": 50,
+    "schooler": 12,
+    "plankton": 4
+  }
+}

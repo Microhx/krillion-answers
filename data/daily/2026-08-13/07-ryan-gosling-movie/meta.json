@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Ryan Gosling movie",
+  "category": "People & Entertainment",
+  "round": 7,
+  "answers": 30,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 9,
+    "rare": 9,
+    "schooler": 7,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

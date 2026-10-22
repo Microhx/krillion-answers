@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a metal (pure elements only; alloys like steel don't count)",
+  "category": "Science, Space & Tech",
+  "round": 3,
+  "answers": 92,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 47,
+    "rare": 21,
+    "schooler": 13,
+    "plankton": 9
+  }
+}

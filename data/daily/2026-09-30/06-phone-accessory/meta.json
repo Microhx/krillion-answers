@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a phone accessory",
+  "category": "Objects, Tools & Materials",
+  "round": 6,
+  "answers": 200,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 124,
+    "rare": 57,
+    "schooler": 12,
+    "plankton": 6
+  }
+}

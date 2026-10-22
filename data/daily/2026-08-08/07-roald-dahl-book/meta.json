@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Roald Dahl book",
+  "category": "People & Entertainment",
+  "round": 7,
+  "answers": 33,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 15,
+    "rare": 8,
+    "schooler": 4,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

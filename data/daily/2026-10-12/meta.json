@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-12",
+  "rounds": 7,
+  "answers": 16745,
+  "categories": {
+    "Brands / Companies / Apps": 3,
+    "Objects, Tools & Materials": 1,
+    "Animals & Nature": 1,
+    "Work, Money & Society": 1,
+    "Country / Geography / Places": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-job-search-website-or-app-like-linkedin.txt",
+      "folder": "01-job-search-website-or-app-like-linkedin",
+      "prompt": "Name a job-search website or app (like LinkedIn)",
+      "answers": 9445
+    },
+    {
+      "round": 2,
+      "file": "02-item-of-winter-clothing.txt",
+      "folder": "02-item-of-winter-clothing",
+      "prompt": "Name an item of winter clothing",
+      "answers": 485
+    },
+    {
+      "round": 3,
+      "file": "03-body-part-animals-have-but-humans-don-t-like-wings.txt",
+      "folder": "03-body-part-animals-have-but-humans-don-t-like-wings",
+      "prompt": "Name a body part animals have but humans don't (like wings)",
+      "answers": 837
+    },
+    {
+      "round": 4,
+      "file": "04-hotel-brand.txt",
+      "folder": "04-hotel-brand",
+      "prompt": "Name a hotel brand",
+      "answers": 4032
+    },
+    {
+      "round": 5,
+      "file": "05-department-in-a-company-like-hr.txt",
+      "folder": "05-department-in-a-company-like-hr",
+      "prompt": "Name a department in a company (like HR)",
+      "answers": 1321
+    },
+    {
+      "round": 6,
+      "file": "06-country-with-8-or-more-letters.txt",
+      "folder": "06-country-with-8-or-more-letters",
+      "prompt": "Name a country with 8 or more letters",
+      "answers": 90
+    },
+    {
+      "round": 7,
+      "file": "07-feature-on-youtube.txt",
+      "folder": "07-feature-on-youtube",
+      "prompt": "Name a feature on YouTube",
+      "answers": 535
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

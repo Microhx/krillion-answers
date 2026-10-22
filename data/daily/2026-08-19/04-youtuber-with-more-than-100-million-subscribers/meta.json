@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a YouTuber with more than 100 million subscribers",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 17,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 6,
+    "rare": 4,
+    "schooler": 2,
+    "tooclever": 1,
+    "plankton": 2
+  }
+}

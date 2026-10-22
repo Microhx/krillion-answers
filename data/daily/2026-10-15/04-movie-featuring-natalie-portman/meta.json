@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a movie featuring Natalie Portman",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 55,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 32,
+    "rare": 13,
+    "schooler": 4,
+    "plankton": 5
+  }
+}

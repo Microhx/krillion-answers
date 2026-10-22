@@ -1,0 +1,12 @@
+{
+  "prompt": "Name a country that shares a land border with Germany",
+  "category": "Country / Geography / Places",
+  "round": 7,
+  "answers": 9,
+  "tiers": {
+    "deepcut": 1,
+    "rare": 3,
+    "schooler": 3,
+    "plankton": 2
+  }
+}

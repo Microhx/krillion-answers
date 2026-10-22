@@ -1,0 +1,61 @@
+{
+  "mode": "sports",
+  "game_id": "1",
+  "rounds": 7,
+  "answers": 360,
+  "categories": {
+    "Sports & Games": 7
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-nba-team.txt",
+      "folder": "01-nba-team",
+      "prompt": "Name an NBA team",
+      "answers": 52
+    },
+    {
+      "round": 2,
+      "file": "02-los-angeles-lakers-player-2020-2026.txt",
+      "folder": "02-los-angeles-lakers-player-2020-2026",
+      "prompt": "Name a Los Angeles Lakers player (2020-2026)",
+      "answers": 100
+    },
+    {
+      "round": 3,
+      "file": "03-pitch-a-baseball-pitcher-can-throw.txt",
+      "folder": "03-pitch-a-baseball-pitcher-can-throw",
+      "prompt": "Name a pitch a baseball pitcher can throw",
+      "answers": 24
+    },
+    {
+      "round": 4,
+      "file": "04-famous-sports-trophy.txt",
+      "folder": "04-famous-sports-trophy",
+      "prompt": "Name a famous sports trophy",
+      "answers": 42
+    },
+    {
+      "round": 5,
+      "file": "05-famous-tennis-player.txt",
+      "folder": "05-famous-tennis-player",
+      "prompt": "Name a famous tennis player",
+      "answers": 117
+    },
+    {
+      "round": 6,
+      "file": "06-sport-contested-at-the-winter-olympics.txt",
+      "folder": "06-sport-contested-at-the-winter-olympics",
+      "prompt": "Name a sport contested at the Winter Olympics",
+      "answers": 17
+    },
+    {
+      "round": 7,
+      "file": "07-country-that-has-won-the-men-s-soccer-world-cup.txt",
+      "folder": "07-country-that-has-won-the-men-s-soccer-world-cup",
+      "prompt": "Name a country that has won the men's soccer World Cup",
+      "answers": 8
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

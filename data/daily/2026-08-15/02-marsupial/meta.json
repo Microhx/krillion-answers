@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a marsupial",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 53,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 28,
+    "rare": 16,
+    "schooler": 5,
+    "tooclever": 1,
+    "plankton": 2
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a 2026 movie that had grossed at least $200 million worldwide by August 8",
+  "category": "People & Entertainment",
+  "round": 7,
+  "answers": 24,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 3,
+    "rare": 6,
+    "schooler": 7,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

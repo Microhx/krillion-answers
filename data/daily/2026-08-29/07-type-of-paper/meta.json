@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a type of paper",
+  "category": "Objects, Tools & Materials",
+  "round": 7,
+  "answers": 176,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 57,
+    "rare": 82,
+    "schooler": 28,
+    "tooclever": 1,
+    "plankton": 6
+  }
+}

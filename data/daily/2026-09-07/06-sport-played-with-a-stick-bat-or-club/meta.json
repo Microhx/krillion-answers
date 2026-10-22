@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a sport played with a stick, bat, or club",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 166,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 140,
+    "rare": 13,
+    "schooler": 8,
+    "plankton": 4
+  }
+}

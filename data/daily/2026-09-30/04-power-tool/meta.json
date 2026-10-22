@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a power tool",
+  "category": "Objects, Tools & Materials",
+  "round": 4,
+  "answers": 296,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 221,
+    "rare": 50,
+    "schooler": 20,
+    "plankton": 4
+  }
+}

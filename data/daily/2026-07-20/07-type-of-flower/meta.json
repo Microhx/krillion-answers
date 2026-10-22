@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a type of flower",
+  "category": "Animals & Nature",
+  "round": 7,
+  "answers": 87,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 26,
+    "rare": 32,
+    "schooler": 22,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

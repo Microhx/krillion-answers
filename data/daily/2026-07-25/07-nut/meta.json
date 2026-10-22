@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a nut",
+  "category": "Food & Drink",
+  "round": 7,
+  "answers": 39,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 12,
+    "rare": 12,
+    "schooler": 8,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a muscle in the human body",
+  "category": "Body, Health & Medicine",
+  "round": 5,
+  "answers": 69,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 39,
+    "rare": 12,
+    "schooler": 11,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

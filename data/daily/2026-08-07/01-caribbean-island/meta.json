@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Caribbean island",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 59,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 30,
+    "rare": 15,
+    "schooler": 7,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

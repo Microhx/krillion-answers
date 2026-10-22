@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something sprayed out of a can (pump bottles don't count)",
+  "category": "Objects, Tools & Materials",
+  "round": 7,
+  "answers": 198,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 155,
+    "rare": 26,
+    "schooler": 12,
+    "plankton": 4
+  }
+}

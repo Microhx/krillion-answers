@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a citrus fruit",
+  "category": "Food & Drink",
+  "round": 2,
+  "answers": 35,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 10,
+    "rare": 13,
+    "schooler": 5,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-07-28",
+  "rounds": 7,
+  "answers": 582,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 1,
+    "Food & Drink": 2,
+    "People & Entertainment": 1,
+    "Words, Language & Numbers": 1,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-that-drives-on-the-left.txt",
+      "folder": "01-country-that-drives-on-the-left",
+      "prompt": "Name a country that drives on the left",
+      "answers": 68
+    },
+    {
+      "round": 2,
+      "file": "02-amphibian.txt",
+      "folder": "02-amphibian",
+      "prompt": "Name an amphibian",
+      "answers": 41
+    },
+    {
+      "round": 3,
+      "file": "03-ice-cream-flavor.txt",
+      "folder": "03-ice-cream-flavor",
+      "prompt": "Name an ice cream flavor",
+      "answers": 92
+    },
+    {
+      "round": 4,
+      "file": "04-star-wars-character.txt",
+      "folder": "04-star-wars-character",
+      "prompt": "Name a Star Wars character",
+      "answers": 170
+    },
+    {
+      "round": 5,
+      "file": "05-collective-noun-for-a-group-of-animals-like-murder-for-crows.txt",
+      "folder": "05-collective-noun-for-a-group-of-animals-like-murder-for-crows",
+      "prompt": "Name a collective noun for a group of animals (like 'murder' for crows)",
+      "answers": 81
+    },
+    {
+      "round": 6,
+      "file": "06-gym-exercise.txt",
+      "folder": "06-gym-exercise",
+      "prompt": "Name a gym exercise",
+      "answers": 71
+    },
+    {
+      "round": 7,
+      "file": "07-classic-french-dish.txt",
+      "folder": "07-classic-french-dish",
+      "prompt": "Name a classic French dish",
+      "answers": 59
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

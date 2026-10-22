@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an extra that airlines charge for",
+  "category": "Work, Money & Society",
+  "round": 7,
+  "answers": 111,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 50,
+    "rare": 30,
+    "schooler": 22,
+    "plankton": 8
+  }
+}

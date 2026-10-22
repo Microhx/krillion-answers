@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country with an official state religion",
+  "category": "Country / Geography / Places",
+  "round": 7,
+  "answers": 44,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 17,
+    "rare": 14,
+    "schooler": 9,
+    "plankton": 3
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a sports movie",
+  "category": "People & Entertainment",
+  "round": 6,
+  "answers": 961,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 856,
+    "rare": 61,
+    "schooler": 32,
+    "tooclever": 2,
+    "plankton": 8
+  }
+}

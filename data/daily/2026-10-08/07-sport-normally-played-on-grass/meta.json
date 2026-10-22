@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a sport normally played on grass",
+  "category": "Sports & Games",
+  "round": 7,
+  "answers": 374,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 311,
+    "rare": 45,
+    "schooler": 11,
+    "plankton": 5
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Netflix original series",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 1245,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 973,
+    "rare": 233,
+    "schooler": 28,
+    "tooclever": 1,
+    "plankton": 8
+  }
+}

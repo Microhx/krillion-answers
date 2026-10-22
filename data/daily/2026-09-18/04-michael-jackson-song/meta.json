@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a Michael Jackson song",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 487,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 425,
+    "rare": 38,
+    "schooler": 17,
+    "plankton": 5
+  }
+}

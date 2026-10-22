@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a type of shot in a sport (like a free throw)",
+  "category": "Sports & Games",
+  "round": 2,
+  "answers": 608,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 473,
+    "rare": 103,
+    "schooler": 22,
+    "plankton": 8
+  }
+}

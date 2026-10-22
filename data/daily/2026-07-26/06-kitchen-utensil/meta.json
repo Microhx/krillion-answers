@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a kitchen utensil",
+  "category": "Objects, Tools & Materials",
+  "round": 6,
+  "answers": 57,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 18,
+    "rare": 18,
+    "schooler": 12,
+    "tooclever": 1,
+    "plankton": 7
+  }
+}

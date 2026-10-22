@@ -1,0 +1,64 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-31",
+  "rounds": 7,
+  "answers": 1047,
+  "categories": {
+    "Country / Geography / Places": 2,
+    "Food & Drink": 2,
+    "People & Entertainment": 2,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-national-capital-that-is-not-its-country-s-largest-city.txt",
+      "folder": "01-national-capital-that-is-not-its-country-s-largest-city",
+      "prompt": "Name a national capital that is not its country's largest city",
+      "answers": 45
+    },
+    {
+      "round": 2,
+      "file": "02-vegetable-culinarily-and-technically.txt",
+      "folder": "02-vegetable-culinarily-and-technically",
+      "prompt": "Name a vegetable (culinarily and technically)",
+      "answers": 261
+    },
+    {
+      "round": 3,
+      "file": "03-food-served-on-a-stick.txt",
+      "folder": "03-food-served-on-a-stick",
+      "prompt": "Name a food served on a stick",
+      "answers": 77
+    },
+    {
+      "round": 4,
+      "file": "04-fictional-robot.txt",
+      "folder": "04-fictional-robot",
+      "prompt": "Name a fictional robot",
+      "answers": 210
+    },
+    {
+      "round": 5,
+      "file": "05-ancient-greek-philosopher.txt",
+      "folder": "05-ancient-greek-philosopher",
+      "prompt": "Name an ancient Greek philosopher",
+      "answers": 357
+    },
+    {
+      "round": 6,
+      "file": "06-sport-played-over-a-net.txt",
+      "folder": "06-sport-played-over-a-net",
+      "prompt": "Name a sport played over a net",
+      "answers": 53
+    },
+    {
+      "round": 7,
+      "file": "07-country-with-an-official-state-religion.txt",
+      "folder": "07-country-with-an-official-state-religion",
+      "prompt": "Name a country with an official state religion",
+      "answers": 44
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

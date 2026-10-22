@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-27",
+  "rounds": 7,
+  "answers": 1295,
+  "categories": {
+    "Food & Drink": 2,
+    "Brands / Companies / Apps": 1,
+    "Words, Language & Numbers": 2,
+    "Science, Space & Tech": 1,
+    "Animals & Nature": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-berry.txt",
+      "folder": "01-berry",
+      "prompt": "Name a berry",
+      "answers": 104
+    },
+    {
+      "round": 2,
+      "file": "02-airline.txt",
+      "folder": "02-airline",
+      "prompt": "Name an airline",
+      "answers": 207
+    },
+    {
+      "round": 3,
+      "file": "03-doughnut-chain.txt",
+      "folder": "03-doughnut-chain",
+      "prompt": "Name a doughnut chain",
+      "answers": 139
+    },
+    {
+      "round": 4,
+      "file": "04-language-written-in-the-latin-alphabet.txt",
+      "folder": "04-language-written-in-the-latin-alphabet",
+      "prompt": "Name a language written in the Latin alphabet",
+      "answers": 215
+    },
+    {
+      "round": 5,
+      "file": "05-computer-operating-system.txt",
+      "folder": "05-computer-operating-system",
+      "prompt": "Name a computer operating system",
+      "answers": 238
+    },
+    {
+      "round": 6,
+      "file": "06-animal-that-lives-in-groups.txt",
+      "folder": "06-animal-that-lives-in-groups",
+      "prompt": "Name an animal that lives in groups",
+      "answers": 188
+    },
+    {
+      "round": 7,
+      "file": "07-nursery-rhyme.txt",
+      "folder": "07-nursery-rhyme",
+      "prompt": "Name a nursery rhyme",
+      "answers": 204
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

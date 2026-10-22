@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a Middle Eastern dish",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 841,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 803,
+    "rare": 22,
+    "schooler": 11,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a river in the Americas",
+  "category": "Country / Geography / Places",
+  "round": 2,
+  "answers": 84,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 36,
+    "rare": 34,
+    "schooler": 10,
+    "tooclever": 1,
+    "plankton": 2
+  }
+}

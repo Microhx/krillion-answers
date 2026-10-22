@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a city with more than 10 million people in its metro area",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 152,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 102,
+    "rare": 30,
+    "schooler": 9,
+    "plankton": 9
+  }
+}

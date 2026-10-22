@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a university in the US or UK",
+  "category": "Country / Geography / Places",
+  "round": 4,
+  "answers": 3123,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 2805,
+    "rare": 243,
+    "schooler": 65,
+    "plankton": 8
+  }
+}

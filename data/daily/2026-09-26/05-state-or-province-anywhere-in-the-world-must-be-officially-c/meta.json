@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a state or province anywhere in the world (must be officially called a state or province)",
+  "category": "Country / Geography / Places",
+  "round": 5,
+  "answers": 2320,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 2171,
+    "rare": 95,
+    "schooler": 46,
+    "plankton": 6
+  }
+}

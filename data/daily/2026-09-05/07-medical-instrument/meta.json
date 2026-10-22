@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a medical instrument",
+  "category": "Body, Health & Medicine",
+  "round": 7,
+  "answers": 323,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 226,
+    "rare": 64,
+    "schooler": 25,
+    "plankton": 6
+  }
+}

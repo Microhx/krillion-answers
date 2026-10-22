@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a penguin species",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 20,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 4,
+    "rare": 3,
+    "schooler": 8,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

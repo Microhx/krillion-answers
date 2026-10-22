@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-25",
+  "rounds": 7,
+  "answers": 4098,
+  "categories": {
+    "Country / Geography / Places": 3,
+    "Words, Language & Numbers": 1,
+    "Sports & Games": 1,
+    "Objects, Tools & Materials": 1,
+    "Work, Money & Society": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-with-three-syllables-english-pronunciation.txt",
+      "folder": "01-country-with-three-syllables-english-pronunciation",
+      "prompt": "Name a country with three syllables (English pronunciation)",
+      "answers": 83
+    },
+    {
+      "round": 2,
+      "file": "02-country-without-the-letter-a-in-its-name.txt",
+      "folder": "02-country-without-the-letter-a-in-its-name",
+      "prompt": "Name a country without the letter A in its name",
+      "answers": 31
+    },
+    {
+      "round": 3,
+      "file": "03-most-widely-spoken-language-of-any-african-country.txt",
+      "folder": "03-most-widely-spoken-language-of-any-african-country",
+      "prompt": "Name the most widely spoken language of any African country",
+      "answers": 35
+    },
+    {
+      "round": 4,
+      "file": "04-video-game-that-includes-mario.txt",
+      "folder": "04-video-game-that-includes-mario",
+      "prompt": "Name a video game that includes Mario",
+      "answers": 256
+    },
+    {
+      "round": 5,
+      "file": "05-international-airport-no-airport-codes.txt",
+      "folder": "05-international-airport-no-airport-codes",
+      "prompt": "Name an international airport (no airport codes)",
+      "answers": 2025
+    },
+    {
+      "round": 6,
+      "file": "06-garden-tool.txt",
+      "folder": "06-garden-tool",
+      "prompt": "Name a garden tool",
+      "answers": 167
+    },
+    {
+      "round": 7,
+      "file": "07-stock-trading-term.txt",
+      "folder": "07-stock-trading-term",
+      "prompt": "Name a stock trading term",
+      "answers": 1501
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

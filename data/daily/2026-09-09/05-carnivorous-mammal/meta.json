@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a carnivorous mammal",
+  "category": "Animals & Nature",
+  "round": 5,
+  "answers": 1439,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 1334,
+    "rare": 74,
+    "schooler": 22,
+    "plankton": 7
+  }
+}

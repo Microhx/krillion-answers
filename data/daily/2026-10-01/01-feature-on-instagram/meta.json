@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a feature on Instagram",
+  "category": "Brands / Companies / Apps",
+  "round": 1,
+  "answers": 470,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 345,
+    "rare": 84,
+    "schooler": 29,
+    "plankton": 10
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a country music artist",
+  "category": "People & Entertainment",
+  "round": 5,
+  "answers": 253,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 162,
+    "rare": 50,
+    "schooler": 28,
+    "tooclever": 3,
+    "plankton": 8
+  }
+}

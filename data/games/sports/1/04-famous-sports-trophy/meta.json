@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a famous sports trophy",
+  "category": "Sports & Games",
+  "round": 4,
+  "answers": 42,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 14,
+    "rare": 15,
+    "schooler": 8,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

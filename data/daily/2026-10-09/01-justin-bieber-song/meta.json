@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a Justin Bieber song",
+  "category": "People & Entertainment",
+  "round": 1,
+  "answers": 252,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 194,
+    "rare": 30,
+    "schooler": 23,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a rapper with more than 500k monthly Spotify listeners",
+  "category": "People & Entertainment",
+  "round": 7,
+  "answers": 3667,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 3045,
+    "rare": 534,
+    "schooler": 74,
+    "plankton": 13
+  }
+}

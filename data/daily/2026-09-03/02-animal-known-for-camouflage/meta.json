@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an animal known for camouflage",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 166,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 120,
+    "rare": 31,
+    "schooler": 12,
+    "plankton": 2
+  }
+}

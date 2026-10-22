@@ -1,0 +1,12 @@
+{
+  "prompt": "Name a country whose name ends in the letter O",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 12,
+  "tiers": {
+    "deepcut": 3,
+    "rare": 5,
+    "schooler": 3,
+    "plankton": 1
+  }
+}

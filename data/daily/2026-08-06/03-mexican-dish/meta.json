@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Mexican dish",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 60,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 21,
+    "rare": 18,
+    "schooler": 11,
+    "tooclever": 3,
+    "plankton": 6
+  }
+}

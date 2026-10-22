@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a way to prepare eggs",
+  "category": "Food & Drink",
+  "round": 1,
+  "answers": 259,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 199,
+    "rare": 36,
+    "schooler": 12,
+    "plankton": 10
+  }
+}

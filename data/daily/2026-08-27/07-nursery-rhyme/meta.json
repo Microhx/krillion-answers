@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a nursery rhyme",
+  "category": "Words, Language & Numbers",
+  "round": 7,
+  "answers": 204,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 137,
+    "rare": 38,
+    "schooler": 21,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

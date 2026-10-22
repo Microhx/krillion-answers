@@ -1,0 +1,12 @@
+{
+  "prompt": "Name a country with a four-letter English name",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 11,
+  "tiers": {
+    "deepcut": 4,
+    "rare": 3,
+    "schooler": 2,
+    "plankton": 2
+  }
+}

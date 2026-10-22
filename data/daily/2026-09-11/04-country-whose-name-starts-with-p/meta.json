@@ -1,0 +1,12 @@
+{
+  "prompt": "Name a country whose name starts with P",
+  "category": "Country / Geography / Places",
+  "round": 4,
+  "answers": 10,
+  "tiers": {
+    "deepcut": 1,
+    "rare": 3,
+    "schooler": 3,
+    "plankton": 3
+  }
+}

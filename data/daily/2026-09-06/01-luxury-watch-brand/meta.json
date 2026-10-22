@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a luxury watch brand",
+  "category": "Brands / Companies / Apps",
+  "round": 1,
+  "answers": 507,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 461,
+    "rare": 28,
+    "schooler": 15,
+    "plankton": 1
+  }
+}

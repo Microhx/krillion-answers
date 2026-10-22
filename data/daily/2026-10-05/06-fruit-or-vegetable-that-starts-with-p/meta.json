@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a fruit or vegetable that starts with P",
+  "category": "Food & Drink",
+  "round": 6,
+  "answers": 972,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 910,
+    "rare": 44,
+    "schooler": 7,
+    "plankton": 10
+  }
+}

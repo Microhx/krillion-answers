@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an article of clothing (jewelry, glasses and bags don't count)",
+  "category": "Objects, Tools & Materials",
+  "round": 5,
+  "answers": 2276,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 1283,
+    "rare": 680,
+    "schooler": 295,
+    "plankton": 16
+  }
+}

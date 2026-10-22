@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an extreme sport",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 94,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 42,
+    "rare": 27,
+    "schooler": 17,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

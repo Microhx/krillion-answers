@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a sport played over a net",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 53,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 36,
+    "rare": 7,
+    "schooler": 6,
+    "plankton": 3
+  }
+}

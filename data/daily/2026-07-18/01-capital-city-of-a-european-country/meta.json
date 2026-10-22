@@ -1,0 +1,14 @@
+{
+  "prompt": "Name the capital city of a European country",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 51,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 11,
+    "rare": 15,
+    "schooler": 17,
+    "tooclever": 2,
+    "plankton": 5
+  }
+}

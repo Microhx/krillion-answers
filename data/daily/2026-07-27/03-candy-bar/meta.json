@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a candy bar",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 61,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 26,
+    "rare": 19,
+    "schooler": 10,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

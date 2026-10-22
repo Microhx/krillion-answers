@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a word for a huge number (million or bigger)",
+  "category": "Science, Space & Tech",
+  "round": 4,
+  "answers": 212,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 199,
+    "rare": 5,
+    "schooler": 3,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

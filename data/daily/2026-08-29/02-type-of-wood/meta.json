@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a type of wood",
+  "category": "Objects, Tools & Materials",
+  "round": 2,
+  "answers": 152,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 114,
+    "rare": 25,
+    "schooler": 8,
+    "tooclever": 1,
+    "plankton": 2
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a whale species",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 39,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 20,
+    "rare": 6,
+    "schooler": 7,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

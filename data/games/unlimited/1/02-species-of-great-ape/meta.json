@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a species of great ape",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 18,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 12,
+    "rare": 1,
+    "schooler": 1,
+    "tooclever": 1,
+    "plankton": 2
+  }
+}

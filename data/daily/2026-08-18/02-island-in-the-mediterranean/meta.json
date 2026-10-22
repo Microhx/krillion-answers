@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an island in the Mediterranean",
+  "category": "Country / Geography / Places",
+  "round": 2,
+  "answers": 134,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 81,
+    "rare": 33,
+    "schooler": 14,
+    "tooclever": 2,
+    "plankton": 3
+  }
+}

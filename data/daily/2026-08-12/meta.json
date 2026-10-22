@@ -1,0 +1,67 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-12",
+  "rounds": 7,
+  "answers": 563,
+  "categories": {
+    "Words, Language & Numbers": 1,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 1,
+    "Science, Space & Tech": 1,
+    "Work, Money & Society": 1,
+    "Country / Geography / Places": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-language-with-more-than-50-million-total-speakers.txt",
+      "folder": "01-language-with-more-than-50-million-total-speakers",
+      "prompt": "Name a language with more than 50 million total speakers",
+      "answers": 37
+    },
+    {
+      "round": 2,
+      "file": "02-nocturnal-animal.txt",
+      "folder": "02-nocturnal-animal",
+      "prompt": "Name a nocturnal animal",
+      "answers": 107
+    },
+    {
+      "round": 3,
+      "file": "03-breakfast-food-or-drink.txt",
+      "folder": "03-breakfast-food-or-drink",
+      "prompt": "Name a breakfast food or drink",
+      "answers": 105
+    },
+    {
+      "round": 4,
+      "file": "04-member-of-the-avengers.txt",
+      "folder": "04-member-of-the-avengers",
+      "prompt": "Name a member of the Avengers",
+      "answers": 87
+    },
+    {
+      "round": 5,
+      "file": "05-branch-of-science-ending-in-ology.txt",
+      "folder": "05-branch-of-science-ending-in-ology",
+      "prompt": "Name a branch of science ending in -ology",
+      "answers": 95
+    },
+    {
+      "round": 6,
+      "file": "06-religion-with-more-than-one-million-followers.txt",
+      "folder": "06-religion-with-more-than-one-million-followers",
+      "prompt": "Name a religion with more than one million followers",
+      "answers": 58
+    },
+    {
+      "round": 7,
+      "file": "07-country-whose-name-ends-in-the-letter-a.txt",
+      "folder": "07-country-whose-name-ends-in-the-letter-a",
+      "prompt": "Name a country whose name ends in the letter A",
+      "answers": 74
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

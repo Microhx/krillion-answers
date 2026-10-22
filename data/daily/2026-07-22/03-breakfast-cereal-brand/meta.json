@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a breakfast cereal brand",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 65,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 19,
+    "rare": 27,
+    "schooler": 12,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

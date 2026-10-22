@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an animal whose name is exactly four letters long",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 467,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 384,
+    "rare": 44,
+    "schooler": 28,
+    "plankton": 10
+  }
+}

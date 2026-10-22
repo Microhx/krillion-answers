@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a cocktail",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 94,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 25,
+    "rare": 42,
+    "schooler": 19,
+    "tooclever": 2,
+    "plankton": 5
+  }
+}

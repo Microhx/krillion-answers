@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-24",
+  "rounds": 7,
+  "answers": 11274,
+  "categories": {
+    "Country / Geography / Places": 2,
+    "Objects, Tools & Materials": 1,
+    "People & Entertainment": 1,
+    "Animals & Nature": 1,
+    "Brands / Companies / Apps": 2
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-us-city-with-over-100-000-people.txt",
+      "folder": "01-us-city-with-over-100-000-people",
+      "prompt": "Name a US city with over 100,000 people",
+      "answers": 348
+    },
+    {
+      "round": 2,
+      "file": "02-country-that-borders-china.txt",
+      "folder": "02-country-that-borders-china",
+      "prompt": "Name a country that borders China",
+      "answers": 14
+    },
+    {
+      "round": 3,
+      "file": "03-kitchen-appliance-something-powered.txt",
+      "folder": "03-kitchen-appliance-something-powered",
+      "prompt": "Name a kitchen appliance (something powered)",
+      "answers": 151
+    },
+    {
+      "round": 4,
+      "file": "04-villain-from-a-marvel-cinematic-universe-movie.txt",
+      "folder": "04-villain-from-a-marvel-cinematic-universe-movie",
+      "prompt": "Name a villain from a Marvel Cinematic Universe movie",
+      "answers": 222
+    },
+    {
+      "round": 5,
+      "file": "05-animal-without-the-letter-a-in-its-name-breeds-count-too.txt",
+      "folder": "05-animal-without-the-letter-a-in-its-name-breeds-count-too",
+      "prompt": "Name an animal without the letter A in its name (breeds count too)",
+      "answers": 9373
+    },
+    {
+      "round": 6,
+      "file": "06-mobile-phone-brand.txt",
+      "folder": "06-mobile-phone-brand",
+      "prompt": "Name a mobile phone brand",
+      "answers": 581
+    },
+    {
+      "round": 7,
+      "file": "07-platform-people-use-to-listen-to-music-apps-and-services-not.txt",
+      "folder": "07-platform-people-use-to-listen-to-music-apps-and-services-not",
+      "prompt": "Name a platform people use to listen to music (apps and services, not devices)",
+      "answers": 585
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

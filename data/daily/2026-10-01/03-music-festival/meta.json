@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a music festival",
+  "category": "People & Entertainment",
+  "round": 3,
+  "answers": 17519,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 17377,
+    "rare": 126,
+    "schooler": 11,
+    "plankton": 4
+  }
+}

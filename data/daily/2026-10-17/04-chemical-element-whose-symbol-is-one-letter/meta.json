@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a chemical element whose symbol is one letter",
+  "category": "Science, Space & Tech",
+  "round": 4,
+  "answers": 14,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2,
+    "rare": 4,
+    "schooler": 3,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "krillion-answers",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Open dataset of Krillion Daily Dive prompts and accepted answers, derived from public reveal data.",
+  "license": "MIT",
+  "scripts": {
+    "export": "node scripts/export-from-d1.mjs",
+    "export:quips": "node scripts/export-from-d1.mjs --with-quips",
+    "index": "node scripts/build-readme-index.mjs",
+    "verify": "node scripts/verify.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "wrangler": "^4.33.1"
+  }
+}

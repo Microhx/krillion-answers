@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a US national park",
+  "category": "Country / Geography / Places",
+  "round": 7,
+  "answers": 63,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 31,
+    "rare": 13,
+    "schooler": 14,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

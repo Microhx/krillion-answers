@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",
+  "category": "Body, Health & Medicine",
+  "round": 3,
+  "answers": 379,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 290,
+    "rare": 76,
+    "schooler": 8,
+    "plankton": 4
+  }
+}

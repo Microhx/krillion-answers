@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a type of chair",
+  "category": "Objects, Tools & Materials",
+  "round": 3,
+  "answers": 1017,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 924,
+    "rare": 62,
+    "schooler": 25,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

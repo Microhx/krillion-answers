@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a country in the Middle East",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 17,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2,
+    "rare": 1,
+    "schooler": 8,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

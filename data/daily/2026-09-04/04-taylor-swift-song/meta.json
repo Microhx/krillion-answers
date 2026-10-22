@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a Taylor Swift song",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 384,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 237,
+    "rare": 103,
+    "schooler": 37,
+    "plankton": 6
+  }
+}

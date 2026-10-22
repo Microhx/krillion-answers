@@ -1,0 +1,64 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-15",
+  "rounds": 7,
+  "answers": 790,
+  "categories": {
+    "Objects, Tools & Materials": 2,
+    "Food & Drink": 3,
+    "People & Entertainment": 1,
+    "Country / Geography / Places": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-name-something-you-drink-out-of.txt",
+      "folder": "01-name-something-you-drink-out-of",
+      "prompt": "Name something you drink out of",
+      "answers": 148
+    },
+    {
+      "round": 2,
+      "file": "02-fruit-with-a-core.txt",
+      "folder": "02-fruit-with-a-core",
+      "prompt": "Name a fruit with a core",
+      "answers": 31
+    },
+    {
+      "round": 3,
+      "file": "03-leafy-green.txt",
+      "folder": "03-leafy-green",
+      "prompt": "Name a leafy green",
+      "answers": 169
+    },
+    {
+      "round": 4,
+      "file": "04-film-directed-by-wes-anderson.txt",
+      "folder": "04-film-directed-by-wes-anderson",
+      "prompt": "Name a film directed by Wes Anderson",
+      "answers": 23
+    },
+    {
+      "round": 5,
+      "file": "05-name-something-in-a-first-aid-kit.txt",
+      "folder": "05-name-something-in-a-first-aid-kit",
+      "prompt": "Name something in a first aid kit",
+      "answers": 104
+    },
+    {
+      "round": 6,
+      "file": "06-type-of-diet.txt",
+      "folder": "06-type-of-diet",
+      "prompt": "Name a type of diet",
+      "answers": 289
+    },
+    {
+      "round": 7,
+      "file": "07-country-with-an-animal-on-its-flag.txt",
+      "folder": "07-country-with-an-animal-on-its-flag",
+      "prompt": "Name a country with an animal on its flag",
+      "answers": 26
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a vehicle that doesn't travel on wheels",
+  "category": "Objects, Tools & Materials",
+  "round": 4,
+  "answers": 1186,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 1021,
+    "rare": 132,
+    "schooler": 27,
+    "plankton": 4
+  }
+}

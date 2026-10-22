@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a country or territory with the Union Jack on its flag",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 20,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 9,
+    "rare": 4,
+    "schooler": 2,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

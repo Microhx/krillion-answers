@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a noodle dish",
+  "category": "Food & Drink",
+  "round": 1,
+  "answers": 298,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 182,
+    "rare": 86,
+    "schooler": 24,
+    "plankton": 5
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-12",
+  "rounds": 7,
+  "answers": 3364,
+  "categories": {
+    "Country / Geography / Places": 2,
+    "Brands / Companies / Apps": 1,
+    "Science, Space & Tech": 2,
+    "Objects, Tools & Materials": 1,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-whose-name-starts-with-i.txt",
+      "folder": "01-country-whose-name-starts-with-i",
+      "prompt": "Name a country whose name starts with I",
+      "answers": 9
+    },
+    {
+      "round": 2,
+      "file": "02-delivery-service.txt",
+      "folder": "02-delivery-service",
+      "prompt": "Name a delivery service",
+      "answers": 1225
+    },
+    {
+      "round": 3,
+      "file": "03-country-in-eastern-europe.txt",
+      "folder": "03-country-in-eastern-europe",
+      "prompt": "Name a country in Eastern Europe",
+      "answers": 21
+    },
+    {
+      "round": 4,
+      "file": "04-word-for-a-huge-number-million-or-bigger.txt",
+      "folder": "04-word-for-a-huge-number-million-or-bigger",
+      "prompt": "Name a word for a huge number (million or bigger)",
+      "answers": 212
+    },
+    {
+      "round": 5,
+      "file": "05-tool-you-would-find-in-a-toolbox.txt",
+      "folder": "05-tool-you-would-find-in-a-toolbox",
+      "prompt": "Name a tool you would find in a toolbox",
+      "answers": 627
+    },
+    {
+      "round": 6,
+      "file": "06-chemical-element-lighter-than-iron.txt",
+      "folder": "06-chemical-element-lighter-than-iron",
+      "prompt": "Name a chemical element lighter than iron",
+      "answers": 25
+    },
+    {
+      "round": 7,
+      "file": "07-sport-played-without-a-ball.txt",
+      "folder": "07-sport-played-without-a-ball",
+      "prompt": "Name a sport played without a ball",
+      "answers": 1245
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

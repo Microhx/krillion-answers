@@ -1,0 +1,13 @@
+{
+  "prompt": "Name another English word for a nose (any creature's counts)",
+  "category": "Words, Language & Numbers",
+  "round": 5,
+  "answers": 50,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 26,
+    "rare": 11,
+    "schooler": 8,
+    "plankton": 3
+  }
+}

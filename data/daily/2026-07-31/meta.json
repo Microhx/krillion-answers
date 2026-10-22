@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-07-31",
+  "rounds": 7,
+  "answers": 499,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "Sports & Games": 2,
+    "Body, Health & Medicine": 1,
+    "Objects, Tools & Materials": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-strait-a-narrow-sea-passage-between-two-landmasses.txt",
+      "folder": "01-strait-a-narrow-sea-passage-between-two-landmasses",
+      "prompt": "Name a strait (a narrow sea passage between two landmasses)",
+      "answers": 58
+    },
+    {
+      "round": 2,
+      "file": "02-creature-that-lives-in-the-deep-sea.txt",
+      "folder": "02-creature-that-lives-in-the-deep-sea",
+      "prompt": "Name a creature that lives in the deep sea",
+      "answers": 53
+    },
+    {
+      "round": 3,
+      "file": "03-variety-of-chili-pepper.txt",
+      "folder": "03-variety-of-chili-pepper",
+      "prompt": "Name a variety of chili pepper",
+      "answers": 50
+    },
+    {
+      "round": 4,
+      "file": "04-pok-mon-from-the-original-151.txt",
+      "folder": "04-pok-mon-from-the-original-151",
+      "prompt": "Name a Pokémon from the original 151",
+      "answers": 151
+    },
+    {
+      "round": 5,
+      "file": "05-phobia-its-formal-name-like-arachnophobia.txt",
+      "folder": "05-phobia-its-formal-name-like-arachnophobia",
+      "prompt": "Name a phobia (its formal name, like 'arachnophobia')",
+      "answers": 71
+    },
+    {
+      "round": 6,
+      "file": "06-world-chess-champion.txt",
+      "folder": "06-world-chess-champion",
+      "prompt": "Name a world chess champion",
+      "answers": 29
+    },
+    {
+      "round": 7,
+      "file": "07-famous-ship-real-or-fictional.txt",
+      "folder": "07-famous-ship-real-or-fictional",
+      "prompt": "Name a famous ship (real or fictional)",
+      "answers": 87
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

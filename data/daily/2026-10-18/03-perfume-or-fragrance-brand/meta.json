@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a perfume or fragrance brand",
+  "category": "Brands / Companies / Apps",
+  "round": 3,
+  "answers": 17027,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 16694,
+    "rare": 284,
+    "schooler": 43,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an animal that has an X in its name",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 468,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 435,
+    "rare": 18,
+    "schooler": 9,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

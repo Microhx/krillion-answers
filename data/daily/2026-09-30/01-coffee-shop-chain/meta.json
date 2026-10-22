@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a coffee shop chain",
+  "category": "Food & Drink",
+  "round": 1,
+  "answers": 1659,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1606,
+    "rare": 41,
+    "schooler": 9,
+    "plankton": 2
+  }
+}

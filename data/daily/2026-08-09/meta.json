@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-09",
+  "rounds": 7,
+  "answers": 336,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 2,
+    "Body, Health & Medicine": 1,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-world-capital-city-south-of-the-equator.txt",
+      "folder": "01-world-capital-city-south-of-the-equator",
+      "prompt": "Name a world capital city south of the equator",
+      "answers": 44
+    },
+    {
+      "round": 2,
+      "file": "02-lizard-species.txt",
+      "folder": "02-lizard-species",
+      "prompt": "Name a lizard species",
+      "answers": 46
+    },
+    {
+      "round": 3,
+      "file": "03-type-of-pastry-or-doughnut.txt",
+      "folder": "03-type-of-pastry-or-doughnut",
+      "prompt": "Name a type of pastry or doughnut",
+      "answers": 67
+    },
+    {
+      "round": 4,
+      "file": "04-grammy-album-of-the-year-winner.txt",
+      "folder": "04-grammy-album-of-the-year-winner",
+      "prompt": "Name a Grammy Album of the Year winner",
+      "answers": 68
+    },
+    {
+      "round": 5,
+      "file": "05-human-hormone.txt",
+      "folder": "05-human-hormone",
+      "prompt": "Name a human hormone",
+      "answers": 49
+    },
+    {
+      "round": 6,
+      "file": "06-sport-or-discipline-ever-contested-or-demonstrated-at-the-wi.txt",
+      "folder": "06-sport-or-discipline-ever-contested-or-demonstrated-at-the-wi",
+      "prompt": "Name a sport or discipline ever contested or demonstrated at the Winter Olympics",
+      "answers": 38
+    },
+    {
+      "round": 7,
+      "file": "07-2026-movie-that-had-grossed-at-least-200-million-worldwide-b.txt",
+      "folder": "07-2026-movie-that-had-grossed-at-least-200-million-worldwide-b",
+      "prompt": "Name a 2026 movie that had grossed at least $200 million worldwide by August 8",
+      "answers": 24
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

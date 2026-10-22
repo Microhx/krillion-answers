@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a TV genre",
+  "category": "People & Entertainment",
+  "round": 1,
+  "answers": 364,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 216,
+    "rare": 102,
+    "schooler": 33,
+    "plankton": 11
+  }
+}

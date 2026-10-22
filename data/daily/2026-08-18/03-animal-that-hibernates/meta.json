@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an animal that hibernates",
+  "category": "Animals & Nature",
+  "round": 3,
+  "answers": 34,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 9,
+    "rare": 14,
+    "schooler": 6,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "prompt": "Name someone with over 100 million Instagram followers",
+  "category": "People & Entertainment",
+  "round": 1,
+  "answers": 34,
+  "tiers": {
+    "krillion": 1,
+    "rare": 10,
+    "schooler": 14,
+    "plankton": 9
+  }
+}

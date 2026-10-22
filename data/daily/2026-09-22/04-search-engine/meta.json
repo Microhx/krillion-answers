@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a search engine",
+  "category": "Brands / Companies / Apps",
+  "round": 4,
+  "answers": 584,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 555,
+    "rare": 22,
+    "schooler": 4,
+    "plankton": 2
+  }
+}

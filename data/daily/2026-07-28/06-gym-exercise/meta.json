@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a gym exercise",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 71,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 25,
+    "rare": 22,
+    "schooler": 18,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

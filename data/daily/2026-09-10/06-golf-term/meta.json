@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a golf term",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 855,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 702,
+    "rare": 105,
+    "schooler": 34,
+    "plankton": 13
+  }
+}

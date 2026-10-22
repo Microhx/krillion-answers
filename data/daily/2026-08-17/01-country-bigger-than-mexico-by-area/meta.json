@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country bigger than Mexico (by area)",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 12,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2,
+    "rare": 2,
+    "schooler": 3,
+    "plankton": 4
+  }
+}

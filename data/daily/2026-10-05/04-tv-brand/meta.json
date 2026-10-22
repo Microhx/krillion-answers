@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a TV brand",
+  "category": "Brands / Companies / Apps",
+  "round": 4,
+  "answers": 1187,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 1126,
+    "rare": 40,
+    "schooler": 16,
+    "plankton": 3
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-26",
+  "rounds": 7,
+  "answers": 4710,
+  "categories": {
+    "Brands / Companies / Apps": 2,
+    "Objects, Tools & Materials": 2,
+    "Words, Language & Numbers": 1,
+    "Country / Geography / Places": 2
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-app-that-comes-preinstalled-on-an-iphone.txt",
+      "folder": "01-app-that-comes-preinstalled-on-an-iphone",
+      "prompt": "Name an app that comes preinstalled on an iPhone",
+      "answers": 59
+    },
+    {
+      "round": 2,
+      "file": "02-deodorant-brand.txt",
+      "folder": "02-deodorant-brand",
+      "prompt": "Name a deodorant brand",
+      "answers": 723
+    },
+    {
+      "round": 3,
+      "file": "03-name-something-with-wheels-that-isn-t-a-vehicle.txt",
+      "folder": "03-name-something-with-wheels-that-isn-t-a-vehicle",
+      "prompt": "Name something with wheels that isn't a vehicle",
+      "answers": 335
+    },
+    {
+      "round": 4,
+      "file": "04-shade-of-red-pinks-don-t-count.txt",
+      "folder": "04-shade-of-red-pinks-don-t-count",
+      "prompt": "Name a shade of red (pinks don't count)",
+      "answers": 444
+    },
+    {
+      "round": 5,
+      "file": "05-state-or-province-anywhere-in-the-world-must-be-officially-c.txt",
+      "folder": "05-state-or-province-anywhere-in-the-world-must-be-officially-c",
+      "prompt": "Name a state or province anywhere in the world (must be officially called a state or province)",
+      "answers": 2320
+    },
+    {
+      "round": 6,
+      "file": "06-real-life-melee-weapon.txt",
+      "folder": "06-real-life-melee-weapon",
+      "prompt": "Name a real-life melee weapon",
+      "answers": 602
+    },
+    {
+      "round": 7,
+      "file": "07-city-with-a-metro-system.txt",
+      "folder": "07-city-with-a-metro-system",
+      "prompt": "Name a city with a metro system",
+      "answers": 227
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

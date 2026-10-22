@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an office supply",
+  "category": "Objects, Tools & Materials",
+  "round": 5,
+  "answers": 335,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 76,
+    "rare": 195,
+    "schooler": 55,
+    "plankton": 8
+  }
+}

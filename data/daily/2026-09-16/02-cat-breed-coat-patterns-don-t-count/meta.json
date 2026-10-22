@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a cat breed (coat patterns don't count)",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 135,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 91,
+    "rare": 32,
+    "schooler": 7,
+    "plankton": 4
+  }
+}

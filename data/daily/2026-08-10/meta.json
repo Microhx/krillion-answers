@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-10",
+  "rounds": 7,
+  "answers": 256,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 3,
+    "Science, Space & Tech": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-that-shares-a-land-or-maritime-border-with-russia.txt",
+      "folder": "01-country-that-shares-a-land-or-maritime-border-with-russia",
+      "prompt": "Name a country that shares a land or maritime border with Russia",
+      "answers": 16
+    },
+    {
+      "round": 2,
+      "file": "02-farm-animal.txt",
+      "folder": "02-farm-animal",
+      "prompt": "Name a farm animal",
+      "answers": 49
+    },
+    {
+      "round": 3,
+      "file": "03-rice-dish.txt",
+      "folder": "03-rice-dish",
+      "prompt": "Name a rice dish",
+      "answers": 50
+    },
+    {
+      "round": 4,
+      "file": "04-talk-show-host.txt",
+      "folder": "04-talk-show-host",
+      "prompt": "Name a talk show host",
+      "answers": 62
+    },
+    {
+      "round": 5,
+      "file": "05-web-browser.txt",
+      "folder": "05-web-browser",
+      "prompt": "Name a web browser",
+      "answers": 46
+    },
+    {
+      "round": 6,
+      "file": "06-first-billed-actor-in-a-christopher-nolan-directed-feature-f.txt",
+      "folder": "06-first-billed-actor-in-a-christopher-nolan-directed-feature-f",
+      "prompt": "Name a first-billed actor in a Christopher Nolan-directed feature film",
+      "answers": 11
+    },
+    {
+      "round": 7,
+      "file": "07-movie-james-cameron-directed-wrote-or-produced.txt",
+      "folder": "07-movie-james-cameron-directed-wrote-or-produced",
+      "prompt": "Name a movie James Cameron directed, wrote, or produced",
+      "answers": 22
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a device made to blow air",
+  "category": "Objects, Tools & Materials",
+  "round": 4,
+  "answers": 337,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 238,
+    "rare": 85,
+    "schooler": 9,
+    "plankton": 4
+  }
+}

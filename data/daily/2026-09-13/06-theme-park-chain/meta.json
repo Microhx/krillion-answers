@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a theme park chain",
+  "category": "Brands / Companies / Apps",
+  "round": 6,
+  "answers": 104,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 67,
+    "rare": 27,
+    "schooler": 5,
+    "plankton": 4
+  }
+}

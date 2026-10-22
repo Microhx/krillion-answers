@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a fictional robot",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 210,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 116,
+    "rare": 72,
+    "schooler": 14,
+    "plankton": 6
+  }
+}

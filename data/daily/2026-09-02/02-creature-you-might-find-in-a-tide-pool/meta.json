@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a creature you might find in a tide pool",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 135,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 99,
+    "rare": 14,
+    "schooler": 17,
+    "plankton": 4
+  }
+}

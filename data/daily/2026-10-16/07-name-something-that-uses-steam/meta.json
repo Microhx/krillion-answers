@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something that uses steam",
+  "category": "Objects, Tools & Materials",
+  "round": 7,
+  "answers": 630,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 548,
+    "rare": 56,
+    "schooler": 20,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-04",
+  "rounds": 7,
+  "answers": 7052,
+  "categories": {
+    "People & Entertainment": 1,
+    "Brands / Companies / Apps": 2,
+    "Country / Geography / Places": 2,
+    "Body, Health & Medicine": 1,
+    "Work, Money & Society": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-youtuber-with-more-than-10-million-subscribers.txt",
+      "folder": "01-youtuber-with-more-than-10-million-subscribers",
+      "prompt": "Name a YouTuber with more than 10 million subscribers",
+      "answers": 2646
+    },
+    {
+      "round": 2,
+      "file": "02-gas-station-chain.txt",
+      "folder": "02-gas-station-chain",
+      "prompt": "Name a gas station chain",
+      "answers": 2850
+    },
+    {
+      "round": 3,
+      "file": "03-country-with-both-an-o-and-an-r-in-its-name.txt",
+      "folder": "03-country-with-both-an-o-and-an-r-in-its-name",
+      "prompt": "Name a country with both an O and an R in its name",
+      "answers": 37
+    },
+    {
+      "round": 4,
+      "file": "04-folder-in-an-email-inbox.txt",
+      "folder": "04-folder-in-an-email-inbox",
+      "prompt": "Name a folder in an email inbox",
+      "answers": 124
+    },
+    {
+      "round": 5,
+      "file": "05-name-something-listed-on-a-nutrition-facts-label.txt",
+      "folder": "05-name-something-listed-on-a-nutrition-facts-label",
+      "prompt": "Name something listed on a nutrition facts label",
+      "answers": 91
+    },
+    {
+      "round": 6,
+      "file": "06-country-larger-than-the-uk-by-area.txt",
+      "folder": "06-country-larger-than-the-uk-by-area",
+      "prompt": "Name a country larger than the UK by area",
+      "answers": 77
+    },
+    {
+      "round": 7,
+      "file": "07-religious-role-or-title-in-christianity-islam-buddhism-hindu.txt",
+      "folder": "07-religious-role-or-title-in-christianity-islam-buddhism-hindu",
+      "prompt": "Name a religious role or title in Christianity, Islam, Buddhism, Hinduism or Judaism",
+      "answers": 1227
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

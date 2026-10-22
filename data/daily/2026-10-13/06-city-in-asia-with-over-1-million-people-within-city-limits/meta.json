@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a city in Asia with over 1 million people within city limits",
+  "category": "Country / Geography / Places",
+  "round": 6,
+  "answers": 544,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 335,
+    "rare": 180,
+    "schooler": 20,
+    "plankton": 8
+  }
+}

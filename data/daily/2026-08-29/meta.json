@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-29",
+  "rounds": 7,
+  "answers": 1767,
+  "categories": {
+    "Food & Drink": 2,
+    "Objects, Tools & Materials": 2,
+    "Country / Geography / Places": 1,
+    "Brands / Companies / Apps": 1,
+    "People & Entertainment": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-fruit.txt",
+      "folder": "01-fruit",
+      "prompt": "Name a fruit",
+      "answers": 828
+    },
+    {
+      "round": 2,
+      "file": "02-type-of-wood.txt",
+      "folder": "02-type-of-wood",
+      "prompt": "Name a type of wood",
+      "answers": 152
+    },
+    {
+      "round": 3,
+      "file": "03-fermented-food-or-drink.txt",
+      "folder": "03-fermented-food-or-drink",
+      "prompt": "Name a fermented food or drink",
+      "answers": 108
+    },
+    {
+      "round": 4,
+      "file": "04-country-that-borders-more-than-five-other-countries.txt",
+      "folder": "04-country-that-borders-more-than-five-other-countries",
+      "prompt": "Name a country that borders more than five other countries",
+      "answers": 34
+    },
+    {
+      "round": 5,
+      "file": "05-microsoft-application.txt",
+      "folder": "05-microsoft-application",
+      "prompt": "Name a Microsoft application",
+      "answers": 336
+    },
+    {
+      "round": 6,
+      "file": "06-member-of-the-justice-league.txt",
+      "folder": "06-member-of-the-justice-league",
+      "prompt": "Name a member of the Justice League",
+      "answers": 133
+    },
+    {
+      "round": 7,
+      "file": "07-type-of-paper.txt",
+      "folder": "07-type-of-paper",
+      "prompt": "Name a type of paper",
+      "answers": 176
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

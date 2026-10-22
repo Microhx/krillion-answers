@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a professional sports league with at least 10 teams",
+  "category": "Sports & Games",
+  "round": 2,
+  "answers": 1317,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 1246,
+    "rare": 58,
+    "schooler": 6,
+    "plankton": 5
+  }
+}

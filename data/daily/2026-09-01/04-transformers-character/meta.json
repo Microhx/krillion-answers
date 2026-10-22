@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a Transformers character",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 984,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 908,
+    "rare": 60,
+    "schooler": 12,
+    "plankton": 3
+  }
+}

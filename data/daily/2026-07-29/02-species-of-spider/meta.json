@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a species of spider",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 50,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 21,
+    "rare": 12,
+    "schooler": 12,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

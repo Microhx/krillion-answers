@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an animal whose name starts with K",
+  "category": "Animals & Nature",
+  "round": 1,
+  "answers": 39,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 18,
+    "rare": 9,
+    "schooler": 7,
+    "tooclever": 2,
+    "plankton": 2
+  }
+}

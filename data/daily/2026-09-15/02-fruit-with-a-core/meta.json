@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a fruit with a core",
+  "category": "Food & Drink",
+  "round": 2,
+  "answers": 31,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 12,
+    "rare": 12,
+    "schooler": 2,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Studio Ghibli film",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 27,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 3,
+    "rare": 6,
+    "schooler": 11,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

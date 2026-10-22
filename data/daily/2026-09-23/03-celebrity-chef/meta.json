@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a celebrity chef",
+  "category": "People & Entertainment",
+  "round": 3,
+  "answers": 2104,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1996,
+    "rare": 90,
+    "schooler": 13,
+    "plankton": 4
+  }
+}

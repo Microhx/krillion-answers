@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an aquatic mammal",
+  "category": "Animals & Nature",
+  "round": 4,
+  "answers": 353,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 319,
+    "rare": 20,
+    "schooler": 8,
+    "plankton": 4
+  }
+}

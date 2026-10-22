@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a sacred text of Christianity, Islam, Judaism, Hinduism, or Buddhism",
+  "category": "Work, Money & Society",
+  "round": 2,
+  "answers": 978,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 914,
+    "rare": 50,
+    "schooler": 9,
+    "plankton": 3
+  }
+}

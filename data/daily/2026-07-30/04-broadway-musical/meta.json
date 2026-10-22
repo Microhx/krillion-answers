@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Broadway musical",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 130,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 36,
+    "rare": 38,
+    "schooler": 49,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

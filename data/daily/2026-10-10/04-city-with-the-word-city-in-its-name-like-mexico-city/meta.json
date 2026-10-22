@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a city with the word \"City\" in its name (like Mexico City)",
+  "category": "Country / Geography / Places",
+  "round": 4,
+  "answers": 842,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 768,
+    "rare": 55,
+    "schooler": 11,
+    "plankton": 6
+  }
+}

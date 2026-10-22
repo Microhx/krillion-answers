@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a type of structure built underground (man-made)",
+  "category": "Objects, Tools & Materials",
+  "round": 3,
+  "answers": 154,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 83,
+    "rare": 48,
+    "schooler": 15,
+    "plankton": 6
+  }
+}

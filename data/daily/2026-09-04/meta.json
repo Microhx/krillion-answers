@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-04",
+  "rounds": 7,
+  "answers": 2003,
+  "categories": {
+    "Country / Geography / Places": 2,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 1,
+    "Sports & Games": 1,
+    "Words, Language & Numbers": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-european-country.txt",
+      "folder": "01-european-country",
+      "prompt": "Name a European country",
+      "answers": 55
+    },
+    {
+      "round": 2,
+      "file": "02-living-mammal-native-to-africa.txt",
+      "folder": "02-living-mammal-native-to-africa",
+      "prompt": "Name a living mammal native to Africa",
+      "answers": 225
+    },
+    {
+      "round": 3,
+      "file": "03-american-fast-food-chain.txt",
+      "folder": "03-american-fast-food-chain",
+      "prompt": "Name an American fast food chain",
+      "answers": 891
+    },
+    {
+      "round": 4,
+      "file": "04-taylor-swift-song.txt",
+      "folder": "04-taylor-swift-song",
+      "prompt": "Name a Taylor Swift song",
+      "answers": 384
+    },
+    {
+      "round": 5,
+      "file": "05-country-that-celebrates-an-independence-day.txt",
+      "folder": "05-country-that-celebrates-an-independence-day",
+      "prompt": "Name a country that celebrates an independence day",
+      "answers": 166
+    },
+    {
+      "round": 6,
+      "file": "06-game-in-wii-sports-or-wii-sports-resort.txt",
+      "folder": "06-game-in-wii-sports-or-wii-sports-resort",
+      "prompt": "Name a game in Wii Sports or Wii Sports Resort",
+      "answers": 43
+    },
+    {
+      "round": 7,
+      "file": "07-palindrome-that-s-a-real-english-dictionary-word.txt",
+      "folder": "07-palindrome-that-s-a-real-english-dictionary-word",
+      "prompt": "Name a palindrome that's a real English dictionary word",
+      "answers": 239
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

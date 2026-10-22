@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-18",
+  "rounds": 7,
+  "answers": 1105,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Work, Money & Society": 2,
+    "Animals & Nature": 1,
+    "People & Entertainment": 2,
+    "Words, Language & Numbers": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-that-borders-india-by-land-or-sea.txt",
+      "folder": "01-country-that-borders-india-by-land-or-sea",
+      "prompt": "Name a country that borders India by land or sea",
+      "answers": 11
+    },
+    {
+      "round": 2,
+      "file": "02-occupation-that-involves-working-with-children-the-job-itsel.txt",
+      "folder": "02-occupation-that-involves-working-with-children-the-job-itsel",
+      "prompt": "Name an occupation that involves working with children (the job itself must focus on kids)",
+      "answers": 264
+    },
+    {
+      "round": 3,
+      "file": "03-animal-that-produces-its-own-light.txt",
+      "folder": "03-animal-that-produces-its-own-light",
+      "prompt": "Name an animal that produces its own light",
+      "answers": 107
+    },
+    {
+      "round": 4,
+      "file": "04-michael-jackson-song.txt",
+      "folder": "04-michael-jackson-song",
+      "prompt": "Name a Michael Jackson song",
+      "answers": 487
+    },
+    {
+      "round": 5,
+      "file": "05-name-another-english-word-for-a-nose-any-creature-s-counts.txt",
+      "folder": "05-name-another-english-word-for-a-nose-any-creature-s-counts",
+      "prompt": "Name another English word for a nose (any creature's counts)",
+      "answers": 50
+    },
+    {
+      "round": 6,
+      "file": "06-pixar-protagonist-co-leads-count.txt",
+      "folder": "06-pixar-protagonist-co-leads-count",
+      "prompt": "Name a Pixar protagonist (co-leads count)",
+      "answers": 109
+    },
+    {
+      "round": 7,
+      "file": "07-type-of-building-used-for-prayer.txt",
+      "folder": "07-type-of-building-used-for-prayer",
+      "prompt": "Name a type of building used for prayer",
+      "answers": 77
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a chocolate brand",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 165,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 107,
+    "rare": 32,
+    "schooler": 19,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

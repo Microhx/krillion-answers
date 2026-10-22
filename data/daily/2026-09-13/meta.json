@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-13",
+  "rounds": 7,
+  "answers": 2278,
+  "categories": {
+    "Brands / Companies / Apps": 2,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 1,
+    "Country / Geography / Places": 1,
+    "Words, Language & Numbers": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-google-product.txt",
+      "folder": "01-google-product",
+      "prompt": "Name a Google product",
+      "answers": 939
+    },
+    {
+      "round": 2,
+      "file": "02-animal-that-can-top-40-mph-65-km-h.txt",
+      "folder": "02-animal-that-can-top-40-mph-65-km-h",
+      "prompt": "Name an animal that can top 40 mph (65 km/h)",
+      "answers": 120
+    },
+    {
+      "round": 3,
+      "file": "03-grain-or-cereal-crop.txt",
+      "folder": "03-grain-or-cereal-crop",
+      "prompt": "Name a grain or cereal crop",
+      "answers": 254
+    },
+    {
+      "round": 4,
+      "file": "04-character-from-avatar-the-last-airbender-the-original-series.txt",
+      "folder": "04-character-from-avatar-the-last-airbender-the-original-series",
+      "prompt": "Name a character from Avatar: The Last Airbender (the original series, not Korra)",
+      "answers": 180
+    },
+    {
+      "round": 5,
+      "file": "05-country-with-both-a-g-and-an-a-in-its-name.txt",
+      "folder": "05-country-with-both-a-g-and-an-a-in-its-name",
+      "prompt": "Name a country with both a G and an A in its name",
+      "answers": 36
+    },
+    {
+      "round": 6,
+      "file": "06-theme-park-chain.txt",
+      "folder": "06-theme-park-chain",
+      "prompt": "Name a theme park chain",
+      "answers": 104
+    },
+    {
+      "round": 7,
+      "file": "07-literary-device.txt",
+      "folder": "07-literary-device",
+      "prompt": "Name a literary device",
+      "answers": 645
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a board, card or hand game made for exactly two players",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 3925,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 3833,
+    "rare": 66,
+    "schooler": 17,
+    "plankton": 7
+  }
+}

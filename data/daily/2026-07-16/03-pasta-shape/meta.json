@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a pasta shape",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 57,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 22,
+    "rare": 14,
+    "schooler": 14,
+    "tooclever": 3,
+    "plankton": 3
+  }
+}

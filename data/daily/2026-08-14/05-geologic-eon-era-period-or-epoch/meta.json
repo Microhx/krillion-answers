@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a geologic eon, era, period, or epoch",
+  "category": "Science, Space & Tech",
+  "round": 5,
+  "answers": 57,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 27,
+    "rare": 15,
+    "schooler": 9,
+    "tooclever": 2,
+    "plankton": 3
+  }
+}

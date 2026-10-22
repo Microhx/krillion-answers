@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a game in Wii Sports or Wii Sports Resort",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 43,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 21,
+    "rare": 10,
+    "schooler": 8,
+    "plankton": 3
+  }
+}

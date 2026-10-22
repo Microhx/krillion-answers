@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a city south of the equator with over 1 million people (by metro area)",
+  "category": "Country / Geography / Places",
+  "round": 5,
+  "answers": 107,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 62,
+    "rare": 33,
+    "schooler": 4,
+    "plankton": 7
+  }
+}

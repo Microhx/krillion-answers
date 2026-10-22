@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a country whose flag includes at least one star",
+  "category": "Country / Geography / Places",
+  "round": 4,
+  "answers": 67,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 7,
+    "rare": 30,
+    "schooler": 26,
+    "tooclever": 1,
+    "plankton": 2
+  }
+}

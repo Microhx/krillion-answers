@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a songbird",
+  "category": "Animals & Nature",
+  "round": 3,
+  "answers": 61,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 21,
+    "rare": 20,
+    "schooler": 13,
+    "tooclever": 3,
+    "plankton": 3
+  }
+}

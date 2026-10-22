@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an animal threatened with extinction",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 105,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 46,
+    "rare": 29,
+    "schooler": 22,
+    "tooclever": 2,
+    "plankton": 5
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-07-17",
+  "rounds": 7,
+  "answers": 523,
+  "categories": {
+    "Country / Geography / Places": 2,
+    "Animals & Nature": 2,
+    "Food & Drink": 1,
+    "People & Entertainment": 1,
+    "Words, Language & Numbers": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-in-the-americas-north-central-or-south.txt",
+      "folder": "01-country-in-the-americas-north-central-or-south",
+      "prompt": "Name a country in the Americas (North, Central, or South)",
+      "answers": 35
+    },
+    {
+      "round": 2,
+      "file": "02-bird-of-prey.txt",
+      "folder": "02-bird-of-prey",
+      "prompt": "Name a bird of prey",
+      "answers": 66
+    },
+    {
+      "round": 3,
+      "file": "03-type-of-cheese.txt",
+      "folder": "03-type-of-cheese",
+      "prompt": "Name a type of cheese",
+      "answers": 61
+    },
+    {
+      "round": 4,
+      "file": "04-beatles-song.txt",
+      "folder": "04-beatles-song",
+      "prompt": "Name a Beatles song",
+      "answers": 169
+    },
+    {
+      "round": 5,
+      "file": "05-letter-of-the-greek-alphabet.txt",
+      "folder": "05-letter-of-the-greek-alphabet",
+      "prompt": "Name a letter of the Greek alphabet",
+      "answers": 29
+    },
+    {
+      "round": 6,
+      "file": "06-us-state-capital.txt",
+      "folder": "06-us-state-capital",
+      "prompt": "Name a US state capital",
+      "answers": 50
+    },
+    {
+      "round": 7,
+      "file": "07-dog-breed.txt",
+      "folder": "07-dog-breed",
+      "prompt": "Name a dog breed",
+      "answers": 113
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-14",
+  "rounds": 7,
+  "answers": 8598,
+  "categories": {
+    "Brands / Companies / Apps": 1,
+    "Words, Language & Numbers": 1,
+    "Country / Geography / Places": 1,
+    "Sports & Games": 1,
+    "People & Entertainment": 1,
+    "Objects, Tools & Materials": 2
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-app-or-website-for-writing-documents-or-taking-notes.txt",
+      "folder": "01-app-or-website-for-writing-documents-or-taking-notes",
+      "prompt": "Name an app or website for writing documents or taking notes",
+      "answers": 3465
+    },
+    {
+      "round": 2,
+      "file": "02-most-widely-spoken-language-of-a-country-in-the-americas.txt",
+      "folder": "02-most-widely-spoken-language-of-a-country-in-the-americas",
+      "prompt": "Name the most widely spoken language of a country in the Americas",
+      "answers": 8
+    },
+    {
+      "round": 3,
+      "file": "03-current-capital-of-a-state-or-province-anywhere-in-the-world.txt",
+      "folder": "03-current-capital-of-a-state-or-province-anywhere-in-the-world",
+      "prompt": "Name the current capital of a state or province anywhere in the world (must be officially called a state or province)",
+      "answers": 1980
+    },
+    {
+      "round": 4,
+      "file": "04-current-or-former-nba-mlb-premier-league-or-nfl-team.txt",
+      "folder": "04-current-or-former-nba-mlb-premier-league-or-nfl-team",
+      "prompt": "Name a current or former NBA, MLB, Premier League or NFL team",
+      "answers": 432
+    },
+    {
+      "round": 5,
+      "file": "05-character-from-the-cars-movies.txt",
+      "folder": "05-character-from-the-cars-movies",
+      "prompt": "Name a character from the Cars movies",
+      "answers": 550
+    },
+    {
+      "round": 6,
+      "file": "06-type-of-powder.txt",
+      "folder": "06-type-of-powder",
+      "prompt": "Name a type of powder",
+      "answers": 1448
+    },
+    {
+      "round": 7,
+      "file": "07-name-something-you-shake-before-using-it.txt",
+      "folder": "07-name-something-you-shake-before-using-it",
+      "prompt": "Name something you shake before using it",
+      "answers": 715
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

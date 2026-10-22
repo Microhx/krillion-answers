@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a gas station chain",
+  "category": "Brands / Companies / Apps",
+  "round": 2,
+  "answers": 2850,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 2767,
+    "rare": 51,
+    "schooler": 25,
+    "plankton": 5
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an animal whose name starts with B (breeds count too)",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 2494,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2393,
+    "rare": 67,
+    "schooler": 27,
+    "plankton": 6
+  }
+}

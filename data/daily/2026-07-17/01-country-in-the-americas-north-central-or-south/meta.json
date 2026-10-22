@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a country in the Americas (North, Central, or South)",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 35,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 5,
+    "rare": 6,
+    "schooler": 18,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

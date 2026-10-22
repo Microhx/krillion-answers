@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a type of pastry or doughnut",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 67,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 16,
+    "rare": 17,
+    "schooler": 26,
+    "tooclever": 2,
+    "plankton": 5
+  }
+}

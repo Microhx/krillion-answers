@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a US president",
+  "category": "Work, Money & Society",
+  "round": 7,
+  "answers": 45,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 10,
+    "rare": 12,
+    "schooler": 15,
+    "tooclever": 2,
+    "plankton": 5
+  }
+}

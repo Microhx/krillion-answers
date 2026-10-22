@@ -1,0 +1,10 @@
+{
+  "prompt": "Name a rodent",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 5,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 4
+  }
+}

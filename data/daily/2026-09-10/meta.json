@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-10",
+  "rounds": 7,
+  "answers": 3473,
+  "categories": {
+    "People & Entertainment": 2,
+    "Animals & Nature": 1,
+    "Objects, Tools & Materials": 1,
+    "Sports & Games": 2,
+    "Words, Language & Numbers": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-name-someone-with-over-100-million-instagram-followers.txt",
+      "folder": "01-name-someone-with-over-100-million-instagram-followers",
+      "prompt": "Name someone with over 100 million Instagram followers",
+      "answers": 34
+    },
+    {
+      "round": 2,
+      "file": "02-black-and-white-mammal-or-bird.txt",
+      "folder": "02-black-and-white-mammal-or-bird",
+      "prompt": "Name a black and white mammal or bird",
+      "answers": 390
+    },
+    {
+      "round": 3,
+      "file": "03-type-of-skincare-product.txt",
+      "folder": "03-type-of-skincare-product",
+      "prompt": "Name a type of skincare product",
+      "answers": 337
+    },
+    {
+      "round": 4,
+      "file": "04-video-game-that-has-earned-over-1-billion.txt",
+      "folder": "04-video-game-that-has-earned-over-1-billion",
+      "prompt": "Name a video game that has earned over $1 billion",
+      "answers": 154
+    },
+    {
+      "round": 5,
+      "file": "05-roman-god-or-goddess.txt",
+      "folder": "05-roman-god-or-goddess",
+      "prompt": "Name a Roman god or goddess",
+      "answers": 342
+    },
+    {
+      "round": 6,
+      "file": "06-golf-term.txt",
+      "folder": "06-golf-term",
+      "prompt": "Name a golf term",
+      "answers": 855
+    },
+    {
+      "round": 7,
+      "file": "07-literary-genre.txt",
+      "folder": "07-literary-genre",
+      "prompt": "Name a literary genre",
+      "answers": 1361
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

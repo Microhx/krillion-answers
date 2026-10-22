@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a movie Matt Damon appears in",
+  "category": "People & Entertainment",
+  "round": 3,
+  "answers": 76,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 39,
+    "rare": 23,
+    "schooler": 9,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

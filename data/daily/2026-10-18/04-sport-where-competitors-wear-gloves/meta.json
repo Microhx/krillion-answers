@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a sport where competitors wear gloves",
+  "category": "Sports & Games",
+  "round": 4,
+  "answers": 530,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 451,
+    "rare": 61,
+    "schooler": 13,
+    "plankton": 4
+  }
+}

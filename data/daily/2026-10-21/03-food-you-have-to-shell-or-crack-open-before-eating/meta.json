@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a food you have to shell or crack open before eating",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 362,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 284,
+    "rare": 53,
+    "schooler": 19,
+    "plankton": 5
+  }
+}

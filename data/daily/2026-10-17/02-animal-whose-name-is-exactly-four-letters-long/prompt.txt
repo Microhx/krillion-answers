@@ -1,0 +1,1 @@
+Name an animal whose name is exactly four letters long

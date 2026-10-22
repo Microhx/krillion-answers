@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an animal whose name starts with H",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 46,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 20,
+    "rare": 13,
+    "schooler": 7,
+    "tooclever": 2,
+    "plankton": 3
+  }
+}

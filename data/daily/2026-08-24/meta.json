@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-24",
+  "rounds": 7,
+  "answers": 624,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Science, Space & Tech": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 2,
+    "Brands / Companies / Apps": 1,
+    "Animals & Nature": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-with-a-crescent-on-its-flag.txt",
+      "folder": "01-country-with-a-crescent-on-its-flag",
+      "prompt": "Name a country with a crescent on its flag",
+      "answers": 18
+    },
+    {
+      "round": 2,
+      "file": "02-math-symbol.txt",
+      "folder": "02-math-symbol",
+      "prompt": "Name a math symbol",
+      "answers": 72
+    },
+    {
+      "round": 3,
+      "file": "03-street-food-from-anywhere-in-the-world.txt",
+      "folder": "03-street-food-from-anywhere-in-the-world",
+      "prompt": "Name a street food from anywhere in the world",
+      "answers": 244
+    },
+    {
+      "round": 4,
+      "file": "04-character-from-the-office-us.txt",
+      "folder": "04-character-from-the-office-us",
+      "prompt": "Name a character from The Office (US)",
+      "answers": 80
+    },
+    {
+      "round": 5,
+      "file": "05-platform-where-you-can-scroll-short-form-videos.txt",
+      "folder": "05-platform-where-you-can-scroll-short-form-videos",
+      "prompt": "Name a platform where you can scroll short-form videos",
+      "answers": 38
+    },
+    {
+      "round": 6,
+      "file": "06-animal-that-is-a-herbivore.txt",
+      "folder": "06-animal-that-is-a-herbivore",
+      "prompt": "Name an animal that is a herbivore",
+      "answers": 135
+    },
+    {
+      "round": 7,
+      "file": "07-brass-instrument.txt",
+      "folder": "07-brass-instrument",
+      "prompt": "Name a brass instrument",
+      "answers": 37
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

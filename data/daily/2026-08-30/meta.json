@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-30",
+  "rounds": 7,
+  "answers": 1916,
+  "categories": {
+    "Brands / Companies / Apps": 2,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 1,
+    "Sports & Games": 1,
+    "Work, Money & Society": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-company-in-the-s-p-500.txt",
+      "folder": "01-company-in-the-s-p-500",
+      "prompt": "Name a company in the S&P 500",
+      "answers": 500
+    },
+    {
+      "round": 2,
+      "file": "02-animal-that-has-an-x-in-its-name.txt",
+      "folder": "02-animal-that-has-an-x-in-its-name",
+      "prompt": "Name an animal that has an X in its name",
+      "answers": 468
+    },
+    {
+      "round": 3,
+      "file": "03-curry.txt",
+      "folder": "03-curry",
+      "prompt": "Name a curry",
+      "answers": 144
+    },
+    {
+      "round": 4,
+      "file": "04-sesame-street-character.txt",
+      "folder": "04-sesame-street-character",
+      "prompt": "Name a Sesame Street character",
+      "answers": 231
+    },
+    {
+      "round": 5,
+      "file": "05-apple-device.txt",
+      "folder": "05-apple-device",
+      "prompt": "Name an Apple device",
+      "answers": 62
+    },
+    {
+      "round": 6,
+      "file": "06-position-in-soccer.txt",
+      "folder": "06-position-in-soccer",
+      "prompt": "Name a position in soccer",
+      "answers": 43
+    },
+    {
+      "round": 7,
+      "file": "07-bible-character.txt",
+      "folder": "07-bible-character",
+      "prompt": "Name a Bible character",
+      "answers": 468
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

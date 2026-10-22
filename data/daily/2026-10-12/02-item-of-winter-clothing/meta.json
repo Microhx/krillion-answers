@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an item of winter clothing",
+  "category": "Objects, Tools & Materials",
+  "round": 2,
+  "answers": 485,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 354,
+    "rare": 94,
+    "schooler": 27,
+    "plankton": 9
+  }
+}

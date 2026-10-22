@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a body part animals have but humans don't (like wings)",
+  "category": "Animals & Nature",
+  "round": 3,
+  "answers": 837,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 698,
+    "rare": 105,
+    "schooler": 23,
+    "plankton": 9
+  }
+}

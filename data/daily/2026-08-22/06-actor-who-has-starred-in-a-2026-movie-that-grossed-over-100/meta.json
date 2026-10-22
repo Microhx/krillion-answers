@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an actor who has starred in a 2026 movie that grossed over $100 million worldwide",
+  "category": "People & Entertainment",
+  "round": 6,
+  "answers": 248,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 127,
+    "rare": 78,
+    "schooler": 34,
+    "tooclever": 1,
+    "plankton": 6
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a sports car brand",
+  "category": "Brands / Companies / Apps",
+  "round": 1,
+  "answers": 651,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 579,
+    "rare": 48,
+    "schooler": 18,
+    "plankton": 4
+  }
+}

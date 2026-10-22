@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a country whose name starts with S",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 28,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 6,
+    "rare": 8,
+    "schooler": 8,
+    "tooclever": 2,
+    "plankton": 3
+  }
+}

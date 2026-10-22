@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a unit of distance",
+  "category": "Science, Space & Tech",
+  "round": 6,
+  "answers": 285,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 261,
+    "rare": 13,
+    "schooler": 3,
+    "plankton": 7
+  }
+}

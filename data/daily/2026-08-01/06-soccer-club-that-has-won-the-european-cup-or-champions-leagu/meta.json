@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a soccer club that has won the European Cup or Champions League",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 24,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2,
+    "rare": 7,
+    "schooler": 8,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

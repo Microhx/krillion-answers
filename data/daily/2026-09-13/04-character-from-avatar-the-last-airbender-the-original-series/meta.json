@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a character from Avatar: The Last Airbender (the original series, not Korra)",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 180,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 100,
+    "rare": 57,
+    "schooler": 16,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

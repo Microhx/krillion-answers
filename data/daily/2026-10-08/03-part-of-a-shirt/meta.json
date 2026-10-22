@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a part of a shirt",
+  "category": "Objects, Tools & Materials",
+  "round": 3,
+  "answers": 207,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 163,
+    "rare": 32,
+    "schooler": 6,
+    "plankton": 4
+  }
+}

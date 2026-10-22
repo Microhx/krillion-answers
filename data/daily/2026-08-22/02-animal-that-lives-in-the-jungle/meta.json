@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an animal that lives in the jungle",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 93,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 46,
+    "rare": 27,
+    "schooler": 15,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

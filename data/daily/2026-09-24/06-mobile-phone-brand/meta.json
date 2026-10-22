@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a mobile phone brand",
+  "category": "Brands / Companies / Apps",
+  "round": 6,
+  "answers": 581,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 547,
+    "rare": 24,
+    "schooler": 5,
+    "plankton": 4
+  }
+}

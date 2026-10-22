@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a type of bread",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 70,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 25,
+    "rare": 20,
+    "schooler": 19,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

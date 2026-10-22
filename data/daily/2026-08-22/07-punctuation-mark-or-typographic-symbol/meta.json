@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a punctuation mark or typographic symbol",
+  "category": "Words, Language & Numbers",
+  "round": 7,
+  "answers": 60,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 29,
+    "rare": 11,
+    "schooler": 11,
+    "tooclever": 4,
+    "plankton": 4
+  }
+}

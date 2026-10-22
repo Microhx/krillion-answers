@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a boxing weight class",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 23,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 7,
+    "rare": 5,
+    "schooler": 6,
+    "plankton": 4
+  }
+}

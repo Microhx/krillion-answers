@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a device used to magnify things",
+  "category": "Objects, Tools & Materials",
+  "round": 2,
+  "answers": 196,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 154,
+    "rare": 32,
+    "schooler": 4,
+    "plankton": 4
+  }
+}

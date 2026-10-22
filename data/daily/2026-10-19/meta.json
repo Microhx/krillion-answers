@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-19",
+  "rounds": 7,
+  "answers": 7692,
+  "categories": {
+    "People & Entertainment": 1,
+    "Sports & Games": 2,
+    "Brands / Companies / Apps": 1,
+    "Country / Geography / Places": 1,
+    "Words, Language & Numbers": 1,
+    "Food & Drink": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-female-singer-with-over-500-000-monthly-listeners-on-spotify.txt",
+      "folder": "01-female-singer-with-over-500-000-monthly-listeners-on-spotify",
+      "prompt": "Name a female singer with over 500,000 monthly listeners on Spotify",
+      "answers": 2523
+    },
+    {
+      "round": 2,
+      "file": "02-foul-or-rule-violation-in-soccer-basketball-american-footbal.txt",
+      "folder": "02-foul-or-rule-violation-in-soccer-basketball-american-footbal",
+      "prompt": "Name a foul or rule violation in soccer, basketball, American football, cricket, rugby or ice hockey",
+      "answers": 392
+    },
+    {
+      "round": 3,
+      "file": "03-underwear-brand.txt",
+      "folder": "03-underwear-brand",
+      "prompt": "Name an underwear brand",
+      "answers": 966
+    },
+    {
+      "round": 4,
+      "file": "04-university-in-the-us-or-uk.txt",
+      "folder": "04-university-in-the-us-or-uk",
+      "prompt": "Name a university in the US or UK",
+      "answers": 3123
+    },
+    {
+      "round": 5,
+      "file": "05-language-that-s-the-most-spoken-in-at-least-two-countries.txt",
+      "folder": "05-language-that-s-the-most-spoken-in-at-least-two-countries",
+      "prompt": "Name a language that’s the most spoken in at least two countries",
+      "answers": 19
+    },
+    {
+      "round": 6,
+      "file": "06-character-that-has-been-playable-in-a-super-smash-bros-game.txt",
+      "folder": "06-character-that-has-been-playable-in-a-super-smash-bros-game",
+      "prompt": "Name a character that has been playable in a Super Smash Bros. game",
+      "answers": 89
+    },
+    {
+      "round": 7,
+      "file": "07-fruit-normally-eaten-with-its-skin-on.txt",
+      "folder": "07-fruit-normally-eaten-with-its-skin-on",
+      "prompt": "Name a fruit normally eaten with its skin on",
+      "answers": 580
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

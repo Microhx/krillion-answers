@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a font",
+  "category": "Science, Space & Tech",
+  "round": 7,
+  "answers": 73,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 32,
+    "rare": 22,
+    "schooler": 12,
+    "tooclever": 3,
+    "plankton": 3
+  }
+}

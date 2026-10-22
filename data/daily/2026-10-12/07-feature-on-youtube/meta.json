@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a feature on YouTube",
+  "category": "Brands / Companies / Apps",
+  "round": 7,
+  "answers": 535,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 302,
+    "rare": 174,
+    "schooler": 53,
+    "plankton": 5
+  }
+}

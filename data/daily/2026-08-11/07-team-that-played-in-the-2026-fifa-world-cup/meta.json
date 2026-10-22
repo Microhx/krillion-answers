@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a team that played in the 2026 FIFA World Cup",
+  "category": "Sports & Games",
+  "round": 7,
+  "answers": 48,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 8,
+    "rare": 14,
+    "schooler": 16,
+    "tooclever": 1,
+    "plankton": 8
+  }
+}

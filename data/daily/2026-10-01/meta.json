@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-01",
+  "rounds": 7,
+  "answers": 52099,
+  "categories": {
+    "Brands / Companies / Apps": 2,
+    "Food & Drink": 2,
+    "People & Entertainment": 1,
+    "Work, Money & Society": 1,
+    "Animals & Nature": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-feature-on-instagram.txt",
+      "folder": "01-feature-on-instagram",
+      "prompt": "Name a feature on Instagram",
+      "answers": 470
+    },
+    {
+      "round": 2,
+      "file": "02-sauce-used-in-asian-cooking-like-soy-sauce.txt",
+      "folder": "02-sauce-used-in-asian-cooking-like-soy-sauce",
+      "prompt": "Name a sauce used in Asian cooking (like soy sauce)",
+      "answers": 598
+    },
+    {
+      "round": 3,
+      "file": "03-music-festival.txt",
+      "folder": "03-music-festival",
+      "prompt": "Name a music festival",
+      "answers": 17519
+    },
+    {
+      "round": 4,
+      "file": "04-present-day-nationality-that-ends-in-ian-like-canadian.txt",
+      "folder": "04-present-day-nationality-that-ends-in-ian-like-canadian",
+      "prompt": "Name a present-day nationality that ends in -ian (like Canadian)",
+      "answers": 107
+    },
+    {
+      "round": 5,
+      "file": "05-yellow-fruit-or-vegetable.txt",
+      "folder": "05-yellow-fruit-or-vegetable",
+      "prompt": "Name a yellow fruit or vegetable",
+      "answers": 400
+    },
+    {
+      "round": 6,
+      "file": "06-app-where-you-can-video-call.txt",
+      "folder": "06-app-where-you-can-video-call",
+      "prompt": "Name an app where you can video call",
+      "answers": 735
+    },
+    {
+      "round": 7,
+      "file": "07-animal-with-a-color-in-its-name.txt",
+      "folder": "07-animal-with-a-color-in-its-name",
+      "prompt": "Name an animal with a color in its name",
+      "answers": 32270
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

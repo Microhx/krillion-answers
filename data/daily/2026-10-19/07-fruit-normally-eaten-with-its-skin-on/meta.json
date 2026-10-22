@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a fruit normally eaten with its skin on",
+  "category": "Food & Drink",
+  "round": 7,
+  "answers": 580,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 487,
+    "rare": 73,
+    "schooler": 11,
+    "plankton": 8
+  }
+}

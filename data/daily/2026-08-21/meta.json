@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-21",
+  "rounds": 7,
+  "answers": 684,
+  "categories": {
+    "Food & Drink": 1,
+    "Country / Geography / Places": 1,
+    "People & Entertainment": 3,
+    "Sports & Games": 1,
+    "Words, Language & Numbers": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-korean-dish.txt",
+      "folder": "01-korean-dish",
+      "prompt": "Name a Korean dish",
+      "answers": 82
+    },
+    {
+      "round": 2,
+      "file": "02-lake.txt",
+      "folder": "02-lake",
+      "prompt": "Name a lake",
+      "answers": 157
+    },
+    {
+      "round": 3,
+      "file": "03-movie-matt-damon-appears-in.txt",
+      "folder": "03-movie-matt-damon-appears-in",
+      "prompt": "Name a movie Matt Damon appears in",
+      "answers": 76
+    },
+    {
+      "round": 4,
+      "file": "04-lord-of-the-rings-character.txt",
+      "folder": "04-lord-of-the-rings-character",
+      "prompt": "Name a Lord of the Rings character",
+      "answers": 114
+    },
+    {
+      "round": 5,
+      "file": "05-famous-person-named-michael.txt",
+      "folder": "05-famous-person-named-michael",
+      "prompt": "Name a famous person named Michael",
+      "answers": 126
+    },
+    {
+      "round": 6,
+      "file": "06-casino-game.txt",
+      "folder": "06-casino-game",
+      "prompt": "Name a casino game",
+      "answers": 51
+    },
+    {
+      "round": 7,
+      "file": "07-type-of-poem.txt",
+      "folder": "07-type-of-poem",
+      "prompt": "Name a type of poem",
+      "answers": 78
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

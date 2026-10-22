@@ -1,0 +1,12 @@
+{
+  "prompt": "Name a country that has won the men's soccer World Cup",
+  "category": "Sports & Games",
+  "round": 7,
+  "answers": 8,
+  "tiers": {
+    "rare": 1,
+    "schooler": 3,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

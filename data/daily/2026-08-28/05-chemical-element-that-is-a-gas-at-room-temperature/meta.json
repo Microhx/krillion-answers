@@ -1,0 +1,12 @@
+{
+  "prompt": "Name a chemical element that is a gas at room temperature",
+  "category": "Science, Space & Tech",
+  "round": 5,
+  "answers": 11,
+  "tiers": {
+    "deepcut": 2,
+    "rare": 3,
+    "schooler": 4,
+    "plankton": 2
+  }
+}

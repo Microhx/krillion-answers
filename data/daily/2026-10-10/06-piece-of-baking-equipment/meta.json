@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a piece of baking equipment",
+  "category": "Objects, Tools & Materials",
+  "round": 6,
+  "answers": 259,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 186,
+    "rare": 44,
+    "schooler": 17,
+    "plankton": 10
+  }
+}

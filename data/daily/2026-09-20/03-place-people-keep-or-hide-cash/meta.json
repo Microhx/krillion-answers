@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a place people keep or hide cash",
+  "category": "Country / Geography / Places",
+  "round": 3,
+  "answers": 175,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 111,
+    "rare": 35,
+    "schooler": 22,
+    "plankton": 6
+  }
+}

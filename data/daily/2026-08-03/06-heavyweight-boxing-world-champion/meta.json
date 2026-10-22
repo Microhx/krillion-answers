@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a heavyweight boxing world champion",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 77,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 52,
+    "rare": 10,
+    "schooler": 11,
+    "tooclever": 1,
+    "plankton": 2
+  }
+}

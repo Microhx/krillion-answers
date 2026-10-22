@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a mountain range",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 85,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 44,
+    "rare": 26,
+    "schooler": 9,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

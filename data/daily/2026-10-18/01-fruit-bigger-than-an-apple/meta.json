@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a fruit bigger than an apple",
+  "category": "Food & Drink",
+  "round": 1,
+  "answers": 205,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 153,
+    "rare": 34,
+    "schooler": 13,
+    "plankton": 3
+  }
+}

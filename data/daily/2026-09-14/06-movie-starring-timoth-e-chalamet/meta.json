@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a movie starring Timothée Chalamet",
+  "category": "People & Entertainment",
+  "round": 6,
+  "answers": 25,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 5,
+    "rare": 5,
+    "schooler": 9,
+    "plankton": 5
+  }
+}

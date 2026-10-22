@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Dr. Seuss book",
+  "category": "People & Entertainment",
+  "round": 7,
+  "answers": 49,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 28,
+    "rare": 9,
+    "schooler": 6,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

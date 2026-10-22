@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an American airline (U.S.-based, past or present)",
+  "category": "Brands / Companies / Apps",
+  "round": 7,
+  "answers": 2166,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2144,
+    "rare": 11,
+    "schooler": 6,
+    "plankton": 4
+  }
+}

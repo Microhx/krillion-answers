@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-03",
+  "rounds": 7,
+  "answers": 1923,
+  "categories": {
+    "Country / Geography / Places": 3,
+    "Animals & Nature": 1,
+    "Words, Language & Numbers": 1,
+    "People & Entertainment": 1,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-capital-city-in-the-americas.txt",
+      "folder": "01-capital-city-in-the-americas",
+      "prompt": "Name a capital city in the Americas",
+      "answers": 59
+    },
+    {
+      "round": 2,
+      "file": "02-animal-known-for-camouflage.txt",
+      "folder": "02-animal-known-for-camouflage",
+      "prompt": "Name an animal known for camouflage",
+      "answers": 166
+    },
+    {
+      "round": 3,
+      "file": "03-country-that-fought-in-world-war-ii.txt",
+      "folder": "03-country-that-fought-in-world-war-ii",
+      "prompt": "Name a country that fought in World War II",
+      "answers": 77
+    },
+    {
+      "round": 4,
+      "file": "04-language-that-is-an-official-language-of-a-european-country.txt",
+      "folder": "04-language-that-is-an-official-language-of-a-european-country",
+      "prompt": "Name a language that is an official language of a European country",
+      "answers": 149
+    },
+    {
+      "round": 5,
+      "file": "05-astronaut-or-cosmonaut.txt",
+      "folder": "05-astronaut-or-cosmonaut",
+      "prompt": "Name an astronaut or cosmonaut",
+      "answers": 982
+    },
+    {
+      "round": 6,
+      "file": "06-block-in-minecraft.txt",
+      "folder": "06-block-in-minecraft",
+      "prompt": "Name a block in Minecraft",
+      "answers": 428
+    },
+    {
+      "round": 7,
+      "file": "07-country-smaller-than-belgium-by-area.txt",
+      "folder": "07-country-smaller-than-belgium-by-area",
+      "prompt": "Name a country smaller than Belgium (by area)",
+      "answers": 62
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

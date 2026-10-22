@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an Amazon product, service or company Amazon owns",
+  "category": "Brands / Companies / Apps",
+  "round": 1,
+  "answers": 1093,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 961,
+    "rare": 97,
+    "schooler": 26,
+    "plankton": 7
+  }
+}

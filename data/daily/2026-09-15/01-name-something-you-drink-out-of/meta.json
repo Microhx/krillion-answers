@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something you drink out of",
+  "category": "Objects, Tools & Materials",
+  "round": 1,
+  "answers": 148,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 60,
+    "rare": 52,
+    "schooler": 27,
+    "plankton": 8
+  }
+}

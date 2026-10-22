@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a video game that has earned over $1 billion",
+  "category": "Sports & Games",
+  "round": 4,
+  "answers": 154,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 73,
+    "rare": 56,
+    "schooler": 19,
+    "plankton": 5
+  }
+}

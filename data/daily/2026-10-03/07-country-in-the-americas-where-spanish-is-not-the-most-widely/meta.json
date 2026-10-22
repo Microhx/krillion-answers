@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country in the Americas where Spanish is not the most widely spoken language",
+  "category": "Country / Geography / Places",
+  "round": 7,
+  "answers": 18,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 4,
+    "rare": 6,
+    "schooler": 4,
+    "plankton": 3
+  }
+}

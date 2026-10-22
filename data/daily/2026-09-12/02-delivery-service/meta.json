@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a delivery service",
+  "category": "Brands / Companies / Apps",
+  "round": 2,
+  "answers": 1225,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 1205,
+    "rare": 11,
+    "schooler": 3,
+    "plankton": 4
+  }
+}

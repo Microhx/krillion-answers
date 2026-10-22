@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a language with more than 50 million total speakers",
+  "category": "Words, Language & Numbers",
+  "round": 1,
+  "answers": 37,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 8,
+    "rare": 12,
+    "schooler": 9,
+    "tooclever": 2,
+    "plankton": 5
+  }
+}

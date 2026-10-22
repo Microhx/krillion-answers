@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a laptop brand",
+  "category": "Brands / Companies / Apps",
+  "round": 4,
+  "answers": 791,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 761,
+    "rare": 15,
+    "schooler": 9,
+    "plankton": 4
+  }
+}

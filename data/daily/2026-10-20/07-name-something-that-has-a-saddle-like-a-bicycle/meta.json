@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something that has a saddle (like a bicycle)",
+  "category": "Objects, Tools & Materials",
+  "round": 7,
+  "answers": 147,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 108,
+    "rare": 30,
+    "schooler": 5,
+    "plankton": 2
+  }
+}

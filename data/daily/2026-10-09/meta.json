@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-09",
+  "rounds": 7,
+  "answers": 27830,
+  "categories": {
+    "People & Entertainment": 2,
+    "Animals & Nature": 1,
+    "Country / Geography / Places": 2,
+    "Brands / Companies / Apps": 1,
+    "Objects, Tools & Materials": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-justin-bieber-song.txt",
+      "folder": "01-justin-bieber-song",
+      "prompt": "Name a Justin Bieber song",
+      "answers": 252
+    },
+    {
+      "round": 2,
+      "file": "02-animal-with-another-animal-in-its-name-like-seahorse.txt",
+      "folder": "02-animal-with-another-animal-in-its-name-like-seahorse",
+      "prompt": "Name an animal with another animal in its name (like seahorse)",
+      "answers": 22916
+    },
+    {
+      "round": 3,
+      "file": "03-twitch-streamer-with-more-than-500k-followers.txt",
+      "folder": "03-twitch-streamer-with-more-than-500k-followers",
+      "prompt": "Name a Twitch streamer with more than 500k followers",
+      "answers": 1501
+    },
+    {
+      "round": 4,
+      "file": "04-country-whose-flag-has-both-green-and-red.txt",
+      "folder": "04-country-whose-flag-has-both-green-and-red",
+      "prompt": "Name a country whose flag has both green and red",
+      "answers": 81
+    },
+    {
+      "round": 5,
+      "file": "05-city-in-the-uk-towns-count-too.txt",
+      "folder": "05-city-in-the-uk-towns-count-too",
+      "prompt": "Name a city in the UK (towns count too)",
+      "answers": 2248
+    },
+    {
+      "round": 6,
+      "file": "06-email-service-like-gmail.txt",
+      "folder": "06-email-service-like-gmail",
+      "prompt": "Name an email service (like Gmail)",
+      "answers": 645
+    },
+    {
+      "round": 7,
+      "file": "07-type-of-camera.txt",
+      "folder": "07-type-of-camera",
+      "prompt": "Name a type of camera",
+      "answers": 187
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

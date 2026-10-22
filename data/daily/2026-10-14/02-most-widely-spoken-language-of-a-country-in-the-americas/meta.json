@@ -1,0 +1,12 @@
+{
+  "prompt": "Name the most widely spoken language of a country in the Americas",
+  "category": "Words, Language & Numbers",
+  "round": 2,
+  "answers": 8,
+  "tiers": {
+    "deepcut": 4,
+    "rare": 1,
+    "schooler": 1,
+    "plankton": 2
+  }
+}

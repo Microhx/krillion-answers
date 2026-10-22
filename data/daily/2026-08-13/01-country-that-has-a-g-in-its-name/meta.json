@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a country that has a G in its name",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 45,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 9,
+    "rare": 16,
+    "schooler": 14,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a standard type of tax (currently levied in at least one country)",
+  "category": "Work, Money & Society",
+  "round": 6,
+  "answers": 150,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 89,
+    "rare": 42,
+    "schooler": 14,
+    "plankton": 3
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an Olympic track and field event",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 44,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 15,
+    "rare": 7,
+    "schooler": 16,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

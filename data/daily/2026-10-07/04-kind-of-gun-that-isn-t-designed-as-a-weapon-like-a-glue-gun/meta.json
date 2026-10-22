@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a kind of gun that isn't designed as a weapon (like a glue gun)",
+  "category": "Objects, Tools & Materials",
+  "round": 4,
+  "answers": 182,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 120,
+    "rare": 45,
+    "schooler": 10,
+    "plankton": 5
+  }
+}

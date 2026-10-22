@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a variety of wine",
+  "category": "Food & Drink",
+  "round": 5,
+  "answers": 896,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 656,
+    "rare": 215,
+    "schooler": 18,
+    "plankton": 6
+  }
+}

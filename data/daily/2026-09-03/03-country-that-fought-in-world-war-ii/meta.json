@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country that fought in World War II",
+  "category": "Country / Geography / Places",
+  "round": 3,
+  "answers": 77,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 39,
+    "rare": 11,
+    "schooler": 17,
+    "plankton": 8
+  }
+}

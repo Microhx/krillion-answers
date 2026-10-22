@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a living bird that cannot fly",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 64,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 39,
+    "rare": 16,
+    "schooler": 5,
+    "tooclever": 1,
+    "plankton": 2
+  }
+}

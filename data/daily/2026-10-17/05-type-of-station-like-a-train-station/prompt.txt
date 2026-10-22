@@ -1,0 +1,1 @@
+Name a type of station (like a train station)

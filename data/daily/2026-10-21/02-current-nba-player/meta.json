@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a current NBA player",
+  "category": "Sports & Games",
+  "round": 2,
+  "answers": 519,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 268,
+    "rare": 218,
+    "schooler": 29,
+    "plankton": 3
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a mythical creature",
+  "category": "People & Entertainment",
+  "round": 7,
+  "answers": 97,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 40,
+    "rare": 29,
+    "schooler": 20,
+    "tooclever": 2,
+    "plankton": 5
+  }
+}

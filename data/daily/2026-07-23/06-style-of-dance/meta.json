@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a style of dance",
+  "category": "People & Entertainment",
+  "round": 6,
+  "answers": 92,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 44,
+    "rare": 25,
+    "schooler": 16,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

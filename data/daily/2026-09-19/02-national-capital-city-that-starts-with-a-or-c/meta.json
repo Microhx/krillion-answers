@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a national capital city that starts with A or C",
+  "category": "Country / Geography / Places",
+  "round": 2,
+  "answers": 30,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 9,
+    "rare": 12,
+    "schooler": 4,
+    "plankton": 4
+  }
+}

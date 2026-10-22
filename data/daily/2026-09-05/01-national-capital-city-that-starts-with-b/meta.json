@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a national capital city that starts with B",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 28,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 6,
+    "rare": 11,
+    "schooler": 7,
+    "plankton": 3
+  }
+}

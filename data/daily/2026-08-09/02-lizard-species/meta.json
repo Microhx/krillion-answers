@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a lizard species",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 46,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 16,
+    "rare": 19,
+    "schooler": 4,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

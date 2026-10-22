@@ -1,0 +1,64 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-09",
+  "rounds": 7,
+  "answers": 4772,
+  "categories": {
+    "Country / Geography / Places": 2,
+    "Animals & Nature": 3,
+    "Food & Drink": 1,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-city-in-california.txt",
+      "folder": "01-city-in-california",
+      "prompt": "Name a city in California",
+      "answers": 563
+    },
+    {
+      "round": 2,
+      "file": "02-animal-with-horns-or-antlers.txt",
+      "folder": "02-animal-with-horns-or-antlers",
+      "prompt": "Name an animal with horns or antlers",
+      "answers": 783
+    },
+    {
+      "round": 3,
+      "file": "03-spanish-or-portuguese-dish.txt",
+      "folder": "03-spanish-or-portuguese-dish",
+      "prompt": "Name a Spanish or Portuguese dish",
+      "answers": 841
+    },
+    {
+      "round": 4,
+      "file": "04-aquatic-mammal.txt",
+      "folder": "04-aquatic-mammal",
+      "prompt": "Name an aquatic mammal",
+      "answers": 353
+    },
+    {
+      "round": 5,
+      "file": "05-carnivorous-mammal.txt",
+      "folder": "05-carnivorous-mammal",
+      "prompt": "Name a carnivorous mammal",
+      "answers": 1439
+    },
+    {
+      "round": 6,
+      "file": "06-video-game-genre.txt",
+      "folder": "06-video-game-genre",
+      "prompt": "Name a video game genre",
+      "answers": 246
+    },
+    {
+      "round": 7,
+      "file": "07-street-suffix-like-street-or-avenue.txt",
+      "folder": "07-street-suffix-like-street-or-avenue",
+      "prompt": "Name a street suffix (like Street or Avenue)",
+      "answers": 547
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

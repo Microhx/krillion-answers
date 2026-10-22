@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a building material",
+  "category": "Objects, Tools & Materials",
+  "round": 4,
+  "answers": 880,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 802,
+    "rare": 60,
+    "schooler": 12,
+    "plankton": 5
+  }
+}

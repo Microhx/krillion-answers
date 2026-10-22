@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-07",
+  "rounds": 7,
+  "answers": 379,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 2,
+    "Body, Health & Medicine": 1,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-caribbean-island.txt",
+      "folder": "01-caribbean-island",
+      "prompt": "Name a Caribbean island",
+      "answers": 59
+    },
+    {
+      "round": 2,
+      "file": "02-beetle.txt",
+      "folder": "02-beetle",
+      "prompt": "Name a beetle",
+      "answers": 48
+    },
+    {
+      "round": 3,
+      "file": "03-type-of-salad.txt",
+      "folder": "03-type-of-salad",
+      "prompt": "Name a type of salad",
+      "answers": 53
+    },
+    {
+      "round": 4,
+      "file": "04-saturday-night-live-cast-member.txt",
+      "folder": "04-saturday-night-live-cast-member",
+      "prompt": "Name a Saturday Night Live cast member",
+      "answers": 99
+    },
+    {
+      "round": 5,
+      "file": "05-vitamin-or-dietary-mineral.txt",
+      "folder": "05-vitamin-or-dietary-mineral",
+      "prompt": "Name a vitamin or dietary mineral",
+      "answers": 30
+    },
+    {
+      "round": 6,
+      "file": "06-nfl-team.txt",
+      "folder": "06-nfl-team",
+      "prompt": "Name an NFL team",
+      "answers": 32
+    },
+    {
+      "round": 7,
+      "file": "07-fairy-tale.txt",
+      "folder": "07-fairy-tale",
+      "prompt": "Name a fairy tale",
+      "answers": 58
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

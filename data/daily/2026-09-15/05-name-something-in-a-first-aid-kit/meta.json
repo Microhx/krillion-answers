@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something in a first aid kit",
+  "category": "Objects, Tools & Materials",
+  "round": 5,
+  "answers": 104,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 28,
+    "rare": 54,
+    "schooler": 17,
+    "plankton": 4
+  }
+}

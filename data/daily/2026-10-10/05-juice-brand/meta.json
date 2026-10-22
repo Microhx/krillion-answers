@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a juice brand",
+  "category": "Food & Drink",
+  "round": 5,
+  "answers": 970,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 880,
+    "rare": 67,
+    "schooler": 14,
+    "plankton": 7
+  }
+}

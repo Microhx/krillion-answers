@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a famous ship (real or fictional)",
+  "category": "Objects, Tools & Materials",
+  "round": 7,
+  "answers": 87,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 39,
+    "rare": 31,
+    "schooler": 13,
+    "tooclever": 2,
+    "plankton": 1
+  }
+}

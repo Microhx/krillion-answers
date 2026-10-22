@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a folder in an email inbox",
+  "category": "Brands / Companies / Apps",
+  "round": 4,
+  "answers": 124,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 90,
+    "rare": 22,
+    "schooler": 5,
+    "plankton": 5
+  }
+}

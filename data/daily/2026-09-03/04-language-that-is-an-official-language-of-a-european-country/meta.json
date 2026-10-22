@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a language that is an official language of a European country",
+  "category": "Words, Language & Numbers",
+  "round": 4,
+  "answers": 149,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 103,
+    "rare": 25,
+    "schooler": 15,
+    "plankton": 5
+  }
+}

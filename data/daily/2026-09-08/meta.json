@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-08",
+  "rounds": 7,
+  "answers": 3655,
+  "categories": {
+    "Country / Geography / Places": 2,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 1,
+    "Work, Money & Society": 1,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-city-in-canada-with-over-100-000-people.txt",
+      "folder": "01-city-in-canada-with-over-100-000-people",
+      "prompt": "Name a city in Canada with over 100,000 people",
+      "answers": 76
+    },
+    {
+      "round": 2,
+      "file": "02-animal-with-a-shell.txt",
+      "folder": "02-animal-with-a-shell",
+      "prompt": "Name an animal with a shell",
+      "answers": 1007
+    },
+    {
+      "round": 3,
+      "file": "03-middle-eastern-dish.txt",
+      "folder": "03-middle-eastern-dish",
+      "prompt": "Name a Middle Eastern dish",
+      "answers": 841
+    },
+    {
+      "round": 4,
+      "file": "04-breaking-bad-character.txt",
+      "folder": "04-breaking-bad-character",
+      "prompt": "Name a Breaking Bad character",
+      "answers": 206
+    },
+    {
+      "round": 5,
+      "file": "05-war-fought-in-the-20th-century.txt",
+      "folder": "05-war-fought-in-the-20th-century",
+      "prompt": "Name a war fought in the 20th century",
+      "answers": 1069
+    },
+    {
+      "round": 6,
+      "file": "06-country-that-borders-brazil.txt",
+      "folder": "06-country-that-borders-brazil",
+      "prompt": "Name a country that borders Brazil",
+      "answers": 10
+    },
+    {
+      "round": 7,
+      "file": "07-mobile-game-with-over-100-million-downloads.txt",
+      "folder": "07-mobile-game-with-over-100-million-downloads",
+      "prompt": "Name a mobile game with over 100 million downloads",
+      "answers": 446
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

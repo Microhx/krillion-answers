@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a movie James Cameron directed, wrote, or produced",
+  "category": "People & Entertainment",
+  "round": 7,
+  "answers": 22,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 6,
+    "rare": 7,
+    "schooler": 5,
+    "tooclever": 1,
+    "plankton": 2
+  }
+}

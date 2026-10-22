@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a vegetable that's botanically a fruit",
+  "category": "Food & Drink",
+  "round": 2,
+  "answers": 10079,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 10002,
+    "rare": 57,
+    "schooler": 9,
+    "plankton": 9
+  }
+}

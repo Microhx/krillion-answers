@@ -1,0 +1,14 @@
+{
+  "prompt": "Name the capital city of an Asian country",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 55,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 14,
+    "rare": 18,
+    "schooler": 16,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

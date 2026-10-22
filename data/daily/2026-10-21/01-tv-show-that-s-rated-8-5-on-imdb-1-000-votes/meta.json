@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a TV show that's rated 8.5+ on IMDb (1,000+ votes)",
+  "category": "People & Entertainment",
+  "round": 1,
+  "answers": 979,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 737,
+    "rare": 207,
+    "schooler": 28,
+    "plankton": 6
+  }
+}

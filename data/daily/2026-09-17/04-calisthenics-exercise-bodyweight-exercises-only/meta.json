@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a calisthenics exercise (bodyweight exercises only)",
+  "category": "Sports & Games",
+  "round": 4,
+  "answers": 613,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 401,
+    "rare": 139,
+    "schooler": 64,
+    "plankton": 7
+  }
+}

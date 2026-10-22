@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a type of brush",
+  "category": "Objects, Tools & Materials",
+  "round": 3,
+  "answers": 404,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 321,
+    "rare": 65,
+    "schooler": 13,
+    "plankton": 3
+  }
+}

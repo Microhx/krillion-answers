@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a top-25 anime (by MyAnimeList popularity)",
+  "category": "People & Entertainment",
+  "round": 7,
+  "answers": 25,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 6,
+    "rare": 5,
+    "schooler": 7,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a current Fortune 500 CEO",
+  "category": "Work, Money & Society",
+  "round": 1,
+  "answers": 511,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 433,
+    "rare": 65,
+    "schooler": 5,
+    "plankton": 6
+  }
+}

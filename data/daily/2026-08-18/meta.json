@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-18",
+  "rounds": 7,
+  "answers": 644,
+  "categories": {
+    "Country / Geography / Places": 2,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 1,
+    "Science, Space & Tech": 1,
+    "Body, Health & Medicine": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-that-starts-with-the-letter-l.txt",
+      "folder": "01-country-that-starts-with-the-letter-l",
+      "prompt": "Name a country that starts with the letter L",
+      "answers": 9
+    },
+    {
+      "round": 2,
+      "file": "02-island-in-the-mediterranean.txt",
+      "folder": "02-island-in-the-mediterranean",
+      "prompt": "Name an island in the Mediterranean",
+      "answers": 134
+    },
+    {
+      "round": 3,
+      "file": "03-animal-that-hibernates.txt",
+      "folder": "03-animal-that-hibernates",
+      "prompt": "Name an animal that hibernates",
+      "answers": 34
+    },
+    {
+      "round": 4,
+      "file": "04-thai-or-vietnamese-dish.txt",
+      "folder": "04-thai-or-vietnamese-dish",
+      "prompt": "Name a Thai or Vietnamese dish",
+      "answers": 87
+    },
+    {
+      "round": 5,
+      "file": "05-pixar-character.txt",
+      "folder": "05-pixar-character",
+      "prompt": "Name a Pixar character",
+      "answers": 262
+    },
+    {
+      "round": 6,
+      "file": "06-planet-or-dwarf-planet-in-our-solar-system.txt",
+      "folder": "06-planet-or-dwarf-planet-in-our-solar-system",
+      "prompt": "Name a planet or dwarf planet in our solar system",
+      "answers": 17
+    },
+    {
+      "round": 7,
+      "file": "07-hairstyle.txt",
+      "folder": "07-hairstyle",
+      "prompt": "Name a hairstyle",
+      "answers": 101
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a city in Canada with over 100,000 people",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 76,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 33,
+    "rare": 28,
+    "schooler": 9,
+    "plankton": 5
+  }
+}

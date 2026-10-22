@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a service you can get at a hair salon",
+  "category": "Work, Money & Society",
+  "round": 2,
+  "answers": 231,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 134,
+    "rare": 73,
+    "schooler": 19,
+    "plankton": 3
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a platform people use to listen to music (apps and services, not devices)",
+  "category": "Brands / Companies / Apps",
+  "round": 7,
+  "answers": 585,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 535,
+    "rare": 37,
+    "schooler": 9,
+    "plankton": 3
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a math symbol",
+  "category": "Science, Space & Tech",
+  "round": 2,
+  "answers": 72,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 37,
+    "rare": 17,
+    "schooler": 9,
+    "tooclever": 2,
+    "plankton": 5
+  }
+}

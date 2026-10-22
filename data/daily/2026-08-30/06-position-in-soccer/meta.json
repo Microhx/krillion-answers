@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a position in soccer",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 43,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 12,
+    "rare": 13,
+    "schooler": 10,
+    "tooclever": 1,
+    "plankton": 6
+  }
+}

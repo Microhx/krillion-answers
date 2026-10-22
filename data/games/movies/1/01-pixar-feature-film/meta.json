@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Pixar feature film",
+  "category": "People & Entertainment",
+  "round": 1,
+  "answers": 31,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2,
+    "rare": 8,
+    "schooler": 13,
+    "tooclever": 1,
+    "plankton": 6
+  }
+}

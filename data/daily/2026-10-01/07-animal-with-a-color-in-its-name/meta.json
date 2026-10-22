@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an animal with a color in its name",
+  "category": "Animals & Nature",
+  "round": 7,
+  "answers": 32270,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 31627,
+    "rare": 565,
+    "schooler": 63,
+    "plankton": 14
+  }
+}

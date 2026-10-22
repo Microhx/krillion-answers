@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-17",
+  "rounds": 7,
+  "answers": 415,
+  "categories": {
+    "Country / Geography / Places": 2,
+    "Food & Drink": 1,
+    "People & Entertainment": 1,
+    "Science, Space & Tech": 1,
+    "Objects, Tools & Materials": 2
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-bigger-than-mexico-by-area.txt",
+      "folder": "01-country-bigger-than-mexico-by-area",
+      "prompt": "Name a country bigger than Mexico (by area)",
+      "answers": 12
+    },
+    {
+      "round": 2,
+      "file": "02-river-in-the-americas.txt",
+      "folder": "02-river-in-the-americas",
+      "prompt": "Name a river in the Americas",
+      "answers": 84
+    },
+    {
+      "round": 3,
+      "file": "03-indian-dish.txt",
+      "folder": "03-indian-dish",
+      "prompt": "Name an Indian dish",
+      "answers": 120
+    },
+    {
+      "round": 4,
+      "file": "04-looney-tunes-character.txt",
+      "folder": "04-looney-tunes-character",
+      "prompt": "Name a Looney Tunes character",
+      "answers": 47
+    },
+    {
+      "round": 5,
+      "file": "05-rock-or-mineral.txt",
+      "folder": "05-rock-or-mineral",
+      "prompt": "Name a rock or mineral",
+      "answers": 81
+    },
+    {
+      "round": 6,
+      "file": "06-piece-of-armor.txt",
+      "folder": "06-piece-of-armor",
+      "prompt": "Name a piece of armor",
+      "answers": 31
+    },
+    {
+      "round": 7,
+      "file": "07-type-of-tape.txt",
+      "folder": "07-type-of-tape",
+      "prompt": "Name a type of tape",
+      "answers": 40
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

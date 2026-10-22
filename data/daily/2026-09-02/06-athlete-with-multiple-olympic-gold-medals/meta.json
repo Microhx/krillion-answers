@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an athlete with multiple Olympic gold medals",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 1071,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 701,
+    "rare": 338,
+    "schooler": 27,
+    "plankton": 3
+  }
+}

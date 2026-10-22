@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Looney Tunes character",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 47,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 22,
+    "rare": 8,
+    "schooler": 11,
+    "tooclever": 2,
+    "plankton": 3
+  }
+}

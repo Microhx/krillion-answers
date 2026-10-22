@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-14",
+  "rounds": 7,
+  "answers": 1618,
+  "categories": {
+    "Country / Geography / Places": 2,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "Objects, Tools & Materials": 1,
+    "People & Entertainment": 1,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-modern-country-that-alexander-the-great-s-empire-reached.txt",
+      "folder": "01-modern-country-that-alexander-the-great-s-empire-reached",
+      "prompt": "Name a modern country that Alexander the Great's empire reached",
+      "answers": 25
+    },
+    {
+      "round": 2,
+      "file": "02-mammal-that-lives-underground.txt",
+      "folder": "02-mammal-that-lives-underground",
+      "prompt": "Name a mammal that lives underground",
+      "answers": 860
+    },
+    {
+      "round": 3,
+      "file": "03-legume.txt",
+      "folder": "03-legume",
+      "prompt": "Name a legume",
+      "answers": 303
+    },
+    {
+      "round": 4,
+      "file": "04-country-whose-national-flag-has-exactly-two-colors.txt",
+      "folder": "04-country-whose-national-flag-has-exactly-two-colors",
+      "prompt": "Name a country whose national flag has exactly two colors",
+      "answers": 37
+    },
+    {
+      "round": 5,
+      "file": "05-office-supply.txt",
+      "folder": "05-office-supply",
+      "prompt": "Name an office supply",
+      "answers": 335
+    },
+    {
+      "round": 6,
+      "file": "06-movie-starring-timoth-e-chalamet.txt",
+      "folder": "06-movie-starring-timoth-e-chalamet",
+      "prompt": "Name a movie starring Timothée Chalamet",
+      "answers": 25
+    },
+    {
+      "round": 7,
+      "file": "07-new-york-times-game.txt",
+      "folder": "07-new-york-times-game",
+      "prompt": "Name a New York Times game",
+      "answers": 33
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a type of diet",
+  "category": "Food & Drink",
+  "round": 6,
+  "answers": 289,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 151,
+    "rare": 95,
+    "schooler": 32,
+    "plankton": 10
+  }
+}

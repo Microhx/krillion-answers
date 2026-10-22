@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-02",
+  "rounds": 7,
+  "answers": 3456,
+  "categories": {
+    "People & Entertainment": 1,
+    "Sports & Games": 1,
+    "Objects, Tools & Materials": 1,
+    "Country / Geography / Places": 2,
+    "Work, Money & Society": 1,
+    "Animals & Nature": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-place-in-the-harry-potter-universe.txt",
+      "folder": "01-place-in-the-harry-potter-universe",
+      "prompt": "Name a place in the Harry Potter universe",
+      "answers": 1530
+    },
+    {
+      "round": 2,
+      "file": "02-type-of-shot-in-a-sport-like-a-free-throw.txt",
+      "folder": "02-type-of-shot-in-a-sport-like-a-free-throw",
+      "prompt": "Name a type of shot in a sport (like a free throw)",
+      "answers": 608
+    },
+    {
+      "round": 3,
+      "file": "03-part-of-a-shoe.txt",
+      "folder": "03-part-of-a-shoe",
+      "prompt": "Name a part of a shoe",
+      "answers": 237
+    },
+    {
+      "round": 4,
+      "file": "04-country-whose-name-ends-in-n.txt",
+      "folder": "04-country-whose-name-ends-in-n",
+      "prompt": "Name a country whose name ends in N",
+      "answers": 25
+    },
+    {
+      "round": 5,
+      "file": "05-country-with-glaciers.txt",
+      "folder": "05-country-with-glaciers",
+      "prompt": "Name a country with glaciers",
+      "answers": 50
+    },
+    {
+      "round": 6,
+      "file": "06-standard-type-of-tax-currently-levied-in-at-least-one-countr.txt",
+      "folder": "06-standard-type-of-tax-currently-levied-in-at-least-one-countr",
+      "prompt": "Name a standard type of tax (currently levied in at least one country)",
+      "answers": 150
+    },
+    {
+      "round": 7,
+      "file": "07-type-of-living-bird-general-types-species-names-are-grouped.txt",
+      "folder": "07-type-of-living-bird-general-types-species-names-are-grouped",
+      "prompt": "Name a type of living bird (general types; species names are grouped)",
+      "answers": 856
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

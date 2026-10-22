@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a living animal that weighs over a metric ton (1,000 kg)",
+  "category": "Animals & Nature",
+  "round": 3,
+  "answers": 99,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 46,
+    "rare": 29,
+    "schooler": 16,
+    "plankton": 6
+  }
+}

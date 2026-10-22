@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a country whose name starts with C",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 18,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 5,
+    "rare": 3,
+    "schooler": 4,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country that starts with the letter L",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 9,
+  "tiers": {
+    "krillion": 1,
+    "rare": 1,
+    "schooler": 4,
+    "tooclever": 1,
+    "plankton": 2
+  }
+}

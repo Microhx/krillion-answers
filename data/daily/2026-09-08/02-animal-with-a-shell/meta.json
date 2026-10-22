@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an animal with a shell",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 1007,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 967,
+    "rare": 25,
+    "schooler": 10,
+    "plankton": 4
+  }
+}

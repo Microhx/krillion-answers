@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a part of the human eye",
+  "category": "Body, Health & Medicine",
+  "round": 5,
+  "answers": 35,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 12,
+    "rare": 8,
+    "schooler": 9,
+    "tooclever": 2,
+    "plankton": 3
+  }
+}

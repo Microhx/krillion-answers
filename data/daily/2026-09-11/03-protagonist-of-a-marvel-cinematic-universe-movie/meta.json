@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a protagonist of a Marvel Cinematic Universe movie",
+  "category": "People & Entertainment",
+  "round": 3,
+  "answers": 33,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2,
+    "rare": 12,
+    "schooler": 10,
+    "plankton": 8
+  }
+}

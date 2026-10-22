@@ -1,0 +1,13 @@
+{
+  "prompt": "Name the most widely spoken language of any African country",
+  "category": "Words, Language & Numbers",
+  "round": 3,
+  "answers": 35,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 6,
+    "rare": 19,
+    "schooler": 4,
+    "plankton": 4
+  }
+}

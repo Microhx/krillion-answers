@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a movie that won the Best Picture Oscar",
+  "category": "People & Entertainment",
+  "round": 3,
+  "answers": 97,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 31,
+    "rare": 26,
+    "schooler": 33,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country with the letter Y in its name",
+  "category": "Country / Geography / Places",
+  "round": 5,
+  "answers": 29,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 10,
+    "rare": 4,
+    "schooler": 9,
+    "plankton": 5
+  }
+}

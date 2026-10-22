@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a European country",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 55,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 9,
+    "rare": 22,
+    "schooler": 17,
+    "plankton": 6
+  }
+}

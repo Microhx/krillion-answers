@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-05",
+  "rounds": 7,
+  "answers": 1829,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 1,
+    "Science, Space & Tech": 2,
+    "Body, Health & Medicine": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-national-capital-city-that-starts-with-b.txt",
+      "folder": "01-national-capital-city-that-starts-with-b",
+      "prompt": "Name a national capital city that starts with B",
+      "answers": 28
+    },
+    {
+      "round": 2,
+      "file": "02-mammal-or-reptile-that-lives-in-the-desert.txt",
+      "folder": "02-mammal-or-reptile-that-lives-in-the-desert",
+      "prompt": "Name a mammal or reptile that lives in the desert",
+      "answers": 288
+    },
+    {
+      "round": 3,
+      "file": "03-type-of-cookie-brands-don-t-count.txt",
+      "folder": "03-type-of-cookie-brands-don-t-count",
+      "prompt": "Name a type of cookie (brands don't count)",
+      "answers": 374
+    },
+    {
+      "round": 4,
+      "file": "04-seinfeld-character.txt",
+      "folder": "04-seinfeld-character",
+      "prompt": "Name a Seinfeld character",
+      "answers": 361
+    },
+    {
+      "round": 5,
+      "file": "05-type-of-engineering.txt",
+      "folder": "05-type-of-engineering",
+      "prompt": "Name a type of engineering",
+      "answers": 170
+    },
+    {
+      "round": 6,
+      "file": "06-unit-of-distance.txt",
+      "folder": "06-unit-of-distance",
+      "prompt": "Name a unit of distance",
+      "answers": 285
+    },
+    {
+      "round": 7,
+      "file": "07-medical-instrument.txt",
+      "folder": "07-medical-instrument",
+      "prompt": "Name a medical instrument",
+      "answers": 323
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

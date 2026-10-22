@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a world chess champion",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 29,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 9,
+    "rare": 11,
+    "schooler": 6,
+    "tooclever": 1,
+    "plankton": 1
+  }
+}

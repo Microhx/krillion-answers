@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a country that shares a land or maritime border with Russia",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 16,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2,
+    "rare": 2,
+    "schooler": 6,
+    "tooclever": 2,
+    "plankton": 3
+  }
+}

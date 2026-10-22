@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Walt Disney Animation Studios feature film",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 62,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 22,
+    "rare": 16,
+    "schooler": 15,
+    "tooclever": 1,
+    "plankton": 7
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a playground game",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 88,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 29,
+    "rare": 25,
+    "schooler": 27,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

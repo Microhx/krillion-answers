@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a freshwater fish",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 60,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 29,
+    "rare": 14,
+    "schooler": 10,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

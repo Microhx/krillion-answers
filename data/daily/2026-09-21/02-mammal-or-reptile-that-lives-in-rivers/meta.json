@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a mammal or reptile that lives in rivers",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 479,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 437,
+    "rare": 27,
+    "schooler": 8,
+    "plankton": 5
+  }
+}

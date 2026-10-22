@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a country that drives on the left",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 68,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 38,
+    "rare": 16,
+    "schooler": 9,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

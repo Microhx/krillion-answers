@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Lord of the Rings character",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 114,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 68,
+    "rare": 21,
+    "schooler": 16,
+    "tooclever": 3,
+    "plankton": 5
+  }
+}

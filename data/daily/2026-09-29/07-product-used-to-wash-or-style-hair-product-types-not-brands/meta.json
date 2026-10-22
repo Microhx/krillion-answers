@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a product used to wash or style hair (product types, not brands)",
+  "category": "Objects, Tools & Materials",
+  "round": 7,
+  "answers": 256,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 182,
+    "rare": 36,
+    "schooler": 30,
+    "plankton": 6
+  }
+}

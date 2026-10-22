@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Stephen King novel",
+  "category": "People & Entertainment",
+  "round": 7,
+  "answers": 63,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 22,
+    "rare": 25,
+    "schooler": 10,
+    "tooclever": 2,
+    "plankton": 3
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something sold in a tube",
+  "category": "Objects, Tools & Materials",
+  "round": 1,
+  "answers": 474,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 322,
+    "rare": 106,
+    "schooler": 34,
+    "plankton": 10
+  }
+}

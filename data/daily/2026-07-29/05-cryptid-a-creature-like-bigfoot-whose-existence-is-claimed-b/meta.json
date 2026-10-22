@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a cryptid (a creature like Bigfoot whose existence is claimed but unproven)",
+  "category": "People & Entertainment",
+  "round": 5,
+  "answers": 70,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 37,
+    "rare": 17,
+    "schooler": 11,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

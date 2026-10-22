@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a dog breed",
+  "category": "Animals & Nature",
+  "round": 7,
+  "answers": 113,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 42,
+    "rare": 34,
+    "schooler": 29,
+    "tooclever": 2,
+    "plankton": 5
+  }
+}

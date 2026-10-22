@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a living mammal native to Africa",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 225,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 147,
+    "rare": 53,
+    "schooler": 18,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

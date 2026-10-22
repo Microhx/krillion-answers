@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a board game",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 90,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 30,
+    "rare": 35,
+    "schooler": 18,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

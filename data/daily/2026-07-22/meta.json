@@ -1,0 +1,67 @@
+{
+  "mode": "daily",
+  "game_id": "2026-07-22",
+  "rounds": 7,
+  "answers": 429,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 1,
+    "Science, Space & Tech": 1,
+    "Sports & Games": 1,
+    "Words, Language & Numbers": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-river-in-europe.txt",
+      "folder": "01-river-in-europe",
+      "prompt": "Name a river in Europe",
+      "answers": 84
+    },
+    {
+      "round": 2,
+      "file": "02-penguin-species.txt",
+      "folder": "02-penguin-species",
+      "prompt": "Name a penguin species",
+      "answers": 20
+    },
+    {
+      "round": 3,
+      "file": "03-breakfast-cereal-brand.txt",
+      "folder": "03-breakfast-cereal-brand",
+      "prompt": "Name a breakfast cereal brand",
+      "answers": 65
+    },
+    {
+      "round": 4,
+      "file": "04-james-bond-film.txt",
+      "folder": "04-james-bond-film",
+      "prompt": "Name a James Bond film",
+      "answers": 27
+    },
+    {
+      "round": 5,
+      "file": "05-gemstone.txt",
+      "folder": "05-gemstone",
+      "prompt": "Name a gemstone",
+      "answers": 64
+    },
+    {
+      "round": 6,
+      "file": "06-board-game.txt",
+      "folder": "06-board-game",
+      "prompt": "Name a board game",
+      "answers": 90
+    },
+    {
+      "round": 7,
+      "file": "07-language-spoken-in-europe.txt",
+      "folder": "07-language-spoken-in-europe",
+      "prompt": "Name a language spoken in Europe",
+      "answers": 79
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

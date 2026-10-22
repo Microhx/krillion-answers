@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a sport played with a racquet or paddle",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 31,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 11,
+    "rare": 7,
+    "schooler": 6,
+    "tooclever": 3,
+    "plankton": 3
+  }
+}

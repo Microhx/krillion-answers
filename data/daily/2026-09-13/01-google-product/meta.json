@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a Google product",
+  "category": "Brands / Companies / Apps",
+  "round": 1,
+  "answers": 939,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 712,
+    "rare": 180,
+    "schooler": 39,
+    "plankton": 6
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something used to block the sun",
+  "category": "Objects, Tools & Materials",
+  "round": 3,
+  "answers": 405,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 324,
+    "rare": 67,
+    "schooler": 6,
+    "plankton": 6
+  }
+}

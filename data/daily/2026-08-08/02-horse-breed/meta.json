@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a horse breed",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 65,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 38,
+    "rare": 14,
+    "schooler": 5,
+    "tooclever": 2,
+    "plankton": 5
+  }
+}

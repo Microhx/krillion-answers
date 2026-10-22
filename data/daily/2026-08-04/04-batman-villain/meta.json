@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Batman villain",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 61,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 28,
+    "rare": 19,
+    "schooler": 7,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

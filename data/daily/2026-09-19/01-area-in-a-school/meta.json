@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an area in a school",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 445,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 324,
+    "rare": 95,
+    "schooler": 18,
+    "plankton": 7
+  }
+}

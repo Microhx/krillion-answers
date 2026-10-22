@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a talk show host",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 62,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 18,
+    "rare": 22,
+    "schooler": 13,
+    "tooclever": 3,
+    "plankton": 5
+  }
+}

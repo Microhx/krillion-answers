@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something sold in a roll",
+  "category": "Objects, Tools & Materials",
+  "round": 1,
+  "answers": 614,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 447,
+    "rare": 134,
+    "schooler": 24,
+    "plankton": 7
+  }
+}

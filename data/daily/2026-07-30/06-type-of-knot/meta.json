@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a type of knot",
+  "category": "Objects, Tools & Materials",
+  "round": 6,
+  "answers": 55,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 21,
+    "rare": 16,
+    "schooler": 12,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

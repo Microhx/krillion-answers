@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-02",
+  "rounds": 7,
+  "answers": 3348,
+  "categories": {
+    "Objects, Tools & Materials": 1,
+    "Animals & Nature": 1,
+    "People & Entertainment": 2,
+    "Country / Geography / Places": 1,
+    "Sports & Games": 2
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-type-of-gun-types-and-models-both-count.txt",
+      "folder": "01-type-of-gun-types-and-models-both-count",
+      "prompt": "Name a type of gun (types and models both count)",
+      "answers": 297
+    },
+    {
+      "round": 2,
+      "file": "02-creature-you-might-find-in-a-tide-pool.txt",
+      "folder": "02-creature-you-might-find-in-a-tide-pool",
+      "prompt": "Name a creature you might find in a tide pool",
+      "answers": 135
+    },
+    {
+      "round": 3,
+      "file": "03-hbo-show.txt",
+      "folder": "03-hbo-show",
+      "prompt": "Name an HBO show",
+      "answers": 718
+    },
+    {
+      "round": 4,
+      "file": "04-dreamworks-animated-character.txt",
+      "folder": "04-dreamworks-animated-character",
+      "prompt": "Name a DreamWorks animated character",
+      "answers": 622
+    },
+    {
+      "round": 5,
+      "file": "05-country-that-was-an-ally-of-the-soviet-union-during-the-cold.txt",
+      "folder": "05-country-that-was-an-ally-of-the-soviet-union-during-the-cold",
+      "prompt": "Name a country that was an ally of the Soviet Union during the Cold War",
+      "answers": 38
+    },
+    {
+      "round": 6,
+      "file": "06-athlete-with-multiple-olympic-gold-medals.txt",
+      "folder": "06-athlete-with-multiple-olympic-gold-medals",
+      "prompt": "Name an athlete with multiple Olympic gold medals",
+      "answers": 1071
+    },
+    {
+      "round": 7,
+      "file": "07-chess-term.txt",
+      "folder": "07-chess-term",
+      "prompt": "Name a chess term",
+      "answers": 467
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

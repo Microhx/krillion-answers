@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a strait (a narrow sea passage between two landmasses)",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 58,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 27,
+    "rare": 17,
+    "schooler": 9,
+    "tooclever": 1,
+    "plankton": 2
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a stock trading term",
+  "category": "Work, Money & Society",
+  "round": 7,
+  "answers": 1501,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1248,
+    "rare": 205,
+    "schooler": 40,
+    "plankton": 7
+  }
+}

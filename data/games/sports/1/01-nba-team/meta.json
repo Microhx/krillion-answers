@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an NBA team",
+  "category": "Sports & Games",
+  "round": 1,
+  "answers": 52,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 14,
+    "rare": 14,
+    "schooler": 16,
+    "tooclever": 1,
+    "plankton": 6
+  }
+}

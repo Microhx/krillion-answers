@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a famous poet",
+  "category": "People & Entertainment",
+  "round": 7,
+  "answers": 104,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 56,
+    "rare": 26,
+    "schooler": 13,
+    "tooclever": 3,
+    "plankton": 5
+  }
+}

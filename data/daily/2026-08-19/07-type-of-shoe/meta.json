@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a type of shoe",
+  "category": "Objects, Tools & Materials",
+  "round": 7,
+  "answers": 83,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 19,
+    "rare": 31,
+    "schooler": 26,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

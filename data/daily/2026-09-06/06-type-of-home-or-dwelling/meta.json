@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a type of home or dwelling",
+  "category": "Objects, Tools & Materials",
+  "round": 6,
+  "answers": 374,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 280,
+    "rare": 61,
+    "schooler": 27,
+    "plankton": 4
+  }
+}

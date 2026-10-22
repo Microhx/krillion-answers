@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an American fast food chain",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 891,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 791,
+    "rare": 74,
+    "schooler": 18,
+    "plankton": 7
+  }
+}

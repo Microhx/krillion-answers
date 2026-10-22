@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Thai or Vietnamese dish",
+  "category": "Food & Drink",
+  "round": 4,
+  "answers": 87,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 58,
+    "rare": 13,
+    "schooler": 11,
+    "tooclever": 2,
+    "plankton": 2
+  }
+}

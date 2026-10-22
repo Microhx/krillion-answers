@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a country in Africa",
+  "category": "Country / Geography / Places",
+  "round": 2,
+  "answers": 55,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 14,
+    "rare": 17,
+    "schooler": 16,
+    "tooclever": 2,
+    "plankton": 5
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an ice cream brand",
+  "category": "Food & Drink",
+  "round": 4,
+  "answers": 130,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 74,
+    "rare": 34,
+    "schooler": 15,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

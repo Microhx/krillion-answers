@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a video game that includes Mario",
+  "category": "Sports & Games",
+  "round": 4,
+  "answers": 256,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 184,
+    "rare": 46,
+    "schooler": 20,
+    "plankton": 5
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a musical instrument",
+  "category": "People & Entertainment",
+  "round": 1,
+  "answers": 3118,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 2929,
+    "rare": 133,
+    "schooler": 42,
+    "plankton": 12
+  }
+}

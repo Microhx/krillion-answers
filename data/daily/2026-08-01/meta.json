@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-01",
+  "rounds": 7,
+  "answers": 389,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 2,
+    "Objects, Tools & Materials": 1,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-in-the-european-union.txt",
+      "folder": "01-country-in-the-european-union",
+      "prompt": "Name a country in the European Union",
+      "answers": 27
+    },
+    {
+      "round": 2,
+      "file": "02-owl-species.txt",
+      "folder": "02-owl-species",
+      "prompt": "Name an owl species",
+      "answers": 44
+    },
+    {
+      "round": 3,
+      "file": "03-type-of-cake.txt",
+      "folder": "03-type-of-cake",
+      "prompt": "Name a type of cake",
+      "answers": 61
+    },
+    {
+      "round": 4,
+      "file": "04-dreamworks-animation-movie.txt",
+      "folder": "04-dreamworks-animation-movie",
+      "prompt": "Name a DreamWorks Animation movie",
+      "answers": 54
+    },
+    {
+      "round": 5,
+      "file": "05-metal-alloy.txt",
+      "folder": "05-metal-alloy",
+      "prompt": "Name a metal alloy",
+      "answers": 61
+    },
+    {
+      "round": 6,
+      "file": "06-soccer-club-that-has-won-the-european-cup-or-champions-leagu.txt",
+      "folder": "06-soccer-club-that-has-won-the-european-cup-or-champions-leagu",
+      "prompt": "Name a soccer club that has won the European Cup or Champions League",
+      "answers": 24
+    },
+    {
+      "round": 7,
+      "file": "07-famous-classical-composer.txt",
+      "folder": "07-famous-classical-composer",
+      "prompt": "Name a famous classical composer",
+      "answers": 118
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

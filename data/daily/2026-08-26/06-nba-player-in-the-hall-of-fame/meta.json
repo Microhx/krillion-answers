@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an NBA player in the Hall of Fame",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 174,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 77,
+    "rare": 65,
+    "schooler": 24,
+    "tooclever": 1,
+    "plankton": 6
+  }
+}

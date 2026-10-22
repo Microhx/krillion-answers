@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an occupation that involves working with children (the job itself must focus on kids)",
+  "category": "Work, Money & Society",
+  "round": 2,
+  "answers": 264,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 175,
+    "rare": 56,
+    "schooler": 26,
+    "plankton": 5
+  }
+}

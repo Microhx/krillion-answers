@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an officially recognized constellation",
+  "category": "Science, Space & Tech",
+  "round": 4,
+  "answers": 90,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 49,
+    "rare": 16,
+    "schooler": 17,
+    "tooclever": 2,
+    "plankton": 5
+  }
+}

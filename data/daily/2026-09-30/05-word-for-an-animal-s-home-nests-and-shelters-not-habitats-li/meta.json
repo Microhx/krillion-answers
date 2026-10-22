@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a word for an animal's home (nests and shelters, not habitats like the ocean)",
+  "category": "Words, Language & Numbers",
+  "round": 5,
+  "answers": 177,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 95,
+    "rare": 49,
+    "schooler": 22,
+    "plankton": 10
+  }
+}

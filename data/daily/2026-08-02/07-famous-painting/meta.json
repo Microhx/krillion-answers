@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a famous painting",
+  "category": "People & Entertainment",
+  "round": 7,
+  "answers": 78,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 42,
+    "rare": 16,
+    "schooler": 11,
+    "tooclever": 4,
+    "plankton": 3
+  }
+}

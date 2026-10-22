@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country whose name ends in an \"ee\" sound (like Italy)",
+  "category": "Country / Geography / Places",
+  "round": 3,
+  "answers": 18,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2,
+    "rare": 8,
+    "schooler": 3,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Marvel Cinematic Universe movie",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 40,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2,
+    "rare": 16,
+    "schooler": 14,
+    "tooclever": 4,
+    "plankton": 3
+  }
+}

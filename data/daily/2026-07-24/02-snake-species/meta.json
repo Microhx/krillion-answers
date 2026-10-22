@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a snake species",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 71,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 29,
+    "rare": 22,
+    "schooler": 13,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

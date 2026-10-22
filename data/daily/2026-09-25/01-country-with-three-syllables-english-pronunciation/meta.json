@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country with three syllables (English pronunciation)",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 83,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 14,
+    "rare": 40,
+    "schooler": 22,
+    "plankton": 6
+  }
+}

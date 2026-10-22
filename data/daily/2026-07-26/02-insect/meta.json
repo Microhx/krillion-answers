@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an insect",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 52,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 17,
+    "rare": 15,
+    "schooler": 13,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

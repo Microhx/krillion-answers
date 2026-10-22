@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a shade of red (pinks don't count)",
+  "category": "Words, Language & Numbers",
+  "round": 4,
+  "answers": 444,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 378,
+    "rare": 50,
+    "schooler": 12,
+    "plankton": 3
+  }
+}

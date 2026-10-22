@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-13",
+  "rounds": 7,
+  "answers": 816,
+  "categories": {
+    "Country / Geography / Places": 2,
+    "Objects, Tools & Materials": 1,
+    "Work, Money & Society": 1,
+    "People & Entertainment": 2,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-that-has-a-g-in-its-name.txt",
+      "folder": "01-country-that-has-a-g-in-its-name",
+      "prompt": "Name a country that has a G in its name",
+      "answers": 45
+    },
+    {
+      "round": 2,
+      "file": "02-piece-of-furniture.txt",
+      "folder": "02-piece-of-furniture",
+      "prompt": "Name a piece of furniture",
+      "answers": 69
+    },
+    {
+      "round": 3,
+      "file": "03-current-world-leader-head-of-state-or-government.txt",
+      "folder": "03-current-world-leader-head-of-state-or-government",
+      "prompt": "Name a current world leader (head of state or government)",
+      "answers": 338
+    },
+    {
+      "round": 4,
+      "file": "04-horror-movie-franchise.txt",
+      "folder": "04-horror-movie-franchise",
+      "prompt": "Name a horror movie franchise",
+      "answers": 205
+    },
+    {
+      "round": 5,
+      "file": "05-country-that-uses-the-dollar.txt",
+      "folder": "05-country-that-uses-the-dollar",
+      "prompt": "Name a country that uses the dollar",
+      "answers": 35
+    },
+    {
+      "round": 6,
+      "file": "06-extreme-sport.txt",
+      "folder": "06-extreme-sport",
+      "prompt": "Name an extreme sport",
+      "answers": 94
+    },
+    {
+      "round": 7,
+      "file": "07-ryan-gosling-movie.txt",
+      "folder": "07-ryan-gosling-movie",
+      "prompt": "Name a Ryan Gosling movie",
+      "answers": 30
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

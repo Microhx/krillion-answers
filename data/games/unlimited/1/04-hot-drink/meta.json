@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a hot drink",
+  "category": "Food & Drink",
+  "round": 4,
+  "answers": 113,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 68,
+    "rare": 27,
+    "schooler": 14,
+    "plankton": 3
+  }
+}

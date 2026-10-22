@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a mollusk or shellfish",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 41,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 12,
+    "rare": 13,
+    "schooler": 8,
+    "tooclever": 3,
+    "plankton": 4
+  }
+}

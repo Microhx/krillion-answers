@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a body part people have more than two of (like fingers)",
+  "category": "Body, Health & Medicine",
+  "round": 6,
+  "answers": 1591,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 1500,
+    "rare": 70,
+    "schooler": 14,
+    "plankton": 5
+  }
+}

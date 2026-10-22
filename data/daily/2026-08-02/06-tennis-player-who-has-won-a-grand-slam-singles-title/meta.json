@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a tennis player who has won a Grand Slam singles title",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 145,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 70,
+    "rare": 41,
+    "schooler": 26,
+    "tooclever": 3,
+    "plankton": 4
+  }
+}

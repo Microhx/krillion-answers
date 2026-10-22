@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-06",
+  "rounds": 7,
+  "answers": 1836,
+  "categories": {
+    "Words, Language & Numbers": 1,
+    "Sports & Games": 1,
+    "Objects, Tools & Materials": 2,
+    "Science, Space & Tech": 1,
+    "Work, Money & Society": 1,
+    "Country / Geography / Places": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-language-ending-in-ese.txt",
+      "folder": "01-language-ending-in-ese",
+      "prompt": "Name a language ending in -ese",
+      "answers": 318
+    },
+    {
+      "round": 2,
+      "file": "02-sport-or-game-where-you-score-by-getting-a-ball-or-object-in.txt",
+      "folder": "02-sport-or-game-where-you-score-by-getting-a-ball-or-object-in",
+      "prompt": "Name a sport or game where you score by getting a ball or object into a hole, hoop, basket or pocket",
+      "answers": 236
+    },
+    {
+      "round": 3,
+      "file": "03-type-of-brush.txt",
+      "folder": "03-type-of-brush",
+      "prompt": "Name a type of brush",
+      "answers": 404
+    },
+    {
+      "round": 4,
+      "file": "04-home-safety-device-like-a-smoke-detector.txt",
+      "folder": "04-home-safety-device-like-a-smoke-detector",
+      "prompt": "Name a home safety device (like a smoke detector)",
+      "answers": 167
+    },
+    {
+      "round": 5,
+      "file": "05-name-something-you-can-do-to-a-photo-in-your-phone-s-photo-e.txt",
+      "folder": "05-name-something-you-can-do-to-a-photo-in-your-phone-s-photo-e",
+      "prompt": "Name something you can do to a photo in your phone's photo editor (like crop)",
+      "answers": 332
+    },
+    {
+      "round": 6,
+      "file": "06-form-of-pay-a-worker-can-receive.txt",
+      "folder": "06-form-of-pay-a-worker-can-receive",
+      "prompt": "Name a form of pay a worker can receive",
+      "answers": 333
+    },
+    {
+      "round": 7,
+      "file": "07-country-with-both-an-a-and-an-m-in-its-name.txt",
+      "folder": "07-country-with-both-an-a-and-an-m-in-its-name",
+      "prompt": "Name a country with both an A and an M in its name",
+      "answers": 46
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

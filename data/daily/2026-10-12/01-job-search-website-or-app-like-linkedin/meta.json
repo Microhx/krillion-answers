@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a job-search website or app (like LinkedIn)",
+  "category": "Brands / Companies / Apps",
+  "round": 1,
+  "answers": 9445,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 9343,
+    "rare": 91,
+    "schooler": 5,
+    "plankton": 4
+  }
+}

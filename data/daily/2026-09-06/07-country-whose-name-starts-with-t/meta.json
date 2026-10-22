@@ -1,0 +1,12 @@
+{
+  "prompt": "Name a country whose name starts with T",
+  "category": "Country / Geography / Places",
+  "round": 7,
+  "answers": 12,
+  "tiers": {
+    "deepcut": 2,
+    "rare": 4,
+    "schooler": 4,
+    "plankton": 2
+  }
+}

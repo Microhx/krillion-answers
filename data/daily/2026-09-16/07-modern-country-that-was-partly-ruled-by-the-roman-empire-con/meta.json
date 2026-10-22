@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a modern country that was partly ruled by the Roman Empire (constituent countries don't count)",
+  "category": "Country / Geography / Places",
+  "round": 7,
+  "answers": 49,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 5,
+    "rare": 27,
+    "schooler": 8,
+    "plankton": 7
+  }
+}

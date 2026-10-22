@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a sport that is a race (fastest to the finish wins)",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 586,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 446,
+    "rare": 100,
+    "schooler": 28,
+    "plankton": 10
+  }
+}

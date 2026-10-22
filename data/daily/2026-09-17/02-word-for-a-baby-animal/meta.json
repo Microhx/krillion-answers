@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a word for a baby animal",
+  "category": "Words, Language & Numbers",
+  "round": 2,
+  "answers": 233,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 143,
+    "rare": 59,
+    "schooler": 18,
+    "plankton": 11
+  }
+}

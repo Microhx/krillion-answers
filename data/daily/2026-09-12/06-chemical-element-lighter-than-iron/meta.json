@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a chemical element lighter than iron",
+  "category": "Science, Space & Tech",
+  "round": 6,
+  "answers": 25,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 8,
+    "rare": 10,
+    "schooler": 4,
+    "plankton": 2
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a type of sandwich",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 73,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 21,
+    "rare": 23,
+    "schooler": 19,
+    "tooclever": 3,
+    "plankton": 6
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "mode": "daily",
+  "game_id": "2026-07-30",
+  "rounds": 6,
+  "answers": 320,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 1,
+    "People & Entertainment": 1,
+    "Science, Space & Tech": 1,
+    "Objects, Tools & Materials": 1,
+    "Work, Money & Society": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-whose-flag-uses-all-three-of-red-white-and-blue-and.txt",
+      "folder": "01-country-whose-flag-uses-all-three-of-red-white-and-blue-and",
+      "prompt": "Name a country whose flag uses all three of red, white, and blue, and no other colors",
+      "answers": 25
+    },
+    {
+      "round": 2,
+      "file": "02-rodent.txt",
+      "folder": "02-rodent",
+      "prompt": "Name a rodent",
+      "answers": 5
+    },
+    {
+      "round": 4,
+      "file": "04-broadway-musical.txt",
+      "folder": "04-broadway-musical",
+      "prompt": "Name a Broadway musical",
+      "answers": 130
+    },
+    {
+      "round": 5,
+      "file": "05-metric-si-prefix.txt",
+      "folder": "05-metric-si-prefix",
+      "prompt": "Name a metric (SI) prefix",
+      "answers": 24
+    },
+    {
+      "round": 6,
+      "file": "06-type-of-knot.txt",
+      "folder": "06-type-of-knot",
+      "prompt": "Name a type of knot",
+      "answers": 55
+    },
+    {
+      "round": 7,
+      "file": "07-ancient-civilization.txt",
+      "folder": "07-ancient-civilization",
+      "prompt": "Name an ancient civilization",
+      "answers": 81
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

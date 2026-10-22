@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a unit of weight or mass",
+  "category": "Science, Space & Tech",
+  "round": 6,
+  "answers": 344,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 312,
+    "rare": 21,
+    "schooler": 3,
+    "plankton": 6
+  }
+}

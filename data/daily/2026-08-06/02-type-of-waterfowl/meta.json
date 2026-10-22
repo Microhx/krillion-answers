@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a type of waterfowl",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 52,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 19,
+    "rare": 21,
+    "schooler": 4,
+    "tooclever": 2,
+    "plankton": 5
+  }
+}

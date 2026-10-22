@@ -1,0 +1,64 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-30",
+  "rounds": 7,
+  "answers": 3746,
+  "categories": {
+    "Food & Drink": 1,
+    "Objects, Tools & Materials": 3,
+    "Body, Health & Medicine": 1,
+    "Words, Language & Numbers": 2
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-coffee-shop-chain.txt",
+      "folder": "01-coffee-shop-chain",
+      "prompt": "Name a coffee shop chain",
+      "answers": 1659
+    },
+    {
+      "round": 2,
+      "file": "02-item-designed-to-be-filled-with-air.txt",
+      "folder": "02-item-designed-to-be-filled-with-air",
+      "prompt": "Name an item designed to be filled with air",
+      "answers": 265
+    },
+    {
+      "round": 3,
+      "file": "03-medical-scan-or-imaging-test-pictures-of-the-body-not-readou.txt",
+      "folder": "03-medical-scan-or-imaging-test-pictures-of-the-body-not-readou",
+      "prompt": "Name a medical scan or imaging test (pictures of the body, not readouts like an EKG)",
+      "answers": 379
+    },
+    {
+      "round": 4,
+      "file": "04-power-tool.txt",
+      "folder": "04-power-tool",
+      "prompt": "Name a power tool",
+      "answers": 296
+    },
+    {
+      "round": 5,
+      "file": "05-word-for-an-animal-s-home-nests-and-shelters-not-habitats-li.txt",
+      "folder": "05-word-for-an-animal-s-home-nests-and-shelters-not-habitats-li",
+      "prompt": "Name a word for an animal's home (nests and shelters, not habitats like the ocean)",
+      "answers": 177
+    },
+    {
+      "round": 6,
+      "file": "06-phone-accessory.txt",
+      "folder": "06-phone-accessory",
+      "prompt": "Name a phone accessory",
+      "answers": 200
+    },
+    {
+      "round": 7,
+      "file": "07-real-life-language-that-uses-a-non-latin-writing-system.txt",
+      "folder": "07-real-life-language-that-uses-a-non-latin-writing-system",
+      "prompt": "Name a real-life language that uses a non-Latin writing system",
+      "answers": 770
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

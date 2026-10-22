@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-05",
+  "rounds": 7,
+  "answers": 18394,
+  "categories": {
+    "People & Entertainment": 1,
+    "Food & Drink": 2,
+    "Country / Geography / Places": 1,
+    "Brands / Companies / Apps": 2,
+    "Science, Space & Tech": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-artist-with-at-least-1-million-monthly-listeners-on-spotify.txt",
+      "folder": "01-artist-with-at-least-1-million-monthly-listeners-on-spotify",
+      "prompt": "Name an artist with at least 1 million monthly listeners on Spotify",
+      "answers": 14605
+    },
+    {
+      "round": 2,
+      "file": "02-part-of-a-fruit.txt",
+      "folder": "02-part-of-a-fruit",
+      "prompt": "Name a part of a fruit",
+      "answers": 128
+    },
+    {
+      "round": 3,
+      "file": "03-country-whose-name-ends-in-an-ee-sound-like-italy.txt",
+      "folder": "03-country-whose-name-ends-in-an-ee-sound-like-italy",
+      "prompt": "Name a country whose name ends in an \"ee\" sound (like Italy)",
+      "answers": 18
+    },
+    {
+      "round": 4,
+      "file": "04-tv-brand.txt",
+      "folder": "04-tv-brand",
+      "prompt": "Name a TV brand",
+      "answers": 1187
+    },
+    {
+      "round": 5,
+      "file": "05-name-something-you-can-do-with-a-keyboard-shortcut-like-copy.txt",
+      "folder": "05-name-something-you-can-do-with-a-keyboard-shortcut-like-copy",
+      "prompt": "Name something you can do with a keyboard shortcut (like copy with Ctrl+C)",
+      "answers": 777
+    },
+    {
+      "round": 6,
+      "file": "06-fruit-or-vegetable-that-starts-with-p.txt",
+      "folder": "06-fruit-or-vegetable-that-starts-with-p",
+      "prompt": "Name a fruit or vegetable that starts with P",
+      "answers": 972
+    },
+    {
+      "round": 7,
+      "file": "07-website-or-app-built-mainly-for-ratings-and-reviews.txt",
+      "folder": "07-website-or-app-built-mainly-for-ratings-and-reviews",
+      "prompt": "Name a website or app built mainly for ratings and reviews",
+      "answers": 707
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a current world leader (head of state or government)",
+  "category": "Work, Money & Society",
+  "round": 3,
+  "answers": 338,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 254,
+    "rare": 62,
+    "schooler": 14,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

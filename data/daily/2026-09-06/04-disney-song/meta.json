@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a Disney song",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 1766,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1522,
+    "rare": 195,
+    "schooler": 43,
+    "plankton": 5
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a fabric or textile",
+  "category": "Objects, Tools & Materials",
+  "round": 7,
+  "answers": 99,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 26,
+    "rare": 37,
+    "schooler": 30,
+    "tooclever": 2,
+    "plankton": 3
+  }
+}

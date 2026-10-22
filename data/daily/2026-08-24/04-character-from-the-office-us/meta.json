@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a character from The Office (US)",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 80,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 48,
+    "rare": 10,
+    "schooler": 15,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

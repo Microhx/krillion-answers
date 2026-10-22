@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a style of hat",
+  "category": "Objects, Tools & Materials",
+  "round": 6,
+  "answers": 65,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 27,
+    "rare": 23,
+    "schooler": 10,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

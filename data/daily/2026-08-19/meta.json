@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-19",
+  "rounds": 7,
+  "answers": 304,
+  "categories": {
+    "Country / Geography / Places": 2,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 1,
+    "Science, Space & Tech": 1,
+    "Objects, Tools & Materials": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-whose-name-starts-with-m.txt",
+      "folder": "01-country-whose-name-starts-with-m",
+      "prompt": "Name a country whose name starts with M",
+      "answers": 19
+    },
+    {
+      "round": 2,
+      "file": "02-mollusk-or-shellfish.txt",
+      "folder": "02-mollusk-or-shellfish",
+      "prompt": "Name a mollusk or shellfish",
+      "answers": 41
+    },
+    {
+      "round": 3,
+      "file": "03-german-dish.txt",
+      "folder": "03-german-dish",
+      "prompt": "Name a German dish",
+      "answers": 63
+    },
+    {
+      "round": 4,
+      "file": "04-youtuber-with-more-than-100-million-subscribers.txt",
+      "folder": "04-youtuber-with-more-than-100-million-subscribers",
+      "prompt": "Name a YouTuber with more than 100 million subscribers",
+      "answers": 17
+    },
+    {
+      "round": 5,
+      "file": "05-subatomic-particle.txt",
+      "folder": "05-subatomic-particle",
+      "prompt": "Name a subatomic particle",
+      "answers": 64
+    },
+    {
+      "round": 6,
+      "file": "06-country-that-has-a-z-in-its-name.txt",
+      "folder": "06-country-that-has-a-z-in-its-name",
+      "prompt": "Name a country that has a Z in its name",
+      "answers": 17
+    },
+    {
+      "round": 7,
+      "file": "07-type-of-shoe.txt",
+      "folder": "07-type-of-shoe",
+      "prompt": "Name a type of shoe",
+      "answers": 83
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a curry",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 144,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 88,
+    "rare": 30,
+    "schooler": 18,
+    "tooclever": 1,
+    "plankton": 6
+  }
+}

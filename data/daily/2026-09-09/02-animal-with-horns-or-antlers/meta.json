@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an animal with horns or antlers",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 783,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 739,
+    "rare": 31,
+    "schooler": 6,
+    "plankton": 5
+  }
+}

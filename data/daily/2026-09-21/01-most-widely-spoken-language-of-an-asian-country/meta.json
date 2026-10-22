@@ -1,0 +1,13 @@
+{
+  "prompt": "Name the most widely spoken language of an Asian country",
+  "category": "Words, Language & Numbers",
+  "round": 1,
+  "answers": 35,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 5,
+    "rare": 11,
+    "schooler": 12,
+    "plankton": 5
+  }
+}

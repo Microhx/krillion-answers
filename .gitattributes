@@ -1,0 +1,4 @@
+# Normalise text files to LF, keep archives binary.
+* text=auto eol=lf
+*.gz binary
+*.ttf binary

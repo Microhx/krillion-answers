@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Drake song",
+  "category": "People & Entertainment",
+  "round": 6,
+  "answers": 580,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 397,
+    "rare": 148,
+    "schooler": 29,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

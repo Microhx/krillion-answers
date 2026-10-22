@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-28",
+  "rounds": 7,
+  "answers": 1477,
+  "categories": {
+    "Country / Geography / Places": 2,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 2,
+    "Science, Space & Tech": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-or-territory-with-the-union-jack-on-its-flag.txt",
+      "folder": "01-country-or-territory-with-the-union-jack-on-its-flag",
+      "prompt": "Name a country or territory with the Union Jack on its flag",
+      "answers": 20
+    },
+    {
+      "round": 2,
+      "file": "02-living-bird-that-cannot-fly.txt",
+      "folder": "02-living-bird-that-cannot-fly",
+      "prompt": "Name a living bird that cannot fly",
+      "answers": 64
+    },
+    {
+      "round": 3,
+      "file": "03-dip.txt",
+      "folder": "03-dip",
+      "prompt": "Name a dip",
+      "answers": 110
+    },
+    {
+      "round": 4,
+      "file": "04-game-of-thrones-character.txt",
+      "folder": "04-game-of-thrones-character",
+      "prompt": "Name a Game of Thrones character",
+      "answers": 572
+    },
+    {
+      "round": 5,
+      "file": "05-chemical-element-that-is-a-gas-at-room-temperature.txt",
+      "folder": "05-chemical-element-that-is-a-gas-at-room-temperature",
+      "prompt": "Name a chemical element that is a gas at room temperature",
+      "answers": 11
+    },
+    {
+      "round": 6,
+      "file": "06-drake-song.txt",
+      "folder": "06-drake-song",
+      "prompt": "Name a Drake song",
+      "answers": 580
+    },
+    {
+      "round": 7,
+      "file": "07-famous-museum.txt",
+      "folder": "07-famous-museum",
+      "prompt": "Name a famous museum",
+      "answers": 120
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

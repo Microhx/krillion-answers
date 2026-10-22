@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a type of tape",
+  "category": "Objects, Tools & Materials",
+  "round": 7,
+  "answers": 40,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 16,
+    "rare": 12,
+    "schooler": 5,
+    "tooclever": 3,
+    "plankton": 2
+  }
+}

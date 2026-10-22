@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a type of salad",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 53,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 16,
+    "rare": 20,
+    "schooler": 9,
+    "tooclever": 2,
+    "plankton": 5
+  }
+}

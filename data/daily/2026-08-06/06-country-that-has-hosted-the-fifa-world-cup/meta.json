@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a country that has hosted the FIFA World Cup",
+  "category": "Country / Geography / Places",
+  "round": 6,
+  "answers": 19,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2,
+    "rare": 2,
+    "schooler": 9,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-20",
+  "rounds": 7,
+  "answers": 16733,
+  "categories": {
+    "Objects, Tools & Materials": 3,
+    "Food & Drink": 1,
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 1,
+    "Brands / Companies / Apps": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-name-something-sold-as-a-stick-not-on-one-like-deodorant.txt",
+      "folder": "01-name-something-sold-as-a-stick-not-on-one-like-deodorant",
+      "prompt": "Name something sold as a stick, not on one (like deodorant)",
+      "answers": 384
+    },
+    {
+      "round": 2,
+      "file": "02-food-made-by-mashing-or-pur-eing-like-guacamole.txt",
+      "folder": "02-food-made-by-mashing-or-pur-eing-like-guacamole",
+      "prompt": "Name a food made by mashing or puréeing (like guacamole)",
+      "answers": 1137
+    },
+    {
+      "round": 3,
+      "file": "03-country-with-the-letter-d-in-its-name-like-canada.txt",
+      "folder": "03-country-with-the-letter-d-in-its-name-like-canada",
+      "prompt": "Name a country with the letter D in its name (like Canada)",
+      "answers": 50
+    },
+    {
+      "round": 4,
+      "file": "04-device-made-to-blow-air.txt",
+      "folder": "04-device-made-to-blow-air",
+      "prompt": "Name a device made to blow air",
+      "answers": 337
+    },
+    {
+      "round": 5,
+      "file": "05-mammal-smaller-than-a-house-cat.txt",
+      "folder": "05-mammal-smaller-than-a-house-cat",
+      "prompt": "Name a mammal smaller than a house cat",
+      "answers": 6515
+    },
+    {
+      "round": 6,
+      "file": "06-internet-service-provider.txt",
+      "folder": "06-internet-service-provider",
+      "prompt": "Name an internet service provider",
+      "answers": 8163
+    },
+    {
+      "round": 7,
+      "file": "07-name-something-that-has-a-saddle-like-a-bicycle.txt",
+      "folder": "07-name-something-that-has-a-saddle-like-a-bicycle",
+      "prompt": "Name something that has a saddle (like a bicycle)",
+      "answers": 147
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

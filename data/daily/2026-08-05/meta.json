@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-05",
+  "rounds": 7,
+  "answers": 295,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 2,
+    "Science, Space & Tech": 1,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-whose-name-starts-with-s.txt",
+      "folder": "01-country-whose-name-starts-with-s",
+      "prompt": "Name a country whose name starts with S",
+      "answers": 28
+    },
+    {
+      "round": 2,
+      "file": "02-crab-or-other-crustacean.txt",
+      "folder": "02-crab-or-other-crustacean",
+      "prompt": "Name a crab or other crustacean",
+      "answers": 40
+    },
+    {
+      "round": 3,
+      "file": "03-cooking-method.txt",
+      "folder": "03-cooking-method",
+      "prompt": "Name a cooking method",
+      "answers": 45
+    },
+    {
+      "round": 4,
+      "file": "04-simpsons-character.txt",
+      "folder": "04-simpsons-character",
+      "prompt": "Name a Simpsons character",
+      "answers": 102
+    },
+    {
+      "round": 5,
+      "file": "05-state-of-matter.txt",
+      "folder": "05-state-of-matter",
+      "prompt": "Name a state of matter",
+      "answers": 12
+    },
+    {
+      "round": 6,
+      "file": "06-position-in-american-football.txt",
+      "folder": "06-position-in-american-football",
+      "prompt": "Name a position in American football",
+      "answers": 31
+    },
+    {
+      "round": 7,
+      "file": "07-steven-spielberg-movie.txt",
+      "folder": "07-steven-spielberg-movie",
+      "prompt": "Name a Steven Spielberg movie",
+      "answers": 37
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

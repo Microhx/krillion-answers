@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-07-20",
+  "rounds": 7,
+  "answers": 475,
+  "categories": {
+    "Country / Geography / Places": 2,
+    "Animals & Nature": 2,
+    "Food & Drink": 1,
+    "People & Entertainment": 1,
+    "Science, Space & Tech": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-in-asia.txt",
+      "folder": "01-country-in-asia",
+      "prompt": "Name a country in Asia",
+      "answers": 52
+    },
+    {
+      "round": 2,
+      "file": "02-venomous-or-poisonous-animal.txt",
+      "folder": "02-venomous-or-poisonous-animal",
+      "prompt": "Name a venomous or poisonous animal",
+      "answers": 61
+    },
+    {
+      "round": 3,
+      "file": "03-herb-or-spice.txt",
+      "folder": "03-herb-or-spice",
+      "prompt": "Name an herb or spice",
+      "answers": 71
+    },
+    {
+      "round": 4,
+      "file": "04-walt-disney-animation-studios-feature-film.txt",
+      "folder": "04-walt-disney-animation-studios-feature-film",
+      "prompt": "Name a Walt Disney Animation Studios feature film",
+      "answers": 62
+    },
+    {
+      "round": 5,
+      "file": "05-unit-of-measurement.txt",
+      "folder": "05-unit-of-measurement",
+      "prompt": "Name a unit of measurement",
+      "answers": 96
+    },
+    {
+      "round": 6,
+      "file": "06-city-that-has-hosted-the-summer-or-winter-olympics.txt",
+      "folder": "06-city-that-has-hosted-the-summer-or-winter-olympics",
+      "prompt": "Name a city that has hosted the Summer or Winter Olympics",
+      "answers": 46
+    },
+    {
+      "round": 7,
+      "file": "07-type-of-flower.txt",
+      "folder": "07-type-of-flower",
+      "prompt": "Name a type of flower",
+      "answers": 87
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

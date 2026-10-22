@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a fictional character played by more than one actor in live-action movies",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 2418,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1961,
+    "rare": 355,
+    "schooler": 96,
+    "plankton": 5
+  }
+}

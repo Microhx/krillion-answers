@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a fermented food or drink",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 108,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 77,
+    "rare": 18,
+    "schooler": 7,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

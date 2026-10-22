@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a horror movie franchise",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 205,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 112,
+    "rare": 55,
+    "schooler": 29,
+    "tooclever": 2,
+    "plankton": 6
+  }
+}

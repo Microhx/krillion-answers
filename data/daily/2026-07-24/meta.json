@@ -1,0 +1,67 @@
+{
+  "mode": "daily",
+  "game_id": "2026-07-24",
+  "rounds": 7,
+  "answers": 430,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "Brands / Companies / Apps": 1,
+    "Body, Health & Medicine": 1,
+    "Objects, Tools & Materials": 1,
+    "People & Entertainment": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-desert.txt",
+      "folder": "01-desert",
+      "prompt": "Name a desert",
+      "answers": 53
+    },
+    {
+      "round": 2,
+      "file": "02-snake-species.txt",
+      "folder": "02-snake-species",
+      "prompt": "Name a snake species",
+      "answers": 71
+    },
+    {
+      "round": 3,
+      "file": "03-coffee-drink.txt",
+      "folder": "03-coffee-drink",
+      "prompt": "Name a coffee drink",
+      "answers": 67
+    },
+    {
+      "round": 4,
+      "file": "04-video-game-console.txt",
+      "folder": "04-video-game-console",
+      "prompt": "Name a video game console",
+      "answers": 61
+    },
+    {
+      "round": 5,
+      "file": "05-muscle-in-the-human-body.txt",
+      "folder": "05-muscle-in-the-human-body",
+      "prompt": "Name a muscle in the human body",
+      "answers": 69
+    },
+    {
+      "round": 6,
+      "file": "06-style-of-hat.txt",
+      "folder": "06-style-of-hat",
+      "prompt": "Name a style of hat",
+      "answers": 65
+    },
+    {
+      "round": 7,
+      "file": "07-shakespeare-play.txt",
+      "folder": "07-shakespeare-play",
+      "prompt": "Name a Shakespeare play",
+      "answers": 44
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

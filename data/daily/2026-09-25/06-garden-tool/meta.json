@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a garden tool",
+  "category": "Objects, Tools & Materials",
+  "round": 6,
+  "answers": 167,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 126,
+    "rare": 26,
+    "schooler": 11,
+    "plankton": 3
+  }
+}

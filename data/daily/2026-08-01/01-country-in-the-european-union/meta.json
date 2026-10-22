@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a country in the European Union",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 27,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 3,
+    "rare": 8,
+    "schooler": 10,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

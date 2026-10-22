@@ -1,0 +1,67 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-26",
+  "rounds": 7,
+  "answers": 1366,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "Words, Language & Numbers": 1,
+    "Objects, Tools & Materials": 1,
+    "Sports & Games": 1,
+    "Work, Money & Society": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-where-christianity-is-the-majority-religion.txt",
+      "folder": "01-country-where-christianity-is-the-majority-religion",
+      "prompt": "Name a country where Christianity is the majority religion",
+      "answers": 117
+    },
+    {
+      "round": 2,
+      "file": "02-prehistoric-mammal.txt",
+      "folder": "02-prehistoric-mammal",
+      "prompt": "Name a prehistoric mammal",
+      "answers": 114
+    },
+    {
+      "round": 3,
+      "file": "03-candy.txt",
+      "folder": "03-candy",
+      "prompt": "Name a candy",
+      "answers": 455
+    },
+    {
+      "round": 4,
+      "file": "04-logical-fallacy.txt",
+      "folder": "04-logical-fallacy",
+      "prompt": "Name a logical fallacy",
+      "answers": 135
+    },
+    {
+      "round": 5,
+      "file": "05-name-something-found-in-a-bathroom.txt",
+      "folder": "05-name-something-found-in-a-bathroom",
+      "prompt": "Name something found in a bathroom",
+      "answers": 156
+    },
+    {
+      "round": 6,
+      "file": "06-nba-player-in-the-hall-of-fame.txt",
+      "folder": "06-nba-player-in-the-hall-of-fame",
+      "prompt": "Name an NBA player in the Hall of Fame",
+      "answers": 174
+    },
+    {
+      "round": 7,
+      "file": "07-holiday-celebrated-around-the-world.txt",
+      "folder": "07-holiday-celebrated-around-the-world",
+      "prompt": "Name a holiday celebrated around the world",
+      "answers": 215
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

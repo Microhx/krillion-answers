@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a dip",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 110,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 39,
+    "rare": 36,
+    "schooler": 29,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

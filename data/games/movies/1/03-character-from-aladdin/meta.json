@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a character from Aladdin",
+  "category": "People & Entertainment",
+  "round": 3,
+  "answers": 14,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2,
+    "rare": 2,
+    "schooler": 5,
+    "plankton": 4
+  }
+}

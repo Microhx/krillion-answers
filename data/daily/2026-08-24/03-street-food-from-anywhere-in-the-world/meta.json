@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a street food from anywhere in the world",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 244,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 160,
+    "rare": 53,
+    "schooler": 25,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

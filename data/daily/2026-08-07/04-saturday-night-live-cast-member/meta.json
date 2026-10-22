@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Saturday Night Live cast member",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 99,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 31,
+    "rare": 44,
+    "schooler": 15,
+    "tooclever": 3,
+    "plankton": 5
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "prompt": "Name a country whose name starts with A",
+  "category": "Country / Geography / Places",
+  "round": 2,
+  "answers": 11,
+  "tiers": {
+    "deepcut": 1,
+    "rare": 4,
+    "schooler": 3,
+    "plankton": 3
+  }
+}

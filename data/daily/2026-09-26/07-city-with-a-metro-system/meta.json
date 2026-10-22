@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a city with a metro system",
+  "category": "Country / Geography / Places",
+  "round": 7,
+  "answers": 227,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 154,
+    "rare": 48,
+    "schooler": 19,
+    "plankton": 5
+  }
+}

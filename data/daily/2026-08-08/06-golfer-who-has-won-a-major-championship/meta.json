@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a golfer who has won a major championship",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 224,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 164,
+    "rare": 41,
+    "schooler": 10,
+    "tooclever": 2,
+    "plankton": 5
+  }
+}

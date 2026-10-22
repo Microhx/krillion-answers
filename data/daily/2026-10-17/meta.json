@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-17",
+  "rounds": 7,
+  "answers": 4108,
+  "categories": {
+    "Food & Drink": 1,
+    "Animals & Nature": 1,
+    "Sports & Games": 1,
+    "Science, Space & Tech": 1,
+    "Country / Geography / Places": 2,
+    "People & Entertainment": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-way-to-prepare-potatoes.txt",
+      "folder": "01-way-to-prepare-potatoes",
+      "prompt": "Name a way to prepare potatoes",
+      "answers": 1233
+    },
+    {
+      "round": 2,
+      "file": "02-animal-whose-name-is-exactly-four-letters-long.txt",
+      "folder": "02-animal-whose-name-is-exactly-four-letters-long",
+      "prompt": "Name an animal whose name is exactly four letters long",
+      "answers": 467
+    },
+    {
+      "round": 3,
+      "file": "03-name-someone-who-s-won-mvp-nba-nfl-mlb-premier-league-player.txt",
+      "folder": "03-name-someone-who-s-won-mvp-nba-nfl-mlb-premier-league-player",
+      "prompt": "Name someone who’s won MVP (NBA/NFL/MLB), Premier League Player of the Season, or won the Ballon d’Or",
+      "answers": 324
+    },
+    {
+      "round": 4,
+      "file": "04-chemical-element-whose-symbol-is-one-letter.txt",
+      "folder": "04-chemical-element-whose-symbol-is-one-letter",
+      "prompt": "Name a chemical element whose symbol is one letter",
+      "answers": 14
+    },
+    {
+      "round": 5,
+      "file": "05-type-of-station-like-a-train-station.txt",
+      "folder": "05-type-of-station-like-a-train-station",
+      "prompt": "Name a type of station (like a train station)",
+      "answers": 635
+    },
+    {
+      "round": 6,
+      "file": "06-country-whose-name-ends-in-the-letter-e.txt",
+      "folder": "06-country-whose-name-ends-in-the-letter-e",
+      "prompt": "Name a country whose name ends in the letter E",
+      "answers": 16
+    },
+    {
+      "round": 7,
+      "file": "07-superhero-team.txt",
+      "folder": "07-superhero-team",
+      "prompt": "Name a superhero team",
+      "answers": 1419
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

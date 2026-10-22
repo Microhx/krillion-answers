@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a type of gun (types and models both count)",
+  "category": "Objects, Tools & Materials",
+  "round": 1,
+  "answers": 297,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 222,
+    "rare": 46,
+    "schooler": 24,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-10",
+  "rounds": 7,
+  "answers": 28217,
+  "categories": {
+    "People & Entertainment": 1,
+    "Food & Drink": 2,
+    "Body, Health & Medicine": 1,
+    "Country / Geography / Places": 1,
+    "Objects, Tools & Materials": 1,
+    "Animals & Nature": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-musical-instrument.txt",
+      "folder": "01-musical-instrument",
+      "prompt": "Name a musical instrument",
+      "answers": 3118
+    },
+    {
+      "round": 2,
+      "file": "02-vegetable-that-s-botanically-a-fruit.txt",
+      "folder": "02-vegetable-that-s-botanically-a-fruit",
+      "prompt": "Name a vegetable that's botanically a fruit",
+      "answers": 10079
+    },
+    {
+      "round": 3,
+      "file": "03-body-part-people-have-exactly-two-of-like-ears.txt",
+      "folder": "03-body-part-people-have-exactly-two-of-like-ears",
+      "prompt": "Name a body part people have exactly two of (like ears)",
+      "answers": 2611
+    },
+    {
+      "round": 4,
+      "file": "04-city-with-the-word-city-in-its-name-like-mexico-city.txt",
+      "folder": "04-city-with-the-word-city-in-its-name-like-mexico-city",
+      "prompt": "Name a city with the word \"City\" in its name (like Mexico City)",
+      "answers": 842
+    },
+    {
+      "round": 5,
+      "file": "05-juice-brand.txt",
+      "folder": "05-juice-brand",
+      "prompt": "Name a juice brand",
+      "answers": 970
+    },
+    {
+      "round": 6,
+      "file": "06-piece-of-baking-equipment.txt",
+      "folder": "06-piece-of-baking-equipment",
+      "prompt": "Name a piece of baking equipment",
+      "answers": 259
+    },
+    {
+      "round": 7,
+      "file": "07-animal-whose-name-ends-in-y.txt",
+      "folder": "07-animal-whose-name-ends-in-y",
+      "prompt": "Name an animal whose name ends in Y",
+      "answers": 10338
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

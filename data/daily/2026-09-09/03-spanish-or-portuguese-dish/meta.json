@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a Spanish or Portuguese dish",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 841,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 801,
+    "rare": 28,
+    "schooler": 8,
+    "plankton": 2
+  }
+}

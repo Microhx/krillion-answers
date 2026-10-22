@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an island country",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 48,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 13,
+    "rare": 14,
+    "schooler": 14,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a nocturnal animal",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 107,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 33,
+    "rare": 43,
+    "schooler": 23,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a palindrome that's a real English dictionary word",
+  "category": "Words, Language & Numbers",
+  "round": 7,
+  "answers": 239,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 183,
+    "rare": 25,
+    "schooler": 24,
+    "plankton": 6
+  }
+}

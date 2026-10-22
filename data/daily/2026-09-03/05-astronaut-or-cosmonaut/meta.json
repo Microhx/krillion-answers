@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an astronaut or cosmonaut",
+  "category": "People & Entertainment",
+  "round": 5,
+  "answers": 982,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 905,
+    "rare": 63,
+    "schooler": 11,
+    "plankton": 2
+  }
+}

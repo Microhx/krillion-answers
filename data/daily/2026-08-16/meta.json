@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-16",
+  "rounds": 7,
+  "answers": 473,
+  "categories": {
+    "Country / Geography / Places": 2,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 1,
+    "Body, Health & Medicine": 1,
+    "Science, Space & Tech": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-whose-name-ends-in-the-letter-o.txt",
+      "folder": "01-country-whose-name-ends-in-the-letter-o",
+      "prompt": "Name a country whose name ends in the letter O",
+      "answers": 12
+    },
+    {
+      "round": 2,
+      "file": "02-sea.txt",
+      "folder": "02-sea",
+      "prompt": "Name a sea",
+      "answers": 67
+    },
+    {
+      "round": 3,
+      "file": "03-songbird.txt",
+      "folder": "03-songbird",
+      "prompt": "Name a songbird",
+      "answers": 61
+    },
+    {
+      "round": 4,
+      "file": "04-chinese-dish.txt",
+      "folder": "04-chinese-dish",
+      "prompt": "Name a Chinese dish",
+      "answers": 105
+    },
+    {
+      "round": 5,
+      "file": "05-star-trek-character.txt",
+      "folder": "05-star-trek-character",
+      "prompt": "Name a Star Trek character",
+      "answers": 101
+    },
+    {
+      "round": 6,
+      "file": "06-medical-specialty.txt",
+      "folder": "06-medical-specialty",
+      "prompt": "Name a medical specialty",
+      "answers": 54
+    },
+    {
+      "round": 7,
+      "file": "07-font.txt",
+      "folder": "07-font",
+      "prompt": "Name a font",
+      "answers": 73
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

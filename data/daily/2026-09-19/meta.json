@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-19",
+  "rounds": 7,
+  "answers": 2194,
+  "categories": {
+    "Country / Geography / Places": 2,
+    "Food & Drink": 1,
+    "People & Entertainment": 1,
+    "Sports & Games": 1,
+    "Work, Money & Society": 1,
+    "Words, Language & Numbers": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-area-in-a-school.txt",
+      "folder": "01-area-in-a-school",
+      "prompt": "Name an area in a school",
+      "answers": 445
+    },
+    {
+      "round": 2,
+      "file": "02-national-capital-city-that-starts-with-a-or-c.txt",
+      "folder": "02-national-capital-city-that-starts-with-a-or-c",
+      "prompt": "Name a national capital city that starts with A or C",
+      "answers": 30
+    },
+    {
+      "round": 3,
+      "file": "03-type-of-milk.txt",
+      "folder": "03-type-of-milk",
+      "prompt": "Name a type of milk",
+      "answers": 159
+    },
+    {
+      "round": 4,
+      "file": "04-queen-song.txt",
+      "folder": "04-queen-song",
+      "prompt": "Name a Queen song",
+      "answers": 262
+    },
+    {
+      "round": 5,
+      "file": "05-sport-that-involves-catching-a-ball.txt",
+      "folder": "05-sport-that-involves-catching-a-ball",
+      "prompt": "Name a sport that involves catching a ball",
+      "answers": 179
+    },
+    {
+      "round": 6,
+      "file": "06-rank-in-the-military.txt",
+      "folder": "06-rank-in-the-military",
+      "prompt": "Name a rank in the military",
+      "answers": 780
+    },
+    {
+      "round": 7,
+      "file": "07-shade-of-green.txt",
+      "folder": "07-shade-of-green",
+      "prompt": "Name a shade of green",
+      "answers": 339
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

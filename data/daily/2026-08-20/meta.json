@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-20",
+  "rounds": 7,
+  "answers": 595,
+  "categories": {
+    "Objects, Tools & Materials": 2,
+    "Food & Drink": 2,
+    "Country / Geography / Places": 1,
+    "Science, Space & Tech": 1,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-road-or-traffic-sign.txt",
+      "folder": "01-road-or-traffic-sign",
+      "prompt": "Name a road or traffic sign",
+      "answers": 96
+    },
+    {
+      "round": 2,
+      "file": "02-type-of-mushroom.txt",
+      "folder": "02-type-of-mushroom",
+      "prompt": "Name a type of mushroom",
+      "answers": 54
+    },
+    {
+      "round": 3,
+      "file": "03-sauce.txt",
+      "folder": "03-sauce",
+      "prompt": "Name a sauce",
+      "answers": 116
+    },
+    {
+      "round": 4,
+      "file": "04-gulf-or-bay.txt",
+      "folder": "04-gulf-or-bay",
+      "prompt": "Name a gulf or bay",
+      "answers": 158
+    },
+    {
+      "round": 5,
+      "file": "05-type-of-energy.txt",
+      "folder": "05-type-of-energy",
+      "prompt": "Name a type of energy",
+      "answers": 41
+    },
+    {
+      "round": 6,
+      "file": "06-premier-league-club.txt",
+      "folder": "06-premier-league-club",
+      "prompt": "Name a Premier League club",
+      "answers": 51
+    },
+    {
+      "round": 7,
+      "file": "07-type-of-bag.txt",
+      "folder": "07-type-of-bag",
+      "prompt": "Name a type of bag",
+      "answers": 79
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

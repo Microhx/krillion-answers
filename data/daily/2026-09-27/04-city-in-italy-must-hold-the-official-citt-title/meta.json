@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a city in Italy (must hold the official città title)",
+  "category": "Country / Geography / Places",
+  "round": 4,
+  "answers": 1069,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 1002,
+    "rare": 50,
+    "schooler": 10,
+    "plankton": 5
+  }
+}

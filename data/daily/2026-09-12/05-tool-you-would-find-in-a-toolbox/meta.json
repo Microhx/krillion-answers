@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a tool you would find in a toolbox",
+  "category": "Objects, Tools & Materials",
+  "round": 5,
+  "answers": 627,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 596,
+    "rare": 23,
+    "schooler": 4,
+    "plankton": 3
+  }
+}

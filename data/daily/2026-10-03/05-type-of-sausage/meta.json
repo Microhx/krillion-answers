@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a type of sausage",
+  "category": "Food & Drink",
+  "round": 5,
+  "answers": 549,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 481,
+    "rare": 47,
+    "schooler": 15,
+    "plankton": 4
+  }
+}

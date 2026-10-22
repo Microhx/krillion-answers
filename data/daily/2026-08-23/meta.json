@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-23",
+  "rounds": 7,
+  "answers": 1490,
+  "categories": {
+    "Food & Drink": 2,
+    "Country / Geography / Places": 1,
+    "Sports & Games": 1,
+    "Science, Space & Tech": 1,
+    "People & Entertainment": 2
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-bottled-water-brand.txt",
+      "folder": "01-bottled-water-brand",
+      "prompt": "Name a bottled water brand",
+      "answers": 98
+    },
+    {
+      "round": 2,
+      "file": "02-country-that-was-once-part-of-the-british-empire.txt",
+      "folder": "02-country-that-was-once-part-of-the-british-empire",
+      "prompt": "Name a country that was once part of the British Empire",
+      "answers": 73
+    },
+    {
+      "round": 3,
+      "file": "03-chocolate-brand.txt",
+      "folder": "03-chocolate-brand",
+      "prompt": "Name a chocolate brand",
+      "answers": 165
+    },
+    {
+      "round": 4,
+      "file": "04-playstation-exclusive-franchise.txt",
+      "folder": "04-playstation-exclusive-franchise",
+      "prompt": "Name a PlayStation-exclusive franchise",
+      "answers": 89
+    },
+    {
+      "round": 5,
+      "file": "05-type-of-graph-or-chart.txt",
+      "folder": "05-type-of-graph-or-chart",
+      "prompt": "Name a type of graph or chart",
+      "answers": 79
+    },
+    {
+      "round": 6,
+      "file": "06-sports-movie.txt",
+      "folder": "06-sports-movie",
+      "prompt": "Name a sports movie",
+      "answers": 961
+    },
+    {
+      "round": 7,
+      "file": "07-top-25-anime-by-myanimelist-popularity.txt",
+      "folder": "07-top-25-anime-by-myanimelist-popularity",
+      "prompt": "Name a top-25 anime (by MyAnimeList popularity)",
+      "answers": 25
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a country whose name ends in the letter A",
+  "category": "Country / Geography / Places",
+  "round": 7,
+  "answers": 74,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 18,
+    "rare": 34,
+    "schooler": 15,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

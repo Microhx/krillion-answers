@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-08",
+  "rounds": 7,
+  "answers": 3977,
+  "categories": {
+    "Brands / Companies / Apps": 1,
+    "Objects, Tools & Materials": 2,
+    "Body, Health & Medicine": 1,
+    "Country / Geography / Places": 1,
+    "Work, Money & Society": 1,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-sports-car-brand.txt",
+      "folder": "01-sports-car-brand",
+      "prompt": "Name a sports car brand",
+      "answers": 651
+    },
+    {
+      "round": 2,
+      "file": "02-name-something-that-uses-a-filter-physical-filters-not-photo.txt",
+      "folder": "02-name-something-that-uses-a-filter-physical-filters-not-photo",
+      "prompt": "Name something that uses a filter (physical filters, not photo filters)",
+      "answers": 1611
+    },
+    {
+      "round": 3,
+      "file": "03-part-of-a-shirt.txt",
+      "folder": "03-part-of-a-shirt",
+      "prompt": "Name a part of a shirt",
+      "answers": 207
+    },
+    {
+      "round": 4,
+      "file": "04-symptom-of-a-cold-or-flu.txt",
+      "folder": "04-symptom-of-a-cold-or-flu",
+      "prompt": "Name a symptom of a cold or flu",
+      "answers": 88
+    },
+    {
+      "round": 5,
+      "file": "05-country-whose-name-uses-only-one-vowel-letter-a-e-i-o-or-u-r.txt",
+      "folder": "05-country-whose-name-uses-only-one-vowel-letter-a-e-i-o-or-u-r",
+      "prompt": "Name a country whose name uses only one vowel letter (a, e, i, o, or u), repeats allowed (like Canada)",
+      "answers": 24
+    },
+    {
+      "round": 6,
+      "file": "06-ceremony-or-celebration-that-marks-a-stage-of-life.txt",
+      "folder": "06-ceremony-or-celebration-that-marks-a-stage-of-life",
+      "prompt": "Name a ceremony or celebration that marks a stage of life",
+      "answers": 1022
+    },
+    {
+      "round": 7,
+      "file": "07-sport-normally-played-on-grass.txt",
+      "folder": "07-sport-normally-played-on-grass",
+      "prompt": "Name a sport normally played on grass",
+      "answers": 374
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

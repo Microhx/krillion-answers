@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a US city with over 100,000 people",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 348,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 73,
+    "rare": 179,
+    "schooler": 80,
+    "plankton": 15
+  }
+}

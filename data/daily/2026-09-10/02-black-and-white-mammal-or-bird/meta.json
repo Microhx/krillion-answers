@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a black and white mammal or bird",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 390,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 360,
+    "rare": 19,
+    "schooler": 3,
+    "plankton": 7
+  }
+}

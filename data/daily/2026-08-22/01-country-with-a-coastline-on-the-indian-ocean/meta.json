@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a country with a coastline on the Indian Ocean",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 37,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 11,
+    "rare": 10,
+    "schooler": 9,
+    "tooclever": 3,
+    "plankton": 3
+  }
+}

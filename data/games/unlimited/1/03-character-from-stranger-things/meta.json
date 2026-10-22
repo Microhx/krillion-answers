@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a character from Stranger Things",
+  "category": "People & Entertainment",
+  "round": 3,
+  "answers": 88,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 55,
+    "rare": 16,
+    "schooler": 13,
+    "plankton": 3
+  }
+}

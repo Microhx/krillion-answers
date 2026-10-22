@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a language written in the Latin alphabet",
+  "category": "Words, Language & Numbers",
+  "round": 4,
+  "answers": 215,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 185,
+    "rare": 14,
+    "schooler": 10,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

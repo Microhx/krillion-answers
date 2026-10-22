@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a city in the UK (towns count too)",
+  "category": "Country / Geography / Places",
+  "round": 5,
+  "answers": 2248,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2095,
+    "rare": 125,
+    "schooler": 22,
+    "plankton": 5
+  }
+}

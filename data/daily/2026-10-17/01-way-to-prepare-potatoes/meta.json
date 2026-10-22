@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a way to prepare potatoes",
+  "category": "Food & Drink",
+  "round": 1,
+  "answers": 1233,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1094,
+    "rare": 109,
+    "schooler": 21,
+    "plankton": 8
+  }
+}

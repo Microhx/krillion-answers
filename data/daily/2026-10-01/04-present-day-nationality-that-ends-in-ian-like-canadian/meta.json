@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a present-day nationality that ends in -ian (like Canadian)",
+  "category": "Work, Money & Society",
+  "round": 4,
+  "answers": 107,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 40,
+    "rare": 30,
+    "schooler": 29,
+    "plankton": 7
+  }
+}

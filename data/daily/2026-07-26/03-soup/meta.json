@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a soup",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 58,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 15,
+    "rare": 18,
+    "schooler": 20,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

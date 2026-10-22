@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country with stripes on its flag",
+  "category": "Country / Geography / Places",
+  "round": 4,
+  "answers": 148,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 21,
+    "rare": 71,
+    "schooler": 50,
+    "plankton": 4
+  }
+}

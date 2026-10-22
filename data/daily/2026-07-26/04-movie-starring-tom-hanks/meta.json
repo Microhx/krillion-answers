@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a movie starring Tom Hanks",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 55,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 21,
+    "rare": 14,
+    "schooler": 14,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

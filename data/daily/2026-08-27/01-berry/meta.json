@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a berry",
+  "category": "Food & Drink",
+  "round": 1,
+  "answers": 104,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 79,
+    "rare": 10,
+    "schooler": 7,
+    "tooclever": 3,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a bird of prey",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 66,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 34,
+    "rare": 14,
+    "schooler": 11,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

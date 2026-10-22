@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something you can do with a keyboard shortcut (like copy with Ctrl+C)",
+  "category": "Science, Space & Tech",
+  "round": 5,
+  "answers": 777,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 682,
+    "rare": 65,
+    "schooler": 22,
+    "plankton": 6
+  }
+}

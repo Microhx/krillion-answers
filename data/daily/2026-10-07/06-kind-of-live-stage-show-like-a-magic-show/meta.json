@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a kind of live stage show (like a magic show)",
+  "category": "People & Entertainment",
+  "round": 6,
+  "answers": 775,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 658,
+    "rare": 98,
+    "schooler": 9,
+    "plankton": 8
+  }
+}

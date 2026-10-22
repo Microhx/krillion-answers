@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a tropical fruit",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 55,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 27,
+    "rare": 12,
+    "schooler": 10,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-07-25",
+  "rounds": 7,
+  "answers": 431,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 1,
+    "Food & Drink": 2,
+    "People & Entertainment": 1,
+    "Science, Space & Tech": 1,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-former-republic-of-the-soviet-union.txt",
+      "folder": "01-former-republic-of-the-soviet-union",
+      "prompt": "Name a former republic of the Soviet Union",
+      "answers": 17
+    },
+    {
+      "round": 2,
+      "file": "02-dinosaur.txt",
+      "folder": "02-dinosaur",
+      "prompt": "Name a dinosaur",
+      "answers": 76
+    },
+    {
+      "round": 3,
+      "file": "03-pizza-topping.txt",
+      "folder": "03-pizza-topping",
+      "prompt": "Name a pizza topping",
+      "answers": 58
+    },
+    {
+      "round": 4,
+      "file": "04-tv-sitcom.txt",
+      "folder": "04-tv-sitcom",
+      "prompt": "Name a TV sitcom",
+      "answers": 119
+    },
+    {
+      "round": 5,
+      "file": "05-programming-language.txt",
+      "folder": "05-programming-language",
+      "prompt": "Name a programming language",
+      "answers": 78
+    },
+    {
+      "round": 6,
+      "file": "06-olympic-track-and-field-event.txt",
+      "folder": "06-olympic-track-and-field-event",
+      "prompt": "Name an Olympic track and field event",
+      "answers": 44
+    },
+    {
+      "round": 7,
+      "file": "07-nut.txt",
+      "folder": "07-nut",
+      "prompt": "Name a nut",
+      "answers": 39
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

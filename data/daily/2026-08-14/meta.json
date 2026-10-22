@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-14",
+  "rounds": 7,
+  "answers": 532,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 1,
+    "Food & Drink": 2,
+    "Science, Space & Tech": 1,
+    "Sports & Games": 1,
+    "Work, Money & Society": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-with-a-four-letter-english-name.txt",
+      "folder": "01-country-with-a-four-letter-english-name",
+      "prompt": "Name a country with a four-letter English name",
+      "answers": 11
+    },
+    {
+      "round": 2,
+      "file": "02-type-of-turtle-or-tortoise.txt",
+      "folder": "02-type-of-turtle-or-tortoise",
+      "prompt": "Name a type of turtle or tortoise",
+      "answers": 69
+    },
+    {
+      "round": 3,
+      "file": "03-soda-brand.txt",
+      "folder": "03-soda-brand",
+      "prompt": "Name a soda brand",
+      "answers": 98
+    },
+    {
+      "round": 4,
+      "file": "04-ice-cream-brand.txt",
+      "folder": "04-ice-cream-brand",
+      "prompt": "Name an ice cream brand",
+      "answers": 130
+    },
+    {
+      "round": 5,
+      "file": "05-geologic-eon-era-period-or-epoch.txt",
+      "folder": "05-geologic-eon-era-period-or-epoch",
+      "prompt": "Name a geologic eon, era, period, or epoch",
+      "answers": 57
+    },
+    {
+      "round": 6,
+      "file": "06-playground-game.txt",
+      "folder": "06-playground-game",
+      "prompt": "Name a playground game",
+      "answers": 88
+    },
+    {
+      "round": 7,
+      "file": "07-current-national-or-shared-currency.txt",
+      "folder": "07-current-national-or-shared-currency",
+      "prompt": "Name a current national or shared currency",
+      "answers": 79
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

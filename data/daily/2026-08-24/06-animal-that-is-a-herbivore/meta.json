@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an animal that is a herbivore",
+  "category": "Animals & Nature",
+  "round": 6,
+  "answers": 135,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 81,
+    "rare": 33,
+    "schooler": 12,
+    "tooclever": 2,
+    "plankton": 5
+  }
+}

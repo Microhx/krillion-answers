@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a fruit",
+  "category": "Food & Drink",
+  "round": 1,
+  "answers": 828,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 763,
+    "rare": 38,
+    "schooler": 18,
+    "tooclever": 3,
+    "plankton": 5
+  }
+}

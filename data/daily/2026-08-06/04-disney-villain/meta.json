@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Disney villain",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 88,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 51,
+    "rare": 21,
+    "schooler": 7,
+    "tooclever": 2,
+    "plankton": 6
+  }
+}

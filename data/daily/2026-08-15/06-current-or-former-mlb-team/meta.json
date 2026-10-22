@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a current or former MLB team",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 48,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 10,
+    "rare": 22,
+    "schooler": 11,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Grammy Album of the Year winner",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 68,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 20,
+    "rare": 26,
+    "schooler": 18,
+    "tooclever": 1,
+    "plankton": 2
+  }
+}

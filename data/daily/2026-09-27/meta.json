@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-27",
+  "rounds": 7,
+  "answers": 2616,
+  "categories": {
+    "Food & Drink": 1,
+    "Country / Geography / Places": 2,
+    "Sports & Games": 2,
+    "Work, Money & Society": 1,
+    "Objects, Tools & Materials": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-fruit-or-vegetable-that-starts-with-s.txt",
+      "folder": "01-fruit-or-vegetable-that-starts-with-s",
+      "prompt": "Name a fruit or vegetable that starts with S",
+      "answers": 589
+    },
+    {
+      "round": 2,
+      "file": "02-territory-constituent-country-or-autonomous-region.txt",
+      "folder": "02-territory-constituent-country-or-autonomous-region",
+      "prompt": "Name a territory, constituent country or autonomous region",
+      "answers": 151
+    },
+    {
+      "round": 3,
+      "file": "03-fire-type-pok-mon.txt",
+      "folder": "03-fire-type-pok-mon",
+      "prompt": "Name a Fire-type Pokémon",
+      "answers": 89
+    },
+    {
+      "round": 4,
+      "file": "04-city-in-italy-must-hold-the-official-citt-title.txt",
+      "folder": "04-city-in-italy-must-hold-the-official-citt-title",
+      "prompt": "Name a city in Italy (must hold the official città title)",
+      "answers": 1069
+    },
+    {
+      "round": 5,
+      "file": "05-career-in-finance.txt",
+      "folder": "05-career-in-finance",
+      "prompt": "Name a career in finance",
+      "answers": 129
+    },
+    {
+      "round": 6,
+      "file": "06-sport-that-has-a-goalkeeper.txt",
+      "folder": "06-sport-that-has-a-goalkeeper",
+      "prompt": "Name a sport that has a goalkeeper",
+      "answers": 62
+    },
+    {
+      "round": 7,
+      "file": "07-type-of-card-like-a-birthday-card-or-a-library-card.txt",
+      "folder": "07-type-of-card-like-a-birthday-card-or-a-library-card",
+      "prompt": "Name a type of card (like a birthday card or a library card)",
+      "answers": 527
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

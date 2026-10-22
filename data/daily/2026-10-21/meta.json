@@ -1,0 +1,67 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-21",
+  "rounds": 7,
+  "answers": 3758,
+  "categories": {
+    "People & Entertainment": 1,
+    "Sports & Games": 1,
+    "Food & Drink": 1,
+    "Objects, Tools & Materials": 1,
+    "Body, Health & Medicine": 1,
+    "Country / Geography / Places": 1,
+    "Work, Money & Society": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-tv-show-that-s-rated-8-5-on-imdb-1-000-votes.txt",
+      "folder": "01-tv-show-that-s-rated-8-5-on-imdb-1-000-votes",
+      "prompt": "Name a TV show that's rated 8.5+ on IMDb (1,000+ votes)",
+      "answers": 979
+    },
+    {
+      "round": 2,
+      "file": "02-current-nba-player.txt",
+      "folder": "02-current-nba-player",
+      "prompt": "Name a current NBA player",
+      "answers": 519
+    },
+    {
+      "round": 3,
+      "file": "03-food-you-have-to-shell-or-crack-open-before-eating.txt",
+      "folder": "03-food-you-have-to-shell-or-crack-open-before-eating",
+      "prompt": "Name a food you have to shell or crack open before eating",
+      "answers": 362
+    },
+    {
+      "round": 4,
+      "file": "04-vehicle-that-doesn-t-travel-on-wheels.txt",
+      "folder": "04-vehicle-that-doesn-t-travel-on-wheels",
+      "prompt": "Name a vehicle that doesn't travel on wheels",
+      "answers": 1186
+    },
+    {
+      "round": 5,
+      "file": "05-body-part-people-have-exactly-one-of-like-the-nose.txt",
+      "folder": "05-body-part-people-have-exactly-one-of-like-the-nose",
+      "prompt": "Name a body part people have exactly one of (like the nose)",
+      "answers": 589
+    },
+    {
+      "round": 6,
+      "file": "06-country-that-borders-greece-or-austria.txt",
+      "folder": "06-country-that-borders-greece-or-austria",
+      "prompt": "Name a country that borders Greece or Austria",
+      "answers": 12
+    },
+    {
+      "round": 7,
+      "file": "07-extra-that-airlines-charge-for.txt",
+      "folder": "07-extra-that-airlines-charge-for",
+      "prompt": "Name an extra that airlines charge for",
+      "answers": 111
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

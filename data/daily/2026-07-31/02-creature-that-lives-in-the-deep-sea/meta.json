@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a creature that lives in the deep sea",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 53,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 20,
+    "rare": 19,
+    "schooler": 10,
+    "tooclever": 1,
+    "plankton": 1
+  }
+}

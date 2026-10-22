@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a pattern or print (for example, stripes)",
+  "category": "Other / Abstract",
+  "round": 7,
+  "answers": 648,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 551,
+    "rare": 81,
+    "schooler": 12,
+    "tooclever": 1,
+    "plankton": 2
+  }
+}

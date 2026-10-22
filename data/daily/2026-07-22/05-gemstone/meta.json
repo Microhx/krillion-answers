@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a gemstone",
+  "category": "Science, Space & Tech",
+  "round": 5,
+  "answers": 64,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 25,
+    "rare": 20,
+    "schooler": 12,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

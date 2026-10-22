@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a sport or game where you score by getting a ball or object into a hole, hoop, basket or pocket",
+  "category": "Sports & Games",
+  "round": 2,
+  "answers": 236,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 189,
+    "rare": 34,
+    "schooler": 8,
+    "plankton": 4
+  }
+}

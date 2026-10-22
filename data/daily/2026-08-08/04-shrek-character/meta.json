@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Shrek character",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 45,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 16,
+    "rare": 19,
+    "schooler": 5,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

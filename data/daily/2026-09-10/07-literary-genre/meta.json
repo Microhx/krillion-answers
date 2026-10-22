@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a literary genre",
+  "category": "Words, Language & Numbers",
+  "round": 7,
+  "answers": 1361,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1243,
+    "rare": 84,
+    "schooler": 25,
+    "plankton": 8
+  }
+}

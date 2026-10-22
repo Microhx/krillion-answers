@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a Queen song",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 262,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 235,
+    "rare": 12,
+    "schooler": 9,
+    "plankton": 5
+  }
+}

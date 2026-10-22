@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a rock or mineral",
+  "category": "Science, Space & Tech",
+  "round": 5,
+  "answers": 81,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 31,
+    "rare": 27,
+    "schooler": 16,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

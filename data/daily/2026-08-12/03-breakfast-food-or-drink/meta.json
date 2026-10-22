@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a breakfast food or drink",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 105,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 33,
+    "rare": 30,
+    "schooler": 32,
+    "tooclever": 2,
+    "plankton": 7
+  }
+}

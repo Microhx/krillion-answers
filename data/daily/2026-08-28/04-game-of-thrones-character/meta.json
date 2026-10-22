@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Game of Thrones character",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 572,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 463,
+    "rare": 82,
+    "schooler": 19,
+    "tooclever": 1,
+    "plankton": 6
+  }
+}

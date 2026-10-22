@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country whose national flag has exactly two colors",
+  "category": "Country / Geography / Places",
+  "round": 4,
+  "answers": 37,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 4,
+    "rare": 13,
+    "schooler": 14,
+    "plankton": 5
+  }
+}

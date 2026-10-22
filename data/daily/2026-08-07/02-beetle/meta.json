@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a beetle",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 48,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 24,
+    "rare": 14,
+    "schooler": 5,
+    "tooclever": 2,
+    "plankton": 2
+  }
+}

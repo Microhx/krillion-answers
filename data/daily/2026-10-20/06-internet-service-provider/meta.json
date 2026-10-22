@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an internet service provider",
+  "category": "Brands / Companies / Apps",
+  "round": 6,
+  "answers": 8163,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 8054,
+    "rare": 94,
+    "schooler": 10,
+    "plankton": 4
+  }
+}

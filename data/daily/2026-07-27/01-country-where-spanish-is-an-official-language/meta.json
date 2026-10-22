@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country where Spanish is an official language",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 21,
+  "tiers": {
+    "krillion": 1,
+    "rare": 7,
+    "schooler": 9,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

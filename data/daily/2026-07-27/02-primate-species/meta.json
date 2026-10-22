@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a primate species",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 49,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 22,
+    "rare": 11,
+    "schooler": 8,
+    "tooclever": 4,
+    "plankton": 3
+  }
+}

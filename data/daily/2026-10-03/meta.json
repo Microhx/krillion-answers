@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-03",
+  "rounds": 7,
+  "answers": 5275,
+  "categories": {
+    "People & Entertainment": 1,
+    "Objects, Tools & Materials": 2,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "Sports & Games": 1,
+    "Country / Geography / Places": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-tv-genre.txt",
+      "folder": "01-tv-genre",
+      "prompt": "Name a TV genre",
+      "answers": 364
+    },
+    {
+      "round": 2,
+      "file": "02-device-used-to-magnify-things.txt",
+      "folder": "02-device-used-to-magnify-things",
+      "prompt": "Name a device used to magnify things",
+      "answers": 196
+    },
+    {
+      "round": 3,
+      "file": "03-type-of-structure-built-underground-man-made.txt",
+      "folder": "03-type-of-structure-built-underground-man-made",
+      "prompt": "Name a type of structure built underground (man-made)",
+      "answers": 154
+    },
+    {
+      "round": 4,
+      "file": "04-body-part-an-animal-has-for-fighting-or-protection.txt",
+      "folder": "04-body-part-an-animal-has-for-fighting-or-protection",
+      "prompt": "Name a body part an animal has for fighting or protection",
+      "answers": 69
+    },
+    {
+      "round": 5,
+      "file": "05-type-of-sausage.txt",
+      "folder": "05-type-of-sausage",
+      "prompt": "Name a type of sausage",
+      "answers": 549
+    },
+    {
+      "round": 6,
+      "file": "06-board-card-or-hand-game-made-for-exactly-two-players.txt",
+      "folder": "06-board-card-or-hand-game-made-for-exactly-two-players",
+      "prompt": "Name a board, card or hand game made for exactly two players",
+      "answers": 3925
+    },
+    {
+      "round": 7,
+      "file": "07-country-in-the-americas-where-spanish-is-not-the-most-widely.txt",
+      "folder": "07-country-in-the-americas-where-spanish-is-not-the-most-widely",
+      "prompt": "Name a country in the Americas where Spanish is not the most widely spoken language",
+      "answers": 18
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an NFL team",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 32,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2,
+    "rare": 3,
+    "schooler": 21,
+    "plankton": 5
+  }
+}

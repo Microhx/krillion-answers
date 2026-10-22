@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an airline",
+  "category": "Brands / Companies / Apps",
+  "round": 2,
+  "answers": 207,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 159,
+    "rare": 29,
+    "schooler": 11,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

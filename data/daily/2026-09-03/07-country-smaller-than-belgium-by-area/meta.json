@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country smaller than Belgium (by area)",
+  "category": "Country / Geography / Places",
+  "round": 7,
+  "answers": 62,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 38,
+    "rare": 13,
+    "schooler": 7,
+    "plankton": 3
+  }
+}

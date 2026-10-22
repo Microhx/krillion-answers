@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Harry Potter character",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 110,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 49,
+    "rare": 38,
+    "schooler": 16,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

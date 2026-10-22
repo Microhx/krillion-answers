@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a country whose flag uses all three of red, white, and blue, and no other colors",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 25,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 4,
+    "rare": 3,
+    "schooler": 11,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

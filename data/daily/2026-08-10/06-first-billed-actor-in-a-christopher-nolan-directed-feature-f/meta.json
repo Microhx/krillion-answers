@@ -1,0 +1,12 @@
+{
+  "prompt": "Name a first-billed actor in a Christopher Nolan-directed feature film",
+  "category": "People & Entertainment",
+  "round": 6,
+  "answers": 11,
+  "tiers": {
+    "deepcut": 2,
+    "rare": 2,
+    "schooler": 4,
+    "plankton": 3
+  }
+}

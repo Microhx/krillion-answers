@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-08",
+  "rounds": 7,
+  "answers": 594,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 2,
+    "Science, Space & Tech": 1,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-that-no-longer-exists.txt",
+      "folder": "01-country-that-no-longer-exists",
+      "prompt": "Name a country that no longer exists",
+      "answers": 74
+    },
+    {
+      "round": 2,
+      "file": "02-horse-breed.txt",
+      "folder": "02-horse-breed",
+      "prompt": "Name a horse breed",
+      "answers": 65
+    },
+    {
+      "round": 3,
+      "file": "03-japanese-dish.txt",
+      "folder": "03-japanese-dish",
+      "prompt": "Name a Japanese dish",
+      "answers": 65
+    },
+    {
+      "round": 4,
+      "file": "04-shrek-character.txt",
+      "folder": "04-shrek-character",
+      "prompt": "Name a Shrek character",
+      "answers": 45
+    },
+    {
+      "round": 5,
+      "file": "05-space-mission-or-program.txt",
+      "folder": "05-space-mission-or-program",
+      "prompt": "Name a space mission or program",
+      "answers": 88
+    },
+    {
+      "round": 6,
+      "file": "06-golfer-who-has-won-a-major-championship.txt",
+      "folder": "06-golfer-who-has-won-a-major-championship",
+      "prompt": "Name a golfer who has won a major championship",
+      "answers": 224
+    },
+    {
+      "round": 7,
+      "file": "07-roald-dahl-book.txt",
+      "folder": "07-roald-dahl-book",
+      "prompt": "Name a Roald Dahl book",
+      "answers": 33
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

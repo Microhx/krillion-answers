@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country where English is an official language",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 62,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 24,
+    "rare": 23,
+    "schooler": 10,
+    "plankton": 4
+  }
+}

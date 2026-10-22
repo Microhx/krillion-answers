@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a gas found in Earth's atmosphere",
+  "category": "Science, Space & Tech",
+  "round": 7,
+  "answers": 201,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 149,
+    "rare": 37,
+    "schooler": 10,
+    "plankton": 3
+  }
+}

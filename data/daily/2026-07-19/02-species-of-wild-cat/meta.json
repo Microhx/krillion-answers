@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a species of wild cat",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 40,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 13,
+    "rare": 11,
+    "schooler": 10,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

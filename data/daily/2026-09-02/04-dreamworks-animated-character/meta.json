@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a DreamWorks animated character",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 622,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 391,
+    "rare": 192,
+    "schooler": 31,
+    "plankton": 7
+  }
+}

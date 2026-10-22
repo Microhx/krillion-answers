@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a vegetable (culinarily and technically)",
+  "category": "Food & Drink",
+  "round": 2,
+  "answers": 261,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 170,
+    "rare": 53,
+    "schooler": 31,
+    "plankton": 6
+  }
+}

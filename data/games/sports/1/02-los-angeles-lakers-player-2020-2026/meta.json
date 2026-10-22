@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Los Angeles Lakers player (2020-2026)",
+  "category": "Sports & Games",
+  "round": 2,
+  "answers": 100,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 27,
+    "rare": 45,
+    "schooler": 18,
+    "tooclever": 2,
+    "plankton": 6
+  }
+}

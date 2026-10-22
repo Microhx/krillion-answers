@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a kitchen appliance (something powered)",
+  "category": "Objects, Tools & Materials",
+  "round": 3,
+  "answers": 151,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 101,
+    "rare": 28,
+    "schooler": 14,
+    "plankton": 7
+  }
+}

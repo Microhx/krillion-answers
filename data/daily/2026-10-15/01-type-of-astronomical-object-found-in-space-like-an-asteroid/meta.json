@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a type of astronomical object found in space (like an asteroid)",
+  "category": "Science, Space & Tech",
+  "round": 1,
+  "answers": 719,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 661,
+    "rare": 43,
+    "schooler": 5,
+    "plankton": 8
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a type of powder",
+  "category": "Objects, Tools & Materials",
+  "round": 6,
+  "answers": 1448,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1279,
+    "rare": 138,
+    "schooler": 19,
+    "plankton": 11
+  }
+}

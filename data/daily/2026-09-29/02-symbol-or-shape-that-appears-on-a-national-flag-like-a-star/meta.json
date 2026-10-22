@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a symbol or shape that appears on a national flag (like a star)",
+  "category": "Country / Geography / Places",
+  "round": 2,
+  "answers": 192,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 99,
+    "rare": 70,
+    "schooler": 18,
+    "plankton": 3
+  }
+}

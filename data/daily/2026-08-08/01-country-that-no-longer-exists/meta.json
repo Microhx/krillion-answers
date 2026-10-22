@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a country that no longer exists",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 74,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 40,
+    "rare": 22,
+    "schooler": 6,
+    "tooclever": 2,
+    "plankton": 3
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Simpsons character",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 102,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 47,
+    "rare": 32,
+    "schooler": 17,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

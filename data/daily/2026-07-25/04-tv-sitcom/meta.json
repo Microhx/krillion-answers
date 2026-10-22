@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a TV sitcom",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 119,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 43,
+    "rare": 50,
+    "schooler": 20,
+    "tooclever": 2,
+    "plankton": 3
+  }
+}

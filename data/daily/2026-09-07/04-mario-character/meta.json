@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a Mario character",
+  "category": "Sports & Games",
+  "round": 4,
+  "answers": 3147,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 3077,
+    "rare": 53,
+    "schooler": 10,
+    "plankton": 6
+  }
+}

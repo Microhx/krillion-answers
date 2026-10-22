@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an amphibian",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 41,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 19,
+    "rare": 12,
+    "schooler": 5,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

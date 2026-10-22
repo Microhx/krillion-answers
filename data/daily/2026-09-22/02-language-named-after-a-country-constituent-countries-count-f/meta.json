@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a language named after a country (constituent countries count; for example England → English)",
+  "category": "Words, Language & Numbers",
+  "round": 2,
+  "answers": 116,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 55,
+    "rare": 37,
+    "schooler": 16,
+    "plankton": 6
+  }
+}

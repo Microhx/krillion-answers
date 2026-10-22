@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a type of milk",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 159,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 116,
+    "rare": 23,
+    "schooler": 13,
+    "plankton": 6
+  }
+}

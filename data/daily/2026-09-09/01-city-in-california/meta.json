@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a city in California",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 563,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 498,
+    "rare": 45,
+    "schooler": 15,
+    "plankton": 3
+  }
+}

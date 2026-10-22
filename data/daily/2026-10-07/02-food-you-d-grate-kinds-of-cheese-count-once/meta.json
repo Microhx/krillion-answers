@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a food you'd grate (kinds of cheese count once)",
+  "category": "Food & Drink",
+  "round": 2,
+  "answers": 134,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 93,
+    "rare": 29,
+    "schooler": 7,
+    "plankton": 3
+  }
+}

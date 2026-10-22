@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a member of the Beatles",
+  "category": "People & Entertainment",
+  "round": 5,
+  "answers": 10,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 4,
+    "rare": 1,
+    "schooler": 2,
+    "plankton": 2
+  }
+}

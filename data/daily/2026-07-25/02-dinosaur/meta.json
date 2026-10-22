@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a dinosaur",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 76,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 33,
+    "rare": 24,
+    "schooler": 8,
+    "tooclever": 3,
+    "plankton": 6
+  }
+}

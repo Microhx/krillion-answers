@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a city that has hosted the Summer or Winter Olympics",
+  "category": "Country / Geography / Places",
+  "round": 6,
+  "answers": 46,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 8,
+    "rare": 14,
+    "schooler": 16,
+    "tooclever": 1,
+    "plankton": 6
+  }
+}

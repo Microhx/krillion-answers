@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something that comes in a pump bottle (like moisturizer)",
+  "category": "Objects, Tools & Materials",
+  "round": 1,
+  "answers": 419,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 310,
+    "rare": 91,
+    "schooler": 12,
+    "plankton": 5
+  }
+}

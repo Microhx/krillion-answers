@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a famous movie monster",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 113,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 44,
+    "rare": 35,
+    "schooler": 25,
+    "tooclever": 1,
+    "plankton": 7
+  }
+}

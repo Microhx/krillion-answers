@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-18",
+  "rounds": 7,
+  "answers": 25156,
+  "categories": {
+    "Food & Drink": 1,
+    "Work, Money & Society": 1,
+    "Brands / Companies / Apps": 1,
+    "Sports & Games": 3,
+    "People & Entertainment": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-fruit-bigger-than-an-apple.txt",
+      "folder": "01-fruit-bigger-than-an-apple",
+      "prompt": "Name a fruit bigger than an apple",
+      "answers": 205
+    },
+    {
+      "round": 2,
+      "file": "02-symbol-of-hinduism-judaism-christianity-islam-or-buddhism-li.txt",
+      "folder": "02-symbol-of-hinduism-judaism-christianity-islam-or-buddhism-li",
+      "prompt": "Name a symbol of Hinduism, Judaism, Christianity, Islam or Buddhism (like the cross)",
+      "answers": 439
+    },
+    {
+      "round": 3,
+      "file": "03-perfume-or-fragrance-brand.txt",
+      "folder": "03-perfume-or-fragrance-brand",
+      "prompt": "Name a perfume or fragrance brand",
+      "answers": 17027
+    },
+    {
+      "round": 4,
+      "file": "04-sport-where-competitors-wear-gloves.txt",
+      "folder": "04-sport-where-competitors-wear-gloves",
+      "prompt": "Name a sport where competitors wear gloves",
+      "answers": 530
+    },
+    {
+      "round": 5,
+      "file": "05-leg-exercise-at-the-gym-no-cardio.txt",
+      "folder": "05-leg-exercise-at-the-gym-no-cardio",
+      "prompt": "Name a leg exercise at the gym (no cardio)",
+      "answers": 172
+    },
+    {
+      "round": 6,
+      "file": "06-fortnite-character-or-skin.txt",
+      "folder": "06-fortnite-character-or-skin",
+      "prompt": "Name a Fortnite character or skin",
+      "answers": 3116
+    },
+    {
+      "round": 7,
+      "file": "07-rapper-with-more-than-500k-monthly-spotify-listeners.txt",
+      "folder": "07-rapper-with-more-than-500k-monthly-spotify-listeners",
+      "prompt": "Name a rapper with more than 500k monthly Spotify listeners",
+      "answers": 3667
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

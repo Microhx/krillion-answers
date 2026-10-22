@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a movie starring Will Smith",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 38,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 7,
+    "rare": 12,
+    "schooler": 13,
+    "plankton": 5
+  }
+}

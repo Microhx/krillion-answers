@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a sport or discipline ever contested or demonstrated at the Winter Olympics",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 38,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 8,
+    "rare": 14,
+    "schooler": 7,
+    "tooclever": 3,
+    "plankton": 4
+  }
+}

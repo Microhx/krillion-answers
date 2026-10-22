@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-29",
+  "rounds": 7,
+  "answers": 4040,
+  "categories": {
+    "Objects, Tools & Materials": 3,
+    "Country / Geography / Places": 1,
+    "Work, Money & Society": 1,
+    "People & Entertainment": 1,
+    "Animals & Nature": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-name-something-sold-in-a-tube.txt",
+      "folder": "01-name-something-sold-in-a-tube",
+      "prompt": "Name something sold in a tube",
+      "answers": 474
+    },
+    {
+      "round": 2,
+      "file": "02-symbol-or-shape-that-appears-on-a-national-flag-like-a-star.txt",
+      "folder": "02-symbol-or-shape-that-appears-on-a-national-flag-like-a-star",
+      "prompt": "Name a symbol or shape that appears on a national flag (like a star)",
+      "answers": 192
+    },
+    {
+      "round": 3,
+      "file": "03-type-of-chair.txt",
+      "folder": "03-type-of-chair",
+      "prompt": "Name a type of chair",
+      "answers": 1017
+    },
+    {
+      "round": 4,
+      "file": "04-standard-type-of-insurance-policy-all-vehicles-count-as-one.txt",
+      "folder": "04-standard-type-of-insurance-policy-all-vehicles-count-as-one",
+      "prompt": "Name a standard type of insurance policy (all vehicles count as one type)",
+      "answers": 433
+    },
+    {
+      "round": 5,
+      "file": "05-song-with-over-a-billion-streams-on-spotify.txt",
+      "folder": "05-song-with-over-a-billion-streams-on-spotify",
+      "prompt": "Name a song with over a billion streams on Spotify",
+      "answers": 1364
+    },
+    {
+      "round": 6,
+      "file": "06-animal-that-can-grow-longer-than-10-feet-3-m-including-the-t.txt",
+      "folder": "06-animal-that-can-grow-longer-than-10-feet-3-m-including-the-t",
+      "prompt": "Name an animal that can grow longer than 10 feet (3 m), including the tail",
+      "answers": 304
+    },
+    {
+      "round": 7,
+      "file": "07-product-used-to-wash-or-style-hair-product-types-not-brands.txt",
+      "folder": "07-product-used-to-wash-or-style-hair-product-types-not-brands",
+      "prompt": "Name a product used to wash or style hair (product types, not brands)",
+      "answers": 256
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

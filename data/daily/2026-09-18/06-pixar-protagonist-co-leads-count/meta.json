@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a Pixar protagonist (co-leads count)",
+  "category": "People & Entertainment",
+  "round": 6,
+  "answers": 109,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 52,
+    "rare": 28,
+    "schooler": 19,
+    "plankton": 8
+  }
+}

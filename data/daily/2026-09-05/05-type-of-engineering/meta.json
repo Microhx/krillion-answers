@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a type of engineering",
+  "category": "Science, Space & Tech",
+  "round": 5,
+  "answers": 170,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 105,
+    "rare": 40,
+    "schooler": 18,
+    "plankton": 6
+  }
+}

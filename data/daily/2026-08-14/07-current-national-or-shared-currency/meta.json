@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a current national or shared currency",
+  "category": "Work, Money & Society",
+  "round": 7,
+  "answers": 79,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 26,
+    "rare": 33,
+    "schooler": 13,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

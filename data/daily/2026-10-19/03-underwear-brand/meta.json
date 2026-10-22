@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an underwear brand",
+  "category": "Brands / Companies / Apps",
+  "round": 3,
+  "answers": 966,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 870,
+    "rare": 80,
+    "schooler": 9,
+    "plankton": 5
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a type of bag",
+  "category": "Objects, Tools & Materials",
+  "round": 7,
+  "answers": 79,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 41,
+    "rare": 24,
+    "schooler": 8,
+    "tooclever": 2,
+    "plankton": 2
+  }
+}

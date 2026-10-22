@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Chinese dish",
+  "category": "Food & Drink",
+  "round": 4,
+  "answers": 105,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 53,
+    "rare": 32,
+    "schooler": 15,
+    "tooclever": 2,
+    "plankton": 2
+  }
+}

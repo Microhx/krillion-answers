@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an app or service for paying or sending money (like PayPal; banks and card networks don't count)",
+  "category": "Brands / Companies / Apps",
+  "round": 5,
+  "answers": 1902,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 1828,
+    "rare": 58,
+    "schooler": 9,
+    "plankton": 5
+  }
+}

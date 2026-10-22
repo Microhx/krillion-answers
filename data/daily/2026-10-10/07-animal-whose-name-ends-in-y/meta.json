@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an animal whose name ends in Y",
+  "category": "Animals & Nature",
+  "round": 7,
+  "answers": 10338,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 10166,
+    "rare": 141,
+    "schooler": 20,
+    "plankton": 9
+  }
+}

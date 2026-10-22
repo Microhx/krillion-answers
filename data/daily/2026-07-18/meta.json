@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-07-18",
+  "rounds": 7,
+  "answers": 461,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Food & Drink": 2,
+    "People & Entertainment": 2,
+    "Science, Space & Tech": 1,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-capital-city-of-a-european-country.txt",
+      "folder": "01-capital-city-of-a-european-country",
+      "prompt": "Name the capital city of a European country",
+      "answers": 51
+    },
+    {
+      "round": 2,
+      "file": "02-citrus-fruit.txt",
+      "folder": "02-citrus-fruit",
+      "prompt": "Name a citrus fruit",
+      "answers": 35
+    },
+    {
+      "round": 3,
+      "file": "03-movie-that-won-the-best-picture-oscar.txt",
+      "folder": "03-movie-that-won-the-best-picture-oscar",
+      "prompt": "Name a movie that won the Best Picture Oscar",
+      "answers": 97
+    },
+    {
+      "round": 4,
+      "file": "04-officially-recognized-constellation.txt",
+      "folder": "04-officially-recognized-constellation",
+      "prompt": "Name an officially recognized constellation",
+      "answers": 90
+    },
+    {
+      "round": 5,
+      "file": "05-nba-team.txt",
+      "folder": "05-nba-team",
+      "prompt": "Name an NBA team",
+      "answers": 68
+    },
+    {
+      "round": 6,
+      "file": "06-root-vegetable.txt",
+      "folder": "06-root-vegetable",
+      "prompt": "Name a root vegetable",
+      "answers": 40
+    },
+    {
+      "round": 7,
+      "file": "07-greek-god-or-goddess.txt",
+      "folder": "07-greek-god-or-goddess",
+      "prompt": "Name a Greek god or goddess",
+      "answers": 80
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

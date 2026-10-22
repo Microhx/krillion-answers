@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a venomous or poisonous animal",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 61,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 23,
+    "rare": 17,
+    "schooler": 15,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

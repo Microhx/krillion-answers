@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a martial art",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 58,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 32,
+    "rare": 8,
+    "schooler": 11,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

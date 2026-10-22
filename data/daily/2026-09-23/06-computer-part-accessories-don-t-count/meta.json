@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a computer part (accessories don't count)",
+  "category": "Objects, Tools & Materials",
+  "round": 6,
+  "answers": 293,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 251,
+    "rare": 20,
+    "schooler": 16,
+    "plankton": 5
+  }
+}

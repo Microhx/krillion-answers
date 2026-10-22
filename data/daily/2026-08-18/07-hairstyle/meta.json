@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a hairstyle",
+  "category": "Body, Health & Medicine",
+  "round": 7,
+  "answers": 101,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 35,
+    "rare": 32,
+    "schooler": 28,
+    "tooclever": 2,
+    "plankton": 3
+  }
+}

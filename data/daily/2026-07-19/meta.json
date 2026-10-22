@@ -1,0 +1,67 @@
+{
+  "mode": "daily",
+  "game_id": "2026-07-19",
+  "rounds": 7,
+  "answers": 366,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 1,
+    "Body, Health & Medicine": 1,
+    "Sports & Games": 1,
+    "Work, Money & Society": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-island-country.txt",
+      "folder": "01-island-country",
+      "prompt": "Name an island country",
+      "answers": 48
+    },
+    {
+      "round": 2,
+      "file": "02-species-of-wild-cat.txt",
+      "folder": "02-species-of-wild-cat",
+      "prompt": "Name a species of wild cat",
+      "answers": 40
+    },
+    {
+      "round": 3,
+      "file": "03-type-of-bread.txt",
+      "folder": "03-type-of-bread",
+      "prompt": "Name a type of bread",
+      "answers": 70
+    },
+    {
+      "round": 4,
+      "file": "04-studio-ghibli-film.txt",
+      "folder": "04-studio-ghibli-film",
+      "prompt": "Name a Studio Ghibli film",
+      "answers": 27
+    },
+    {
+      "round": 5,
+      "file": "05-bone-in-the-human-body.txt",
+      "folder": "05-bone-in-the-human-body",
+      "prompt": "Name a bone in the human body",
+      "answers": 58
+    },
+    {
+      "round": 6,
+      "file": "06-card-game.txt",
+      "folder": "06-card-game",
+      "prompt": "Name a card game",
+      "answers": 78
+    },
+    {
+      "round": 7,
+      "file": "07-us-president.txt",
+      "folder": "07-us-president",
+      "prompt": "Name a US president",
+      "answers": 45
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

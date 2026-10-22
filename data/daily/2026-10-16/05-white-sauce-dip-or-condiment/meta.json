@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a white sauce, dip, or condiment",
+  "category": "Food & Drink",
+  "round": 5,
+  "answers": 435,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 344,
+    "rare": 73,
+    "schooler": 15,
+    "plankton": 2
+  }
+}

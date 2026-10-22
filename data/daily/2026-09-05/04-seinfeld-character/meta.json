@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a Seinfeld character",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 361,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 317,
+    "rare": 34,
+    "schooler": 5,
+    "plankton": 4
+  }
+}

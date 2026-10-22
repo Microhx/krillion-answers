@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a leg exercise at the gym (no cardio)",
+  "category": "Sports & Games",
+  "round": 5,
+  "answers": 172,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 104,
+    "rare": 42,
+    "schooler": 17,
+    "plankton": 7
+  }
+}

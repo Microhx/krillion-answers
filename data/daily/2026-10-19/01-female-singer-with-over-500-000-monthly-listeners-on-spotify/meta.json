@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a female singer with over 500,000 monthly listeners on Spotify",
+  "category": "People & Entertainment",
+  "round": 1,
+  "answers": 2523,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 2105,
+    "rare": 361,
+    "schooler": 42,
+    "plankton": 13
+  }
+}

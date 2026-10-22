@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a cut of beef",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 47,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 12,
+    "rare": 16,
+    "schooler": 13,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

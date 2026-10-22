@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-06",
+  "rounds": 7,
+  "answers": 456,
+  "categories": {
+    "Country / Geography / Places": 2,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 2,
+    "Science, Space & Tech": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-african-capital-city.txt",
+      "folder": "01-african-capital-city",
+      "prompt": "Name an African capital city",
+      "answers": 60
+    },
+    {
+      "round": 2,
+      "file": "02-type-of-waterfowl.txt",
+      "folder": "02-type-of-waterfowl",
+      "prompt": "Name a type of waterfowl",
+      "answers": 52
+    },
+    {
+      "round": 3,
+      "file": "03-mexican-dish.txt",
+      "folder": "03-mexican-dish",
+      "prompt": "Name a Mexican dish",
+      "answers": 60
+    },
+    {
+      "round": 4,
+      "file": "04-disney-villain.txt",
+      "folder": "04-disney-villain",
+      "prompt": "Name a Disney villain",
+      "answers": 88
+    },
+    {
+      "round": 5,
+      "file": "05-geometric-shape.txt",
+      "folder": "05-geometric-shape",
+      "prompt": "Name a geometric shape",
+      "answers": 73
+    },
+    {
+      "round": 6,
+      "file": "06-country-that-has-hosted-the-fifa-world-cup.txt",
+      "folder": "06-country-that-has-hosted-the-fifa-world-cup",
+      "prompt": "Name a country that has hosted the FIFA World Cup",
+      "answers": 19
+    },
+    {
+      "round": 7,
+      "file": "07-famous-poet.txt",
+      "folder": "07-famous-poet",
+      "prompt": "Name a famous poet",
+      "answers": 104
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

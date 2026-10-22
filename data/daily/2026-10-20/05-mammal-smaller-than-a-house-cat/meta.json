@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a mammal smaller than a house cat",
+  "category": "Animals & Nature",
+  "round": 5,
+  "answers": 6515,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 6296,
+    "rare": 188,
+    "schooler": 21,
+    "plankton": 8
+  }
+}

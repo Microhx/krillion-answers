@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a stand-up comedian",
+  "category": "People & Entertainment",
+  "round": 3,
+  "answers": 7217,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 6927,
+    "rare": 243,
+    "schooler": 39,
+    "plankton": 7
+  }
+}

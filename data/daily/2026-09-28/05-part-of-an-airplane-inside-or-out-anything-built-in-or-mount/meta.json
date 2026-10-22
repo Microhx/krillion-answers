@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a part of an airplane, inside or out (anything built in or mounted)",
+  "category": "Objects, Tools & Materials",
+  "round": 5,
+  "answers": 985,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 856,
+    "rare": 95,
+    "schooler": 25,
+    "plankton": 7
+  }
+}

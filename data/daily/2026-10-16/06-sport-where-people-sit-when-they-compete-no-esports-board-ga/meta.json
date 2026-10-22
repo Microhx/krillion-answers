@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a sport where people sit when they compete (no esports, board games or card games)",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 620,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 536,
+    "rare": 66,
+    "schooler": 12,
+    "plankton": 4
+  }
+}

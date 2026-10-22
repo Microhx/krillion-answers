@@ -1,0 +1,13 @@
+{
+  "prompt": "Name the current capital of a state or province anywhere in the world (must be officially called a state or province)",
+  "category": "Country / Geography / Places",
+  "round": 3,
+  "answers": 1980,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 1814,
+    "rare": 124,
+    "schooler": 35,
+    "plankton": 5
+  }
+}

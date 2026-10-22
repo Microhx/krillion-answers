@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-13",
+  "rounds": 7,
+  "answers": 8419,
+  "categories": {
+    "Brands / Companies / Apps": 2,
+    "Food & Drink": 1,
+    "Work, Money & Society": 1,
+    "People & Entertainment": 1,
+    "Country / Geography / Places": 2
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-amazon-product-service-or-company-amazon-owns.txt",
+      "folder": "01-amazon-product-service-or-company-amazon-owns",
+      "prompt": "Name an Amazon product, service or company Amazon owns",
+      "answers": 1093
+    },
+    {
+      "round": 2,
+      "file": "02-fruit-or-vegetable-that-starts-with-b.txt",
+      "folder": "02-fruit-or-vegetable-that-starts-with-b",
+      "prompt": "Name a fruit or vegetable that starts with B",
+      "answers": 2620
+    },
+    {
+      "round": 3,
+      "file": "03-driving-or-traffic-offence.txt",
+      "folder": "03-driving-or-traffic-offence",
+      "prompt": "Name a driving or traffic offence",
+      "answers": 229
+    },
+    {
+      "round": 4,
+      "file": "04-fictional-character-played-by-more-than-one-actor-in-live-ac.txt",
+      "folder": "04-fictional-character-played-by-more-than-one-actor-in-live-ac",
+      "prompt": "Name a fictional character played by more than one actor in live-action movies",
+      "answers": 2418
+    },
+    {
+      "round": 5,
+      "file": "05-country-that-has-part-of-the-alps-the-andes-or-the-himalayas.txt",
+      "folder": "05-country-that-has-part-of-the-alps-the-andes-or-the-himalayas",
+      "prompt": "Name a country that has part of the Alps, the Andes or the Himalayas",
+      "answers": 21
+    },
+    {
+      "round": 6,
+      "file": "06-city-in-asia-with-over-1-million-people-within-city-limits.txt",
+      "folder": "06-city-in-asia-with-over-1-million-people-within-city-limits",
+      "prompt": "Name a city in Asia with over 1 million people within city limits",
+      "answers": 544
+    },
+    {
+      "round": 7,
+      "file": "07-shampoo-brand.txt",
+      "folder": "07-shampoo-brand",
+      "prompt": "Name a shampoo brand",
+      "answers": 1494
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

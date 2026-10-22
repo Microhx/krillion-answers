@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a medical specialty",
+  "category": "Body, Health & Medicine",
+  "round": 6,
+  "answers": 54,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 12,
+    "rare": 20,
+    "schooler": 15,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

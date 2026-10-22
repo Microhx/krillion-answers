@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a sovereign country whose flag contains both red and white",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 111,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 45,
+    "rare": 40,
+    "schooler": 16,
+    "tooclever": 2,
+    "plankton": 6
+  }
+}

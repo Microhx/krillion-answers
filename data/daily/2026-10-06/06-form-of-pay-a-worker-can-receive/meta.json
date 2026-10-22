@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a form of pay a worker can receive",
+  "category": "Work, Money & Society",
+  "round": 6,
+  "answers": 333,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 247,
+    "rare": 57,
+    "schooler": 21,
+    "plankton": 6
+  }
+}

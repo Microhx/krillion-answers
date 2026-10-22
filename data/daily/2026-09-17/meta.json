@@ -1,0 +1,67 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-17",
+  "rounds": 7,
+  "answers": 4091,
+  "categories": {
+    "Work, Money & Society": 1,
+    "Words, Language & Numbers": 1,
+    "Country / Geography / Places": 1,
+    "Sports & Games": 1,
+    "Objects, Tools & Materials": 1,
+    "Brands / Companies / Apps": 1,
+    "Science, Space & Tech": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-current-fortune-500-ceo.txt",
+      "folder": "01-current-fortune-500-ceo",
+      "prompt": "Name a current Fortune 500 CEO",
+      "answers": 511
+    },
+    {
+      "round": 2,
+      "file": "02-word-for-a-baby-animal.txt",
+      "folder": "02-word-for-a-baby-animal",
+      "prompt": "Name a word for a baby animal",
+      "answers": 233
+    },
+    {
+      "round": 3,
+      "file": "03-country-that-has-nuclear-weapons-constituent-countries-don-t.txt",
+      "folder": "03-country-that-has-nuclear-weapons-constituent-countries-don-t",
+      "prompt": "Name a country that has nuclear weapons (constituent countries don't count)",
+      "answers": 9
+    },
+    {
+      "round": 4,
+      "file": "04-calisthenics-exercise-bodyweight-exercises-only.txt",
+      "folder": "04-calisthenics-exercise-bodyweight-exercises-only",
+      "prompt": "Name a calisthenics exercise (bodyweight exercises only)",
+      "answers": 613
+    },
+    {
+      "round": 5,
+      "file": "05-article-of-clothing-jewelry-glasses-and-bags-don-t-count.txt",
+      "folder": "05-article-of-clothing-jewelry-glasses-and-bags-don-t-count",
+      "prompt": "Name an article of clothing (jewelry, glasses and bags don't count)",
+      "answers": 2276
+    },
+    {
+      "round": 6,
+      "file": "06-social-media-platform-that-s-still-operating.txt",
+      "folder": "06-social-media-platform-that-s-still-operating",
+      "prompt": "Name a social media platform that's still operating",
+      "answers": 248
+    },
+    {
+      "round": 7,
+      "file": "07-gas-found-in-earth-s-atmosphere.txt",
+      "folder": "07-gas-found-in-earth-s-atmosphere",
+      "prompt": "Name a gas found in Earth's atmosphere",
+      "answers": 201
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

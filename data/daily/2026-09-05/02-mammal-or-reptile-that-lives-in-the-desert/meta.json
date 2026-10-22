@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a mammal or reptile that lives in the desert",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 288,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 211,
+    "rare": 58,
+    "schooler": 12,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

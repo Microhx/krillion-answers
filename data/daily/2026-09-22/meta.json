@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-22",
+  "rounds": 7,
+  "answers": 3036,
+  "categories": {
+    "Food & Drink": 1,
+    "Words, Language & Numbers": 1,
+    "Brands / Companies / Apps": 3,
+    "Science, Space & Tech": 1,
+    "Body, Health & Medicine": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-salad-dressing.txt",
+      "folder": "01-salad-dressing",
+      "prompt": "Name a salad dressing",
+      "answers": 257
+    },
+    {
+      "round": 2,
+      "file": "02-language-named-after-a-country-constituent-countries-count-f.txt",
+      "folder": "02-language-named-after-a-country-constituent-countries-count-f",
+      "prompt": "Name a language named after a country (constituent countries count; for example England → English)",
+      "answers": 116
+    },
+    {
+      "round": 3,
+      "file": "03-current-top-200-website-by-tranco-named-sites-and-services-o.txt",
+      "folder": "03-current-top-200-website-by-tranco-named-sites-and-services-o",
+      "prompt": "Name a current top 200 website (by Tranco; named sites and services only)",
+      "answers": 114
+    },
+    {
+      "round": 4,
+      "file": "04-search-engine.txt",
+      "folder": "04-search-engine",
+      "prompt": "Name a search engine",
+      "answers": 584
+    },
+    {
+      "round": 5,
+      "file": "05-field-of-math.txt",
+      "folder": "05-field-of-math",
+      "prompt": "Name a field of math",
+      "answers": 461
+    },
+    {
+      "round": 6,
+      "file": "06-sunglasses-brand-has-a-label-line.txt",
+      "folder": "06-sunglasses-brand-has-a-label-line",
+      "prompt": "Name a sunglasses brand (has a label line)",
+      "answers": 1382
+    },
+    {
+      "round": 7,
+      "file": "07-facial-hair-style.txt",
+      "folder": "07-facial-hair-style",
+      "prompt": "Name a facial hair style",
+      "answers": 122
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

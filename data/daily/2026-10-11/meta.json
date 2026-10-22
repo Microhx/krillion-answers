@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-11",
+  "rounds": 7,
+  "answers": 4840,
+  "categories": {
+    "Objects, Tools & Materials": 2,
+    "Science, Space & Tech": 1,
+    "Work, Money & Society": 1,
+    "Brands / Companies / Apps": 1,
+    "Sports & Games": 1,
+    "Country / Geography / Places": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-name-something-sold-in-a-roll.txt",
+      "folder": "01-name-something-sold-in-a-roll",
+      "prompt": "Name something sold in a roll",
+      "answers": 614
+    },
+    {
+      "round": 2,
+      "file": "02-type-of-table-the-furniture.txt",
+      "folder": "02-type-of-table-the-furniture",
+      "prompt": "Name a type of table (the furniture)",
+      "answers": 734
+    },
+    {
+      "round": 3,
+      "file": "03-metal-pure-elements-only-alloys-like-steel-don-t-count.txt",
+      "folder": "03-metal-pure-elements-only-alloys-like-steel-don-t-count",
+      "prompt": "Name a metal (pure elements only; alloys like steel don't count)",
+      "answers": 92
+    },
+    {
+      "round": 4,
+      "file": "04-kind-of-license-or-permit-a-person-can-get.txt",
+      "folder": "04-kind-of-license-or-permit-a-person-can-get",
+      "prompt": "Name a kind of license or permit a person can get",
+      "answers": 900
+    },
+    {
+      "round": 5,
+      "file": "05-app-or-service-for-paying-or-sending-money-like-paypal-banks.txt",
+      "folder": "05-app-or-service-for-paying-or-sending-money-like-paypal-banks",
+      "prompt": "Name an app or service for paying or sending money (like PayPal; banks and card networks don't count)",
+      "answers": 1902
+    },
+    {
+      "round": 6,
+      "file": "06-sport-that-is-a-race-fastest-to-the-finish-wins.txt",
+      "folder": "06-sport-that-is-a-race-fastest-to-the-finish-wins",
+      "prompt": "Name a sport that is a race (fastest to the finish wins)",
+      "answers": 586
+    },
+    {
+      "round": 7,
+      "file": "07-country-that-borders-iraq-or-iran-by-land.txt",
+      "folder": "07-country-that-borders-iraq-or-iran-by-land",
+      "prompt": "Name a country that borders Iraq or Iran by land",
+      "answers": 12
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

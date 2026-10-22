@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a film directed by Wes Anderson",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 23,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 8,
+    "rare": 3,
+    "schooler": 7,
+    "plankton": 4
+  }
+}

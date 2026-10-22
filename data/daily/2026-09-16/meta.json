@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-16",
+  "rounds": 7,
+  "answers": 850,
+  "categories": {
+    "Animals & Nature": 2,
+    "Sports & Games": 1,
+    "People & Entertainment": 1,
+    "Work, Money & Society": 1,
+    "Country / Geography / Places": 2
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-domesticated-animal-kinds-of-animal-not-breeds.txt",
+      "folder": "01-domesticated-animal-kinds-of-animal-not-breeds",
+      "prompt": "Name a domesticated animal (kinds of animal, not breeds)",
+      "answers": 186
+    },
+    {
+      "round": 2,
+      "file": "02-cat-breed-coat-patterns-don-t-count.txt",
+      "folder": "02-cat-breed-coat-patterns-don-t-count",
+      "prompt": "Name a cat breed (coat patterns don't count)",
+      "answers": 135
+    },
+    {
+      "round": 3,
+      "file": "03-water-type-pok-mon.txt",
+      "folder": "03-water-type-pok-mon",
+      "prompt": "Name a Water-type Pokémon",
+      "answers": 161
+    },
+    {
+      "round": 4,
+      "file": "04-movie-starring-will-smith.txt",
+      "folder": "04-movie-starring-will-smith",
+      "prompt": "Name a movie starring Will Smith",
+      "answers": 38
+    },
+    {
+      "round": 5,
+      "file": "05-household-chore.txt",
+      "folder": "05-household-chore",
+      "prompt": "Name a household chore",
+      "answers": 226
+    },
+    {
+      "round": 6,
+      "file": "06-country-with-two-syllables-english-pronunciation-constituent.txt",
+      "folder": "06-country-with-two-syllables-english-pronunciation-constituent",
+      "prompt": "Name a country with two syllables (English pronunciation; constituent countries don't count)",
+      "answers": 55
+    },
+    {
+      "round": 7,
+      "file": "07-modern-country-that-was-partly-ruled-by-the-roman-empire-con.txt",
+      "folder": "07-modern-country-that-was-partly-ruled-by-the-roman-empire-con",
+      "prompt": "Name a modern country that was partly ruled by the Roman Empire (constituent countries don't count)",
+      "answers": 49
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

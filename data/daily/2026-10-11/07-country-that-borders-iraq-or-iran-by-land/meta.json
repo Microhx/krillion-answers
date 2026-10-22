@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country that borders Iraq or Iran by land",
+  "category": "Country / Geography / Places",
+  "round": 7,
+  "answers": 12,
+  "tiers": {
+    "deepcut": 2,
+    "rare": 3,
+    "schooler": 3,
+    "tooclever": 2,
+    "plankton": 2
+  }
+}

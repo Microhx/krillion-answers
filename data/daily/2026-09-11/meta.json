@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-11",
+  "rounds": 7,
+  "answers": 2352,
+  "categories": {
+    "Country / Geography / Places": 2,
+    "Work, Money & Society": 1,
+    "People & Entertainment": 2,
+    "Body, Health & Medicine": 1,
+    "Science, Space & Tech": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-city-with-more-than-10-million-people-in-its-metro-area.txt",
+      "folder": "01-city-with-more-than-10-million-people-in-its-metro-area",
+      "prompt": "Name a city with more than 10 million people in its metro area",
+      "answers": 152
+    },
+    {
+      "round": 2,
+      "file": "02-sacred-text-of-christianity-islam-judaism-hinduism-or-buddhi.txt",
+      "folder": "02-sacred-text-of-christianity-islam-judaism-hinduism-or-buddhi",
+      "prompt": "Name a sacred text of Christianity, Islam, Judaism, Hinduism, or Buddhism",
+      "answers": 978
+    },
+    {
+      "round": 3,
+      "file": "03-protagonist-of-a-marvel-cinematic-universe-movie.txt",
+      "folder": "03-protagonist-of-a-marvel-cinematic-universe-movie",
+      "prompt": "Name a protagonist of a Marvel Cinematic Universe movie",
+      "answers": 33
+    },
+    {
+      "round": 4,
+      "file": "04-country-whose-name-starts-with-p.txt",
+      "folder": "04-country-whose-name-starts-with-p",
+      "prompt": "Name a country whose name starts with P",
+      "answers": 10
+    },
+    {
+      "round": 5,
+      "file": "05-part-of-the-human-brain.txt",
+      "folder": "05-part-of-the-human-brain",
+      "prompt": "Name a part of the human brain",
+      "answers": 761
+    },
+    {
+      "round": 6,
+      "file": "06-unit-of-weight-or-mass.txt",
+      "folder": "06-unit-of-weight-or-mass",
+      "prompt": "Name a unit of weight or mass",
+      "answers": 344
+    },
+    {
+      "round": 7,
+      "file": "07-shakespeare-protagonist.txt",
+      "folder": "07-shakespeare-protagonist",
+      "prompt": "Name a Shakespeare protagonist",
+      "answers": 74
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

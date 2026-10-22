@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Sesame Street character",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 231,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 188,
+    "rare": 25,
+    "schooler": 9,
+    "tooclever": 2,
+    "plankton": 6
+  }
+}

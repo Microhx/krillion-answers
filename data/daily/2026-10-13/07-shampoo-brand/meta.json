@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a shampoo brand",
+  "category": "Brands / Companies / Apps",
+  "round": 7,
+  "answers": 1494,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 1359,
+    "rare": 100,
+    "schooler": 29,
+    "plankton": 4
+  }
+}

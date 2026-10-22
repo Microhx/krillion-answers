@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-07",
+  "rounds": 7,
+  "answers": 5599,
+  "categories": {
+    "Country / Geography / Places": 2,
+    "Animals & Nature": 1,
+    "Words, Language & Numbers": 1,
+    "Sports & Games": 2,
+    "Objects, Tools & Materials": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-where-english-is-an-official-language.txt",
+      "folder": "01-country-where-english-is-an-official-language",
+      "prompt": "Name a country where English is an official language",
+      "answers": 62
+    },
+    {
+      "round": 2,
+      "file": "02-animal-that-lives-in-the-arctic-or-antarctica.txt",
+      "folder": "02-animal-that-lives-in-the-arctic-or-antarctica",
+      "prompt": "Name an animal that lives in the Arctic or Antarctica",
+      "answers": 687
+    },
+    {
+      "round": 3,
+      "file": "03-dead-language.txt",
+      "folder": "03-dead-language",
+      "prompt": "Name a dead language",
+      "answers": 1387
+    },
+    {
+      "round": 4,
+      "file": "04-mario-character.txt",
+      "folder": "04-mario-character",
+      "prompt": "Name a Mario character",
+      "answers": 3147
+    },
+    {
+      "round": 5,
+      "file": "05-country-with-the-letter-y-in-its-name.txt",
+      "folder": "05-country-with-the-letter-y-in-its-name",
+      "prompt": "Name a country with the letter Y in its name",
+      "answers": 29
+    },
+    {
+      "round": 6,
+      "file": "06-sport-played-with-a-stick-bat-or-club.txt",
+      "folder": "06-sport-played-with-a-stick-bat-or-club",
+      "prompt": "Name a sport played with a stick, bat, or club",
+      "answers": 166
+    },
+    {
+      "round": 7,
+      "file": "07-type-of-bicycle.txt",
+      "folder": "07-type-of-bicycle",
+      "prompt": "Name a type of bicycle",
+      "answers": 121
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

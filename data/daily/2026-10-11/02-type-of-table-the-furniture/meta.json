@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a type of table (the furniture)",
+  "category": "Objects, Tools & Materials",
+  "round": 2,
+  "answers": 734,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 620,
+    "rare": 88,
+    "schooler": 18,
+    "plankton": 6
+  }
+}

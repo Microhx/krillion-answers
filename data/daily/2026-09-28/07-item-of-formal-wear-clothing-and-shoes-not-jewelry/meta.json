@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an item of formal wear (clothing and shoes, not jewelry)",
+  "category": "Objects, Tools & Materials",
+  "round": 7,
+  "answers": 742,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 659,
+    "rare": 58,
+    "schooler": 18,
+    "plankton": 5
+  }
+}

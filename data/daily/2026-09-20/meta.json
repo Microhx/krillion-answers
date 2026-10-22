@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-20",
+  "rounds": 7,
+  "answers": 1594,
+  "categories": {
+    "Objects, Tools & Materials": 1,
+    "Food & Drink": 1,
+    "Country / Geography / Places": 2,
+    "Body, Health & Medicine": 1,
+    "Sports & Games": 1,
+    "Other / Abstract": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-type-of-door.txt",
+      "folder": "01-type-of-door",
+      "prompt": "Name a type of door",
+      "answers": 222
+    },
+    {
+      "round": 2,
+      "file": "02-name-something-you-can-sweeten-coffee-with.txt",
+      "folder": "02-name-something-you-can-sweeten-coffee-with",
+      "prompt": "Name something you can sweeten coffee with",
+      "answers": 176
+    },
+    {
+      "round": 3,
+      "file": "03-place-people-keep-or-hide-cash.txt",
+      "folder": "03-place-people-keep-or-hide-cash",
+      "prompt": "Name a place people keep or hide cash",
+      "answers": 175
+    },
+    {
+      "round": 4,
+      "file": "04-country-with-stripes-on-its-flag.txt",
+      "folder": "04-country-with-stripes-on-its-flag",
+      "prompt": "Name a country with stripes on its flag",
+      "answers": 148
+    },
+    {
+      "round": 5,
+      "file": "05-disease-that-has-a-vaccine.txt",
+      "folder": "05-disease-that-has-a-vaccine",
+      "prompt": "Name a disease that has a vaccine",
+      "answers": 202
+    },
+    {
+      "round": 6,
+      "file": "06-boxing-weight-class.txt",
+      "folder": "06-boxing-weight-class",
+      "prompt": "Name a boxing weight class",
+      "answers": 23
+    },
+    {
+      "round": 7,
+      "file": "07-pattern-or-print-for-example-stripes.txt",
+      "folder": "07-pattern-or-print-for-example-stripes",
+      "prompt": "Name a pattern or print (for example, stripes)",
+      "answers": 648
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

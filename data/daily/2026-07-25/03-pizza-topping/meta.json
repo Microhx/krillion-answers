@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a pizza topping",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 58,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 18,
+    "rare": 21,
+    "schooler": 13,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

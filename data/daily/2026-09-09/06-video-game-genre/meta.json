@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a video game genre",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 246,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 189,
+    "rare": 37,
+    "schooler": 13,
+    "plankton": 6
+  }
+}

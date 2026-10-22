@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a feature a modern car can have (like cruise control)",
+  "category": "Science, Space & Tech",
+  "round": 3,
+  "answers": 943,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 715,
+    "rare": 188,
+    "schooler": 32,
+    "plankton": 6
+  }
+}

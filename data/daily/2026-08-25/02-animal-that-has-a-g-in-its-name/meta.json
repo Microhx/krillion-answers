@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an animal that has a G in its name",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 233,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 147,
+    "rare": 47,
+    "schooler": 26,
+    "tooclever": 2,
+    "plankton": 9
+  }
+}

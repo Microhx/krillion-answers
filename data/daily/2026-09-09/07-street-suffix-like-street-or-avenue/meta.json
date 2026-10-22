@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a street suffix (like Street or Avenue)",
+  "category": "Country / Geography / Places",
+  "round": 7,
+  "answers": 547,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 494,
+    "rare": 40,
+    "schooler": 7,
+    "plankton": 5
+  }
+}

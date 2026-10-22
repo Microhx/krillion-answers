@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-06",
+  "rounds": 7,
+  "answers": 3793,
+  "categories": {
+    "Brands / Companies / Apps": 1,
+    "Animals & Nature": 1,
+    "Objects, Tools & Materials": 3,
+    "People & Entertainment": 1,
+    "Country / Geography / Places": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-luxury-watch-brand.txt",
+      "folder": "01-luxury-watch-brand",
+      "prompt": "Name a luxury watch brand",
+      "answers": 507
+    },
+    {
+      "round": 2,
+      "file": "02-mammal-with-stripes.txt",
+      "folder": "02-mammal-with-stripes",
+      "prompt": "Name a mammal with stripes",
+      "answers": 218
+    },
+    {
+      "round": 3,
+      "file": "03-style-or-cut-of-jeans.txt",
+      "folder": "03-style-or-cut-of-jeans",
+      "prompt": "Name a style or cut of jeans",
+      "answers": 108
+    },
+    {
+      "round": 4,
+      "file": "04-disney-song.txt",
+      "folder": "04-disney-song",
+      "prompt": "Name a Disney song",
+      "answers": 1766
+    },
+    {
+      "round": 5,
+      "file": "05-mode-of-transportation.txt",
+      "folder": "05-mode-of-transportation",
+      "prompt": "Name a mode of transportation",
+      "answers": 808
+    },
+    {
+      "round": 6,
+      "file": "06-type-of-home-or-dwelling.txt",
+      "folder": "06-type-of-home-or-dwelling",
+      "prompt": "Name a type of home or dwelling",
+      "answers": 374
+    },
+    {
+      "round": 7,
+      "file": "07-country-whose-name-starts-with-t.txt",
+      "folder": "07-country-whose-name-starts-with-t",
+      "prompt": "Name a country whose name starts with T",
+      "answers": 12
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

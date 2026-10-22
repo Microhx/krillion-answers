@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country that celebrates an independence day",
+  "category": "Country / Geography / Places",
+  "round": 5,
+  "answers": 166,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 78,
+    "rare": 56,
+    "schooler": 28,
+    "plankton": 3
+  }
+}

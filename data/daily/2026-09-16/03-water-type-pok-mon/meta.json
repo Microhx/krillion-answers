@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a Water-type Pokémon",
+  "category": "Sports & Games",
+  "round": 3,
+  "answers": 161,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 54,
+    "rare": 65,
+    "schooler": 31,
+    "plankton": 9
+  }
+}

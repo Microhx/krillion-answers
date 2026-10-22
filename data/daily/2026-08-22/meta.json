@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-22",
+  "rounds": 7,
+  "answers": 866,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 3,
+    "Words, Language & Numbers": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-with-a-coastline-on-the-indian-ocean.txt",
+      "folder": "01-country-with-a-coastline-on-the-indian-ocean",
+      "prompt": "Name a country with a coastline on the Indian Ocean",
+      "answers": 37
+    },
+    {
+      "round": 2,
+      "file": "02-animal-that-lives-in-the-jungle.txt",
+      "folder": "02-animal-that-lives-in-the-jungle",
+      "prompt": "Name an animal that lives in the jungle",
+      "answers": 93
+    },
+    {
+      "round": 3,
+      "file": "03-apple-variety.txt",
+      "folder": "03-apple-variety",
+      "prompt": "Name an apple variety",
+      "answers": 93
+    },
+    {
+      "round": 4,
+      "file": "04-friends-character.txt",
+      "folder": "04-friends-character",
+      "prompt": "Name a Friends character",
+      "answers": 82
+    },
+    {
+      "round": 5,
+      "file": "05-country-music-artist.txt",
+      "folder": "05-country-music-artist",
+      "prompt": "Name a country music artist",
+      "answers": 253
+    },
+    {
+      "round": 6,
+      "file": "06-actor-who-has-starred-in-a-2026-movie-that-grossed-over-100.txt",
+      "folder": "06-actor-who-has-starred-in-a-2026-movie-that-grossed-over-100",
+      "prompt": "Name an actor who has starred in a 2026 movie that grossed over $100 million worldwide",
+      "answers": 248
+    },
+    {
+      "round": 7,
+      "file": "07-punctuation-mark-or-typographic-symbol.txt",
+      "folder": "07-punctuation-mark-or-typographic-symbol",
+      "prompt": "Name a punctuation mark or typographic symbol",
+      "answers": 60
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

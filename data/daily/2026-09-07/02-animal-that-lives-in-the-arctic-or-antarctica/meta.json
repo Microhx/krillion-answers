@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an animal that lives in the Arctic or Antarctica",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 687,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 620,
+    "rare": 45,
+    "schooler": 17,
+    "plankton": 4
+  }
+}

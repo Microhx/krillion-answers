@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a yoga pose",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 58,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 24,
+    "rare": 16,
+    "schooler": 13,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

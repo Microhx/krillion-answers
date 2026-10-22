@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a piece of armor",
+  "category": "Objects, Tools & Materials",
+  "round": 6,
+  "answers": 31,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 17,
+    "rare": 4,
+    "schooler": 5,
+    "tooclever": 2,
+    "plankton": 2
+  }
+}

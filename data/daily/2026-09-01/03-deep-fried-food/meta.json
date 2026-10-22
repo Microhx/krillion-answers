@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a deep fried food",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 584,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 514,
+    "rare": 48,
+    "schooler": 17,
+    "plankton": 4
+  }
+}

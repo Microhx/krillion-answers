@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a place in the Harry Potter universe",
+  "category": "People & Entertainment",
+  "round": 1,
+  "answers": 1530,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1386,
+    "rare": 98,
+    "schooler": 35,
+    "plankton": 10
+  }
+}

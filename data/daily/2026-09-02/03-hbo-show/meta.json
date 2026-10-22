@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an HBO show",
+  "category": "People & Entertainment",
+  "round": 3,
+  "answers": 718,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 528,
+    "rare": 149,
+    "schooler": 36,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a movie starring Samuel L. Jackson",
+  "category": "People & Entertainment",
+  "round": 2,
+  "answers": 97,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 44,
+    "rare": 25,
+    "schooler": 20,
+    "tooclever": 1,
+    "plankton": 6
+  }
+}

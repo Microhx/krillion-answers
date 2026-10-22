@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a solo sport (no card games, board games, or esports)",
+  "category": "Sports & Games",
+  "round": 7,
+  "answers": 1708,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 1515,
+    "rare": 164,
+    "schooler": 22,
+    "plankton": 5
+  }
+}

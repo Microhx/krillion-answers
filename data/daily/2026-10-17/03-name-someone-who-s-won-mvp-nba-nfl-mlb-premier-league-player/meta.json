@@ -1,0 +1,13 @@
+{
+  "prompt": "Name someone who’s won MVP (NBA/NFL/MLB), Premier League Player of the Season, or won the Ballon d’Or",
+  "category": "Sports & Games",
+  "round": 3,
+  "answers": 324,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 120,
+    "rare": 147,
+    "schooler": 43,
+    "plankton": 12
+  }
+}

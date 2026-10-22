@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Star Wars character",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 170,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 124,
+    "rare": 22,
+    "schooler": 16,
+    "tooclever": 2,
+    "plankton": 5
+  }
+}

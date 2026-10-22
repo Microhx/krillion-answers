@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a leafy green",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 169,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 103,
+    "rare": 43,
+    "schooler": 18,
+    "plankton": 4
+  }
+}

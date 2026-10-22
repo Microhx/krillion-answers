@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a craft or handicraft — a hobby where you make things by hand",
+  "category": "Other / Abstract",
+  "round": 7,
+  "answers": 118,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 72,
+    "rare": 28,
+    "schooler": 12,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

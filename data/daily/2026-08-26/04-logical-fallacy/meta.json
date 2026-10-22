@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a logical fallacy",
+  "category": "Words, Language & Numbers",
+  "round": 4,
+  "answers": 135,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 91,
+    "rare": 31,
+    "schooler": 8,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

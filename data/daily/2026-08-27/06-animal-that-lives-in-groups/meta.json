@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an animal that lives in groups",
+  "category": "Animals & Nature",
+  "round": 6,
+  "answers": 188,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 115,
+    "rare": 40,
+    "schooler": 25,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

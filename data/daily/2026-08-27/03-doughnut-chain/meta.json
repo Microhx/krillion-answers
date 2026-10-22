@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a doughnut chain",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 139,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 128,
+    "rare": 4,
+    "schooler": 2,
+    "tooclever": 1,
+    "plankton": 3
+  }
+}

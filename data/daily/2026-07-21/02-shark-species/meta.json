@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a shark species",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 53,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 28,
+    "rare": 10,
+    "schooler": 9,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

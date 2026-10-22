@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a national capital that is not its country's largest city",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 45,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 9,
+    "rare": 15,
+    "schooler": 16,
+    "plankton": 3
+  }
+}

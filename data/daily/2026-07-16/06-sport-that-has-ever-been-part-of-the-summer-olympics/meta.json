@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a sport that has ever been part of the Summer Olympics",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 55,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 11,
+    "rare": 10,
+    "schooler": 21,
+    "tooclever": 5,
+    "plankton": 7
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a farm animal",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 49,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 8,
+    "rare": 21,
+    "schooler": 12,
+    "tooclever": 1,
+    "plankton": 6
+  }
+}

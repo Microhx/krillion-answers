@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a bottled water brand",
+  "category": "Food & Drink",
+  "round": 1,
+  "answers": 98,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 60,
+    "rare": 17,
+    "schooler": 11,
+    "tooclever": 3,
+    "plankton": 5
+  }
+}

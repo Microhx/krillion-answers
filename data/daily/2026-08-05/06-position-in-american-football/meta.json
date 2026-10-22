@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a position in American football",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 31,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 7,
+    "rare": 5,
+    "schooler": 13,
+    "tooclever": 2,
+    "plankton": 3
+  }
+}

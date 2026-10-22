@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an arcade game",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 104,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 36,
+    "rare": 40,
+    "schooler": 20,
+    "tooclever": 2,
+    "plankton": 5
+  }
+}

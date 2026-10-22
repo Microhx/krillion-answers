@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Pokémon from the original 151",
+  "category": "Sports & Games",
+  "round": 4,
+  "answers": 151,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 15,
+    "rare": 89,
+    "schooler": 37,
+    "tooclever": 1,
+    "plankton": 8
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a modern country that Alexander the Great's empire reached",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 25,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 4,
+    "rare": 9,
+    "schooler": 7,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-16",
+  "rounds": 7,
+  "answers": 3297,
+  "categories": {
+    "Objects, Tools & Materials": 2,
+    "Work, Money & Society": 1,
+    "Science, Space & Tech": 1,
+    "Country / Geography / Places": 1,
+    "Food & Drink": 1,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-name-something-that-comes-in-a-pump-bottle-like-moisturizer.txt",
+      "folder": "01-name-something-that-comes-in-a-pump-bottle-like-moisturizer",
+      "prompt": "Name something that comes in a pump bottle (like moisturizer)",
+      "answers": 419
+    },
+    {
+      "round": 2,
+      "file": "02-service-you-can-get-at-a-hair-salon.txt",
+      "folder": "02-service-you-can-get-at-a-hair-salon",
+      "prompt": "Name a service you can get at a hair salon",
+      "answers": 231
+    },
+    {
+      "round": 3,
+      "file": "03-feature-a-modern-car-can-have-like-cruise-control.txt",
+      "folder": "03-feature-a-modern-car-can-have-like-cruise-control",
+      "prompt": "Name a feature a modern car can have (like cruise control)",
+      "answers": 943
+    },
+    {
+      "round": 4,
+      "file": "04-country-in-east-africa.txt",
+      "folder": "04-country-in-east-africa",
+      "prompt": "Name a country in East Africa",
+      "answers": 19
+    },
+    {
+      "round": 5,
+      "file": "05-white-sauce-dip-or-condiment.txt",
+      "folder": "05-white-sauce-dip-or-condiment",
+      "prompt": "Name a white sauce, dip, or condiment",
+      "answers": 435
+    },
+    {
+      "round": 6,
+      "file": "06-sport-where-people-sit-when-they-compete-no-esports-board-ga.txt",
+      "folder": "06-sport-where-people-sit-when-they-compete-no-esports-board-ga",
+      "prompt": "Name a sport where people sit when they compete (no esports, board games or card games)",
+      "answers": 620
+    },
+    {
+      "round": 7,
+      "file": "07-name-something-that-uses-steam.txt",
+      "folder": "07-name-something-that-uses-steam",
+      "prompt": "Name something that uses steam",
+      "answers": 630
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

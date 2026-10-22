@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an email service (like Gmail)",
+  "category": "Brands / Companies / Apps",
+  "round": 6,
+  "answers": 645,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 615,
+    "rare": 22,
+    "schooler": 3,
+    "plankton": 3
+  }
+}

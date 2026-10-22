@@ -1,0 +1,12 @@
+{
+  "prompt": "Name a country that borders Brazil",
+  "category": "Country / Geography / Places",
+  "round": 6,
+  "answers": 10,
+  "tiers": {
+    "deepcut": 1,
+    "rare": 3,
+    "schooler": 5,
+    "plankton": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a home safety device (like a smoke detector)",
+  "category": "Objects, Tools & Materials",
+  "round": 4,
+  "answers": 167,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 110,
+    "rare": 44,
+    "schooler": 9,
+    "plankton": 2
+  }
+}

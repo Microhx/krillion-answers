@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Roman emperor",
+  "category": "Work, Money & Society",
+  "round": 7,
+  "answers": 95,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 65,
+    "rare": 15,
+    "schooler": 8,
+    "tooclever": 2,
+    "plankton": 4
+  }
+}

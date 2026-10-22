@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Premier League club",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 51,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 13,
+    "rare": 16,
+    "schooler": 14,
+    "tooclever": 2,
+    "plankton": 5
+  }
+}

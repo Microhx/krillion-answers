@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a road or traffic sign",
+  "category": "Objects, Tools & Materials",
+  "round": 1,
+  "answers": 96,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 41,
+    "rare": 27,
+    "schooler": 21,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a sport played without a ball",
+  "category": "Sports & Games",
+  "round": 7,
+  "answers": 1245,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 1201,
+    "rare": 34,
+    "schooler": 6,
+    "plankton": 2
+  }
+}

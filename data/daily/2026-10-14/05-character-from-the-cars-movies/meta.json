@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a character from the Cars movies",
+  "category": "People & Entertainment",
+  "round": 5,
+  "answers": 550,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 491,
+    "rare": 36,
+    "schooler": 19,
+    "plankton": 2
+  }
+}

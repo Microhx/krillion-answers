@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a Breaking Bad character",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 206,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 165,
+    "rare": 29,
+    "schooler": 7,
+    "plankton": 4
+  }
+}

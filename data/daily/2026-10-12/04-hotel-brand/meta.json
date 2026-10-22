@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a hotel brand",
+  "category": "Brands / Companies / Apps",
+  "round": 4,
+  "answers": 4032,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 3755,
+    "rare": 249,
+    "schooler": 22,
+    "plankton": 4
+  }
+}

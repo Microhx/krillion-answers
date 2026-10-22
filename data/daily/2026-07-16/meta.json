@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-07-16",
+  "rounds": 7,
+  "answers": 367,
+  "categories": {
+    "Animals & Nature": 1,
+    "Country / Geography / Places": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 2,
+    "Science, Space & Tech": 1,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-animal-whose-name-starts-with-k.txt",
+      "folder": "01-animal-whose-name-starts-with-k",
+      "prompt": "Name an animal whose name starts with K",
+      "answers": 39
+    },
+    {
+      "round": 2,
+      "file": "02-country-in-africa.txt",
+      "folder": "02-country-in-africa",
+      "prompt": "Name a country in Africa",
+      "answers": 55
+    },
+    {
+      "round": 3,
+      "file": "03-pasta-shape.txt",
+      "folder": "03-pasta-shape",
+      "prompt": "Name a pasta shape",
+      "answers": 57
+    },
+    {
+      "round": 4,
+      "file": "04-pixar-feature-film.txt",
+      "folder": "04-pixar-feature-film",
+      "prompt": "Name a Pixar feature film",
+      "answers": 31
+    },
+    {
+      "round": 5,
+      "file": "05-chemical-element-whose-name-ends-in-ium.txt",
+      "folder": "05-chemical-element-whose-name-ends-in-ium",
+      "prompt": "Name a chemical element whose name ends in \"-ium\"",
+      "answers": 79
+    },
+    {
+      "round": 6,
+      "file": "06-sport-that-has-ever-been-part-of-the-summer-olympics.txt",
+      "folder": "06-sport-that-has-ever-been-part-of-the-summer-olympics",
+      "prompt": "Name a sport that has ever been part of the Summer Olympics",
+      "answers": 55
+    },
+    {
+      "round": 7,
+      "file": "07-instrument-found-in-a-symphony-orchestra.txt",
+      "folder": "07-instrument-found-in-a-symphony-orchestra",
+      "prompt": "Name an instrument found in a symphony orchestra",
+      "answers": 51
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

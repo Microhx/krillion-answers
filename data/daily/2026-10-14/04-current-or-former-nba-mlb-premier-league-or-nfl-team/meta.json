@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a current or former NBA, MLB, Premier League or NFL team",
+  "category": "Sports & Games",
+  "round": 4,
+  "answers": 432,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 287,
+    "rare": 96,
+    "schooler": 35,
+    "plankton": 12
+  }
+}

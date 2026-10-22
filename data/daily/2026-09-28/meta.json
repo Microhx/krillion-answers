@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-09-28",
+  "rounds": 7,
+  "answers": 4865,
+  "categories": {
+    "People & Entertainment": 1,
+    "Words, Language & Numbers": 1,
+    "Objects, Tools & Materials": 3,
+    "Brands / Companies / Apps": 1,
+    "Body, Health & Medicine": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-superpower-superman-has-in-the-comics-or-movies.txt",
+      "folder": "01-superpower-superman-has-in-the-comics-or-movies",
+      "prompt": "Name a superpower Superman has in the comics or movies",
+      "answers": 92
+    },
+    {
+      "round": 2,
+      "file": "02-language-whose-english-name-ends-in-ish.txt",
+      "folder": "02-language-whose-english-name-ends-in-ish",
+      "prompt": "Name a language whose English name ends in -ish",
+      "answers": 259
+    },
+    {
+      "round": 3,
+      "file": "03-name-something-used-to-block-the-sun.txt",
+      "folder": "03-name-something-used-to-block-the-sun",
+      "prompt": "Name something used to block the sun",
+      "answers": 405
+    },
+    {
+      "round": 4,
+      "file": "04-laptop-brand.txt",
+      "folder": "04-laptop-brand",
+      "prompt": "Name a laptop brand",
+      "answers": 791
+    },
+    {
+      "round": 5,
+      "file": "05-part-of-an-airplane-inside-or-out-anything-built-in-or-mount.txt",
+      "folder": "05-part-of-an-airplane-inside-or-out-anything-built-in-or-mount",
+      "prompt": "Name a part of an airplane, inside or out (anything built in or mounted)",
+      "answers": 985
+    },
+    {
+      "round": 6,
+      "file": "06-body-part-people-have-more-than-two-of-like-fingers.txt",
+      "folder": "06-body-part-people-have-more-than-two-of-like-fingers",
+      "prompt": "Name a body part people have more than two of (like fingers)",
+      "answers": 1591
+    },
+    {
+      "round": 7,
+      "file": "07-item-of-formal-wear-clothing-and-shoes-not-jewelry.txt",
+      "folder": "07-item-of-formal-wear-clothing-and-shoes-not-jewelry",
+      "prompt": "Name an item of formal wear (clothing and shoes, not jewelry)",
+      "answers": 742
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a type of camera",
+  "category": "Objects, Tools & Materials",
+  "round": 7,
+  "answers": 187,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 114,
+    "rare": 52,
+    "schooler": 13,
+    "plankton": 6
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-07-21",
+  "rounds": 7,
+  "answers": 544,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 2,
+    "Science, Space & Tech": 1,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-landlocked-country.txt",
+      "folder": "01-landlocked-country",
+      "prompt": "Name a landlocked country",
+      "answers": 45
+    },
+    {
+      "round": 2,
+      "file": "02-shark-species.txt",
+      "folder": "02-shark-species",
+      "prompt": "Name a shark species",
+      "answers": 53
+    },
+    {
+      "round": 3,
+      "file": "03-cocktail.txt",
+      "folder": "03-cocktail",
+      "prompt": "Name a cocktail",
+      "answers": 94
+    },
+    {
+      "round": 4,
+      "file": "04-harry-potter-character.txt",
+      "folder": "04-harry-potter-character",
+      "prompt": "Name a Harry Potter character",
+      "answers": 110
+    },
+    {
+      "round": 5,
+      "file": "05-moon-of-a-planet-in-our-solar-system.txt",
+      "folder": "05-moon-of-a-planet-in-our-solar-system",
+      "prompt": "Name a moon of a planet in our solar system",
+      "answers": 87
+    },
+    {
+      "round": 6,
+      "file": "06-martial-art.txt",
+      "folder": "06-martial-art",
+      "prompt": "Name a martial art",
+      "answers": 58
+    },
+    {
+      "round": 7,
+      "file": "07-mythical-creature.txt",
+      "folder": "07-mythical-creature",
+      "prompt": "Name a mythical creature",
+      "answers": 97
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

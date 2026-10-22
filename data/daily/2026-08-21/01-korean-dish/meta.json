@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a Korean dish",
+  "category": "Food & Drink",
+  "round": 1,
+  "answers": 82,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 47,
+    "rare": 20,
+    "schooler": 9,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-15",
+  "rounds": 7,
+  "answers": 489,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 2,
+    "Sports & Games": 1,
+    "Objects, Tools & Materials": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-whose-name-starts-with-b.txt",
+      "folder": "01-country-whose-name-starts-with-b",
+      "prompt": "Name a country whose name starts with B",
+      "answers": 18
+    },
+    {
+      "round": 2,
+      "file": "02-marsupial.txt",
+      "folder": "02-marsupial",
+      "prompt": "Name a marsupial",
+      "answers": 53
+    },
+    {
+      "round": 3,
+      "file": "03-italian-dish.txt",
+      "folder": "03-italian-dish",
+      "prompt": "Name an Italian dish",
+      "answers": 149
+    },
+    {
+      "round": 4,
+      "file": "04-official-disney-princess.txt",
+      "folder": "04-official-disney-princess",
+      "prompt": "Name an official Disney Princess",
+      "answers": 13
+    },
+    {
+      "round": 5,
+      "file": "05-famous-physicist.txt",
+      "folder": "05-famous-physicist",
+      "prompt": "Name a famous physicist",
+      "answers": 109
+    },
+    {
+      "round": 6,
+      "file": "06-current-or-former-mlb-team.txt",
+      "folder": "06-current-or-former-mlb-team",
+      "prompt": "Name a current or former MLB team",
+      "answers": 48
+    },
+    {
+      "round": 7,
+      "file": "07-fabric-or-textile.txt",
+      "folder": "07-fabric-or-textile",
+      "prompt": "Name a fabric or textile",
+      "answers": 99
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

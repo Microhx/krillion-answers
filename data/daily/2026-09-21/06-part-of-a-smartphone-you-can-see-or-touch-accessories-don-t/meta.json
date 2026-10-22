@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a part of a smartphone you can see or touch (accessories don't count)",
+  "category": "Objects, Tools & Materials",
+  "round": 6,
+  "answers": 66,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 18,
+    "rare": 27,
+    "schooler": 12,
+    "plankton": 7
+  }
+}

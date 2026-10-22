@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a type of cookie (brands don't count)",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 374,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 316,
+    "rare": 40,
+    "schooler": 11,
+    "plankton": 5
+  }
+}

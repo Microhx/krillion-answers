@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an animal that can top 40 mph (65 km/h)",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 120,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 41,
+    "rare": 54,
+    "schooler": 21,
+    "plankton": 3
+  }
+}

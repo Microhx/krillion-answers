@@ -1,0 +1,12 @@
+{
+  "prompt": "Name a country in East Africa",
+  "category": "Country / Geography / Places",
+  "round": 4,
+  "answers": 19,
+  "tiers": {
+    "deepcut": 6,
+    "rare": 6,
+    "schooler": 6,
+    "plankton": 1
+  }
+}

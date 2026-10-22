@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country that borders Greece or Austria",
+  "category": "Country / Geography / Places",
+  "round": 6,
+  "answers": 12,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 3,
+    "rare": 4,
+    "schooler": 2,
+    "plankton": 2
+  }
+}

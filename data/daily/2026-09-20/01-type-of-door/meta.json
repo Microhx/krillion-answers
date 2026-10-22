@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a type of door",
+  "category": "Objects, Tools & Materials",
+  "round": 1,
+  "answers": 222,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 162,
+    "rare": 34,
+    "schooler": 20,
+    "plankton": 5
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a type of mushroom",
+  "category": "Food & Drink",
+  "round": 2,
+  "answers": 54,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 32,
+    "rare": 12,
+    "schooler": 5,
+    "tooclever": 1,
+    "plankton": 2
+  }
+}

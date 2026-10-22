@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-07-26",
+  "rounds": 7,
+  "answers": 400,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 2,
+    "Words, Language & Numbers": 1,
+    "Objects, Tools & Materials": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-mountain-range.txt",
+      "folder": "01-mountain-range",
+      "prompt": "Name a mountain range",
+      "answers": 85
+    },
+    {
+      "round": 2,
+      "file": "02-insect.txt",
+      "folder": "02-insect",
+      "prompt": "Name an insect",
+      "answers": 52
+    },
+    {
+      "round": 3,
+      "file": "03-soup.txt",
+      "folder": "03-soup",
+      "prompt": "Name a soup",
+      "answers": 58
+    },
+    {
+      "round": 4,
+      "file": "04-movie-starring-tom-hanks.txt",
+      "folder": "04-movie-starring-tom-hanks",
+      "prompt": "Name a movie starring Tom Hanks",
+      "answers": 55
+    },
+    {
+      "round": 5,
+      "file": "05-shade-of-blue.txt",
+      "folder": "05-shade-of-blue",
+      "prompt": "Name a shade of blue",
+      "answers": 52
+    },
+    {
+      "round": 6,
+      "file": "06-kitchen-utensil.txt",
+      "folder": "06-kitchen-utensil",
+      "prompt": "Name a kitchen utensil",
+      "answers": 57
+    },
+    {
+      "round": 7,
+      "file": "07-norse-god-or-goddess.txt",
+      "folder": "07-norse-god-or-goddess",
+      "prompt": "Name a Norse god or goddess",
+      "answers": 41
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a piece of furniture",
+  "category": "Objects, Tools & Materials",
+  "round": 2,
+  "answers": 69,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 22,
+    "rare": 21,
+    "schooler": 19,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

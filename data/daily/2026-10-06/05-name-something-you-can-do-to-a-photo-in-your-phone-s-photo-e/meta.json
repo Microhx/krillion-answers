@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something you can do to a photo in your phone's photo editor (like crop)",
+  "category": "Science, Space & Tech",
+  "round": 5,
+  "answers": 332,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 262,
+    "rare": 54,
+    "schooler": 10,
+    "plankton": 4
+  }
+}

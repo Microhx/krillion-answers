@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a legume",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 303,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 228,
+    "rare": 56,
+    "schooler": 10,
+    "tooclever": 1,
+    "plankton": 7
+  }
+}

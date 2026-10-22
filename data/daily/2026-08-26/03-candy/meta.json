@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a candy",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 455,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 233,
+    "rare": 132,
+    "schooler": 68,
+    "tooclever": 2,
+    "plankton": 19
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a computer operating system",
+  "category": "Science, Space & Tech",
+  "round": 5,
+  "answers": 238,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 209,
+    "rare": 15,
+    "schooler": 6,
+    "tooclever": 1,
+    "plankton": 5
+  }
+}

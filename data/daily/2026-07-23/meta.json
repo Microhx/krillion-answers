@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-07-23",
+  "rounds": 7,
+  "answers": 363,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Animals & Nature": 2,
+    "Food & Drink": 1,
+    "People & Entertainment": 2,
+    "Work, Money & Society": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-with-a-mediterranean-coastline.txt",
+      "folder": "01-country-with-a-mediterranean-coastline",
+      "prompt": "Name a country with a Mediterranean coastline",
+      "answers": 22
+    },
+    {
+      "round": 2,
+      "file": "02-whale-species.txt",
+      "folder": "02-whale-species",
+      "prompt": "Name a whale species",
+      "answers": 39
+    },
+    {
+      "round": 3,
+      "file": "03-tropical-fruit.txt",
+      "folder": "03-tropical-fruit",
+      "prompt": "Name a tropical fruit",
+      "answers": 55
+    },
+    {
+      "round": 4,
+      "file": "04-scooby-doo-character.txt",
+      "folder": "04-scooby-doo-character",
+      "prompt": "Name a Scooby-Doo character",
+      "answers": 25
+    },
+    {
+      "round": 5,
+      "file": "05-type-of-cloud.txt",
+      "folder": "05-type-of-cloud",
+      "prompt": "Name a type of cloud",
+      "answers": 35
+    },
+    {
+      "round": 6,
+      "file": "06-style-of-dance.txt",
+      "folder": "06-style-of-dance",
+      "prompt": "Name a style of dance",
+      "answers": 92
+    },
+    {
+      "round": 7,
+      "file": "07-roman-emperor.txt",
+      "folder": "07-roman-emperor",
+      "prompt": "Name a Roman emperor",
+      "answers": 95
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}

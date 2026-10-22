@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-08-25",
+  "rounds": 7,
+  "answers": 2172,
+  "categories": {
+    "Country / Geography / Places": 2,
+    "Animals & Nature": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 2,
+    "Other / Abstract": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-whose-name-starts-with-c.txt",
+      "folder": "01-country-whose-name-starts-with-c",
+      "prompt": "Name a country whose name starts with C",
+      "answers": 18
+    },
+    {
+      "round": 2,
+      "file": "02-animal-that-has-a-g-in-its-name.txt",
+      "folder": "02-animal-that-has-a-g-in-its-name",
+      "prompt": "Name an animal that has a G in its name",
+      "answers": 233
+    },
+    {
+      "round": 3,
+      "file": "03-pancake-or-flatbread-from-any-cuisine.txt",
+      "folder": "03-pancake-or-flatbread-from-any-cuisine",
+      "prompt": "Name a pancake or flatbread from any cuisine",
+      "answers": 176
+    },
+    {
+      "round": 4,
+      "file": "04-netflix-original-series.txt",
+      "folder": "04-netflix-original-series",
+      "prompt": "Name a Netflix original series",
+      "answers": 1245
+    },
+    {
+      "round": 5,
+      "file": "05-hollywood-director.txt",
+      "folder": "05-hollywood-director",
+      "prompt": "Name a Hollywood director",
+      "answers": 366
+    },
+    {
+      "round": 6,
+      "file": "06-country-with-more-than-100-million-people.txt",
+      "folder": "06-country-with-more-than-100-million-people",
+      "prompt": "Name a country with more than 100 million people",
+      "answers": 16
+    },
+    {
+      "round": 7,
+      "file": "07-craft-or-handicraft-a-hobby-where-you-make-things-by-hand.txt",
+      "folder": "07-craft-or-handicraft-a-hobby-where-you-make-things-by-hand",
+      "prompt": "Name a craft or handicraft — a hobby where you make things by hand",
+      "answers": 118
+    }
+  ],
+  "generated_at": "2026-10-22T03:43:24.331Z"
+}
