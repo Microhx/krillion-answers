@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-23",
+  "rounds": 7,
+  "answers": 11136,
+  "categories": {
+    "Food & Drink": 1,
+    "Animals & Nature": 1,
+    "Science, Space & Tech": 1,
+    "Sports & Games": 2,
+    "People & Entertainment": 1,
+    "Objects, Tools & Materials": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-branded-fast-food-menu-item-like-the-big-mac.txt",
+      "folder": "01-branded-fast-food-menu-item-like-the-big-mac",
+      "prompt": "Name a branded fast-food menu item (like the Big Mac).",
+      "answers": 2351
+    },
+    {
+      "round": 2,
+      "file": "02-animal-that-sprays-spits-or-squirts-something-to-defend-itse.txt",
+      "folder": "02-animal-that-sprays-spits-or-squirts-something-to-defend-itse",
+      "prompt": "Name an animal that sprays, spits or squirts something to defend itself.",
+      "answers": 105
+    },
+    {
+      "round": 3,
+      "file": "03-part-of-a-2d-or-3d-shape-like-a-radius.txt",
+      "folder": "03-part-of-a-2d-or-3d-shape-like-a-radius",
+      "prompt": "Name a part of a 2D or 3D shape (like a radius).",
+      "answers": 251
+    },
+    {
+      "round": 4,
+      "file": "04-upper-body-gym-exercise-strength-exercises-only-no-full-body.txt",
+      "folder": "04-upper-body-gym-exercise-strength-exercises-only-no-full-body",
+      "prompt": "Name an upper-body gym exercise (strength exercises only; no full-body moves).",
+      "answers": 613
+    },
+    {
+      "round": 5,
+      "file": "05-nintendo-wii-game.txt",
+      "folder": "05-nintendo-wii-game",
+      "prompt": "Name a Nintendo Wii game.",
+      "answers": 2077
+    },
+    {
+      "round": 6,
+      "file": "06-rap-song-with-over-100-million-spotify-streams.txt",
+      "folder": "06-rap-song-with-over-100-million-spotify-streams",
+      "prompt": "Name a rap song with over 100 million Spotify streams.",
+      "answers": 5543
+    },
+    {
+      "round": 7,
+      "file": "07-machine-traditionally-operated-by-inserting-coins.txt",
+      "folder": "07-machine-traditionally-operated-by-inserting-coins",
+      "prompt": "Name a machine traditionally operated by inserting coins.",
+      "answers": 196
+    }
+  ],
+  "generated_at": "2026-10-23T05:31:22.794Z"
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an animal that sprays, spits or squirts something to defend itself.",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 105,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 76,
+    "rare": 23,
+    "schooler": 4,
+    "plankton": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an upper-body gym exercise (strength exercises only; no full-body moves).",
+  "category": "Sports & Games",
+  "round": 4,
+  "answers": 613,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 476,
+    "rare": 108,
+    "schooler": 24,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a machine traditionally operated by inserting coins.",
+  "category": "Objects, Tools & Materials",
+  "round": 7,
+  "answers": 196,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 133,
+    "rare": 44,
+    "schooler": 15,
+    "plankton": 3
+  }
+}

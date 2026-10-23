@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a branded fast-food menu item (like the Big Mac).",
+  "category": "Food & Drink",
+  "round": 1,
+  "answers": 2351,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2114,
+    "rare": 203,
+    "schooler": 28,
+    "plankton": 5
+  }
+}

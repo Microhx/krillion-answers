@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a part of a 2D or 3D shape (like a radius).",
+  "category": "Science, Space & Tech",
+  "round": 3,
+  "answers": 251,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 202,
+    "rare": 27,
+    "schooler": 16,
+    "plankton": 5
+  }
+}

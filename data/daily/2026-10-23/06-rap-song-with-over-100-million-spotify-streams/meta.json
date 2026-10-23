@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a rap song with over 100 million Spotify streams.",
+  "category": "People & Entertainment",
+  "round": 6,
+  "answers": 5543,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 4728,
+    "rare": 720,
+    "schooler": 89,
+    "plankton": 5
+  }
+}
