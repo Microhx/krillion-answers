@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something with a legal minimum age",
+  "category": "Work, Money & Society",
+  "round": 7,
+  "answers": 440,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 315,
+    "rare": 87,
+    "schooler": 31,
+    "plankton": 6
+  }
+}

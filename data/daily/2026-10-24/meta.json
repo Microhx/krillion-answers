@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-24",
+  "rounds": 7,
+  "answers": 32301,
+  "categories": {
+    "People & Entertainment": 2,
+    "Objects, Tools & Materials": 1,
+    "Words, Language & Numbers": 2,
+    "Brands / Companies / Apps": 1,
+    "Work, Money & Society": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-movie-first-released-in-theaters-in-2026.txt",
+      "folder": "01-movie-first-released-in-theaters-in-2026",
+      "prompt": "Name a movie first released in theaters in 2026",
+      "answers": 1301
+    },
+    {
+      "round": 2,
+      "file": "02-name-something-with-a-spinning-blade.txt",
+      "folder": "02-name-something-with-a-spinning-blade",
+      "prompt": "Name something with a spinning blade",
+      "answers": 1146
+    },
+    {
+      "round": 3,
+      "file": "03-book-that-has-sold-at-least-500-000-copies-worldwide.txt",
+      "folder": "03-book-that-has-sold-at-least-500-000-copies-worldwide",
+      "prompt": "Name a book that has sold at least 500,000 copies worldwide.",
+      "answers": 10663
+    },
+    {
+      "round": 4,
+      "file": "04-word-that-could-be-in-wordle-5-letters.txt",
+      "folder": "04-word-that-could-be-in-wordle-5-letters",
+      "prompt": "Name a word that could be in Wordle (5 letters)",
+      "answers": 14855
+    },
+    {
+      "round": 5,
+      "file": "05-app-or-program-that-comes-built-into-windows-or-macos-older.txt",
+      "folder": "05-app-or-program-that-comes-built-into-windows-or-macos-older",
+      "prompt": "Name an app or program that comes built into Windows or macOS (older versions count).",
+      "answers": 1931
+    },
+    {
+      "round": 6,
+      "file": "06-language-that-originated-in-south-asia-or-southeast-asia.txt",
+      "folder": "06-language-that-originated-in-south-asia-or-southeast-asia",
+      "prompt": "Name a language that originated in South Asia or Southeast Asia",
+      "answers": 1965
+    },
+    {
+      "round": 7,
+      "file": "07-name-something-with-a-legal-minimum-age.txt",
+      "folder": "07-name-something-with-a-legal-minimum-age",
+      "prompt": "Name something with a legal minimum age",
+      "answers": 440
+    }
+  ],
+  "generated_at": "2026-10-24T05:56:32.514Z"
+}

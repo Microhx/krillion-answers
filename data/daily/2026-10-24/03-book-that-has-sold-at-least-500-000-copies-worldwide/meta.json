@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a book that has sold at least 500,000 copies worldwide.",
+  "category": "People & Entertainment",
+  "round": 3,
+  "answers": 10663,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 9460,
+    "rare": 1084,
+    "schooler": 107,
+    "plankton": 11
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a movie first released in theaters in 2026",
+  "category": "People & Entertainment",
+  "round": 1,
+  "answers": 1301,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1085,
+    "rare": 195,
+    "schooler": 15,
+    "plankton": 5
+  }
+}

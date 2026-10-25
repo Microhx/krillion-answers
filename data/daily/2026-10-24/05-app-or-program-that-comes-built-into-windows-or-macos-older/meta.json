@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an app or program that comes built into Windows or macOS (older versions count).",
+  "category": "Brands / Companies / Apps",
+  "round": 5,
+  "answers": 1931,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1736,
+    "rare": 138,
+    "schooler": 47,
+    "plankton": 9
+  }
+}

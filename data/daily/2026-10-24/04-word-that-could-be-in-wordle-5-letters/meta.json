@@ -1,0 +1,14 @@
+{
+  "prompt": "Name a word that could be in Wordle (5 letters)",
+  "category": "Words, Language & Numbers",
+  "round": 4,
+  "answers": 14855,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 10213,
+    "rare": 3400,
+    "schooler": 1150,
+    "tooclever": 1,
+    "plankton": 90
+  }
+}

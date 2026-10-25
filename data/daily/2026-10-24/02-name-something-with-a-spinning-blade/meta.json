@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something with a spinning blade",
+  "category": "Objects, Tools & Materials",
+  "round": 2,
+  "answers": 1146,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1016,
+    "rare": 92,
+    "schooler": 32,
+    "plankton": 5
+  }
+}
