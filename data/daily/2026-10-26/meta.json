@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-26",
+  "rounds": 7,
+  "answers": 12583,
+  "categories": {
+    "Work, Money & Society": 1,
+    "Country / Geography / Places": 1,
+    "Science, Space & Tech": 2,
+    "Sports & Games": 1,
+    "Food & Drink": 2
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-currency-worth-less-than-the-us-dollar.txt",
+      "folder": "01-currency-worth-less-than-the-us-dollar",
+      "prompt": "Name a currency worth less than the US dollar",
+      "answers": 145
+    },
+    {
+      "round": 2,
+      "file": "02-city-whose-name-ends-in-ton.txt",
+      "folder": "02-city-whose-name-ends-in-ton",
+      "prompt": "Name a city whose name ends in -ton",
+      "answers": 3492
+    },
+    {
+      "round": 3,
+      "file": "03-name-something-traditionally-expressed-as-a-percentage-like.txt",
+      "folder": "03-name-something-traditionally-expressed-as-a-percentage-like",
+      "prompt": "Name something traditionally expressed as a percentage (like body fat)",
+      "answers": 2242
+    },
+    {
+      "round": 4,
+      "file": "04-name-something-used-to-hit-a-ball-in-a-sport-the-same-tool-c.txt",
+      "folder": "04-name-something-used-to-hit-a-ball-in-a-sport-the-same-tool-c",
+      "prompt": "Name something used to hit a ball in a sport (the same tool counts once across sports)",
+      "answers": 26
+    },
+    {
+      "round": 5,
+      "file": "05-latin-american-dish.txt",
+      "folder": "05-latin-american-dish",
+      "prompt": "Name a Latin American dish",
+      "answers": 4587
+    },
+    {
+      "round": 6,
+      "file": "06-fruit-or-vegetable-with-a-one-syllable-name.txt",
+      "folder": "06-fruit-or-vegetable-with-a-one-syllable-name",
+      "prompt": "Name a fruit or vegetable with a one-syllable name",
+      "answers": 54
+    },
+    {
+      "round": 7,
+      "file": "07-phone-setting-you-can-switch-on-and-off.txt",
+      "folder": "07-phone-setting-you-can-switch-on-and-off",
+      "prompt": "Name a phone setting you can switch on and off",
+      "answers": 2037
+    }
+  ],
+  "generated_at": "2026-10-26T12:35:02.216Z"
+}

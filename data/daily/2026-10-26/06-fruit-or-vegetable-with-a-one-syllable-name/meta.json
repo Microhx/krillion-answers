@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a fruit or vegetable with a one-syllable name",
+  "category": "Food & Drink",
+  "round": 6,
+  "answers": 54,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 34,
+    "rare": 5,
+    "schooler": 8,
+    "plankton": 6
+  }
+}

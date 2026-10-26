@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a city whose name ends in -ton",
+  "category": "Country / Geography / Places",
+  "round": 2,
+  "answers": 3492,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 3377,
+    "rare": 92,
+    "schooler": 19,
+    "plankton": 3
+  }
+}

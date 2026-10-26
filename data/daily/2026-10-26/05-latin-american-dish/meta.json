@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a Latin American dish",
+  "category": "Food & Drink",
+  "round": 5,
+  "answers": 4587,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 4151,
+    "rare": 380,
+    "schooler": 48,
+    "plankton": 7
+  }
+}

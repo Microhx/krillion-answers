@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something traditionally expressed as a percentage (like body fat)",
+  "category": "Science, Space & Tech",
+  "round": 3,
+  "answers": 2242,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2036,
+    "rare": 181,
+    "schooler": 16,
+    "plankton": 8
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a currency worth less than the US dollar",
+  "category": "Work, Money & Society",
+  "round": 1,
+  "answers": 145,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 106,
+    "rare": 21,
+    "schooler": 12,
+    "plankton": 5
+  }
+}
