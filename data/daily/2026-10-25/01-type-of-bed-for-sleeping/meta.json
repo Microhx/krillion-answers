@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a type of bed (for sleeping)",
+  "category": "Objects, Tools & Materials",
+  "round": 1,
+  "answers": 294,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 208,
+    "rare": 62,
+    "schooler": 19,
+    "plankton": 4
+  }
+}

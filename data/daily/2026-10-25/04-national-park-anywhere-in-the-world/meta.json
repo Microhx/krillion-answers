@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a national park anywhere in the world",
+  "category": "Country / Geography / Places",
+  "round": 4,
+  "answers": 3653,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 3413,
+    "rare": 212,
+    "schooler": 23,
+    "plankton": 4
+  }
+}

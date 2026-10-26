@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-25",
+  "rounds": 7,
+  "answers": 13606,
+  "categories": {
+    "Objects, Tools & Materials": 1,
+    "Food & Drink": 1,
+    "People & Entertainment": 2,
+    "Country / Geography / Places": 2,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-type-of-bed-for-sleeping.txt",
+      "folder": "01-type-of-bed-for-sleeping",
+      "prompt": "Name a type of bed (for sleeping)",
+      "answers": 294
+    },
+    {
+      "round": 2,
+      "file": "02-food-or-ingredient-that-costs-over-us-100-kg-45-lb-like-cavi.txt",
+      "folder": "02-food-or-ingredient-that-costs-over-us-100-kg-45-lb-like-cavi",
+      "prompt": "Name a food or ingredient that costs over US$100/kg ($45/lb), like caviar",
+      "answers": 419
+    },
+    {
+      "round": 3,
+      "file": "03-song-that-has-reached-number-one-on-the-billboard-hot-100.txt",
+      "folder": "03-song-that-has-reached-number-one-on-the-billboard-hot-100",
+      "prompt": "Name a song that has reached number one on the Billboard Hot 100",
+      "answers": 1175
+    },
+    {
+      "round": 4,
+      "file": "04-national-park-anywhere-in-the-world.txt",
+      "folder": "04-national-park-anywhere-in-the-world",
+      "prompt": "Name a national park anywhere in the world",
+      "answers": 3653
+    },
+    {
+      "round": 5,
+      "file": "05-tv-comedy-tagged-comedy-on-imdb-1-000-votes.txt",
+      "folder": "05-tv-comedy-tagged-comedy-on-imdb-1-000-votes",
+      "prompt": "Name a TV comedy (tagged Comedy on IMDb, 1,000+ votes)",
+      "answers": 4844
+    },
+    {
+      "round": 6,
+      "file": "06-country-with-a-desert-climate-in-any-part-of-it.txt",
+      "folder": "06-country-with-a-desert-climate-in-any-part-of-it",
+      "prompt": "Name a country with a desert climate (in any part of it)",
+      "answers": 70
+    },
+    {
+      "round": 7,
+      "file": "07-player-currently-on-an-english-premier-league-or-nfl-team.txt",
+      "folder": "07-player-currently-on-an-english-premier-league-or-nfl-team",
+      "prompt": "Name a player currently on an English Premier League or NFL team",
+      "answers": 3151
+    }
+  ],
+  "generated_at": "2026-10-25T05:52:53.185Z"
+}

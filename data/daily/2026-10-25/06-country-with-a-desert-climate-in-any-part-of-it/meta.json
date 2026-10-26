@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country with a desert climate (in any part of it)",
+  "category": "Country / Geography / Places",
+  "round": 6,
+  "answers": 70,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 14,
+    "rare": 32,
+    "schooler": 19,
+    "plankton": 4
+  }
+}

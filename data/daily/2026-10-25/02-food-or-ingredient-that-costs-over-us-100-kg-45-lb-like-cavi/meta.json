@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a food or ingredient that costs over US$100/kg ($45/lb), like caviar",
+  "category": "Food & Drink",
+  "round": 2,
+  "answers": 419,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 370,
+    "rare": 32,
+    "schooler": 11,
+    "plankton": 5
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a song that has reached number one on the Billboard Hot 100",
+  "category": "People & Entertainment",
+  "round": 3,
+  "answers": 1175,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 551,
+    "rare": 499,
+    "schooler": 119,
+    "plankton": 5
+  }
+}

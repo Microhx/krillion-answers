@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a TV comedy (tagged Comedy on IMDb, 1,000+ votes)",
+  "category": "People & Entertainment",
+  "round": 5,
+  "answers": 4844,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 3882,
+    "rare": 866,
+    "schooler": 86,
+    "plankton": 9
+  }
+}
