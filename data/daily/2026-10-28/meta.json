@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-28",
+  "rounds": 7,
+  "answers": 4312,
+  "categories": {
+    "Food & Drink": 2,
+    "Body, Health & Medicine": 1,
+    "Country / Geography / Places": 1,
+    "People & Entertainment": 1,
+    "Words, Language & Numbers": 1,
+    "Objects, Tools & Materials": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-pasta-dish.txt",
+      "folder": "01-pasta-dish",
+      "prompt": "Name a pasta dish",
+      "answers": 775
+    },
+    {
+      "round": 2,
+      "file": "02-part-of-the-human-head.txt",
+      "folder": "02-part-of-the-human-head",
+      "prompt": "Name a part of the human head",
+      "answers": 2035
+    },
+    {
+      "round": 3,
+      "file": "03-region-of-the-world-that-spans-multiple-countries-like-the-m.txt",
+      "folder": "03-region-of-the-world-that-spans-multiple-countries-like-the-m",
+      "prompt": "Name a region of the world that spans multiple countries (like the Middle East)",
+      "answers": 884
+    },
+    {
+      "round": 4,
+      "file": "04-food-or-drink-that-has-an-emoji-don-t-open-your-emoji-keyboa.txt",
+      "folder": "04-food-or-drink-that-has-an-emoji-don-t-open-your-emoji-keyboa",
+      "prompt": "Name a food or drink that has an emoji (don't open your emoji keyboard please)",
+      "answers": 153
+    },
+    {
+      "round": 5,
+      "file": "05-superpower-any-superhero-has-in-the-mcu.txt",
+      "folder": "05-superpower-any-superhero-has-in-the-mcu",
+      "prompt": "Name a superpower any superhero has in the MCU",
+      "answers": 132
+    },
+    {
+      "round": 6,
+      "file": "06-3-letter-word-you-can-spell-with-the-letters-in-krillion-usi.txt",
+      "folder": "06-3-letter-word-you-can-spell-with-the-letters-in-krillion-usi",
+      "prompt": "Name a 3+ letter word you can spell with the letters in \"krillion\" (using each letter only as many times as it appears)",
+      "answers": 50
+    },
+    {
+      "round": 7,
+      "file": "07-name-something-you-ride-while-standing-up.txt",
+      "folder": "07-name-something-you-ride-while-standing-up",
+      "prompt": "Name something you ride while standing up",
+      "answers": 283
+    }
+  ],
+  "generated_at": "2026-10-29T12:37:49.472Z"
+}

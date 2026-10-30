@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a French or British food",
+  "category": "Food & Drink",
+  "round": 1,
+  "answers": 3528,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 3239,
+    "rare": 244,
+    "schooler": 34,
+    "plankton": 10
+  }
+}

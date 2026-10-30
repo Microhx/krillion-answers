@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a part of the human head",
+  "category": "Body, Health & Medicine",
+  "round": 2,
+  "answers": 2035,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1901,
+    "rare": 98,
+    "schooler": 24,
+    "plankton": 11
+  }
+}

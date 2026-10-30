@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-29",
+  "rounds": 7,
+  "answers": 16727,
+  "categories": {
+    "Food & Drink": 1,
+    "Body, Health & Medicine": 2,
+    "Sports & Games": 2,
+    "Animals & Nature": 1,
+    "Country / Geography / Places": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-french-or-british-food.txt",
+      "folder": "01-french-or-british-food",
+      "prompt": "Name a French or British food",
+      "answers": 3528
+    },
+    {
+      "round": 2,
+      "file": "02-name-something-you-can-measure-about-the-human-body.txt",
+      "folder": "02-name-something-you-can-measure-about-the-human-body",
+      "prompt": "Name something you can measure about the human body",
+      "answers": 1750
+    },
+    {
+      "round": 3,
+      "file": "03-strategy-board-game.txt",
+      "folder": "03-strategy-board-game",
+      "prompt": "Name a strategy board game",
+      "answers": 8049
+    },
+    {
+      "round": 4,
+      "file": "04-animal-with-a-one-word-name-containing-ck.txt",
+      "folder": "04-animal-with-a-one-word-name-containing-ck",
+      "prompt": "Name an animal with a one-word name containing \"ck\"",
+      "answers": 395
+    },
+    {
+      "round": 5,
+      "file": "05-country-where-another-religion-has-more-followers-than-chris.txt",
+      "folder": "05-country-where-another-religion-has-more-followers-than-chris",
+      "prompt": "Name a country where another religion has more followers than Christianity",
+      "answers": 69
+    },
+    {
+      "round": 6,
+      "file": "06-name-someone-who-has-been-a-teammate-of-lionel-messi-cristia.txt",
+      "folder": "06-name-someone-who-has-been-a-teammate-of-lionel-messi-cristia",
+      "prompt": "Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",
+      "answers": 2710
+    },
+    {
+      "round": 7,
+      "file": "07-hair-type-texture-or-natural-color.txt",
+      "folder": "07-hair-type-texture-or-natural-color",
+      "prompt": "Name a hair type, texture, or natural color",
+      "answers": 226
+    }
+  ],
+  "generated_at": "2026-10-29T12:37:49.472Z"
+}

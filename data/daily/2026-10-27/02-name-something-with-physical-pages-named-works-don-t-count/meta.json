@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something with physical pages (named works don't count)",
+  "category": "Objects, Tools & Materials",
+  "round": 2,
+  "answers": 416,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 236,
+    "rare": 120,
+    "schooler": 53,
+    "plankton": 6
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a strategy board game",
+  "category": "Sports & Games",
+  "round": 3,
+  "answers": 8049,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 7878,
+    "rare": 144,
+    "schooler": 20,
+    "plankton": 6
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a one-word food or drink that starts with Ch",
+  "category": "Food & Drink",
+  "round": 7,
+  "answers": 758,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 677,
+    "rare": 48,
+    "schooler": 26,
+    "plankton": 6
+  }
+}

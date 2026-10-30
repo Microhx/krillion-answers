@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a hair type, texture, or natural color",
+  "category": "Body, Health & Medicine",
+  "round": 7,
+  "answers": 226,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 132,
+    "rare": 69,
+    "schooler": 15,
+    "plankton": 9
+  }
+}

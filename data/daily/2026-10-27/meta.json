@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-27",
+  "rounds": 7,
+  "answers": 4134,
+  "categories": {
+    "Animals & Nature": 1,
+    "Objects, Tools & Materials": 2,
+    "People & Entertainment": 1,
+    "Work, Money & Society": 1,
+    "Country / Geography / Places": 1,
+    "Food & Drink": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-bird-that-lives-in-or-by-water.txt",
+      "folder": "01-bird-that-lives-in-or-by-water",
+      "prompt": "Name a bird that lives in or by water",
+      "answers": 1466
+    },
+    {
+      "round": 2,
+      "file": "02-name-something-with-physical-pages-named-works-don-t-count.txt",
+      "folder": "02-name-something-with-physical-pages-named-works-don-t-count",
+      "prompt": "Name something with physical pages (named works don't count)",
+      "answers": 416
+    },
+    {
+      "round": 3,
+      "file": "03-type-of-ball-outside-of-sports.txt",
+      "folder": "03-type-of-ball-outside-of-sports",
+      "prompt": "Name a type of ball outside of sports",
+      "answers": 348
+    },
+    {
+      "round": 4,
+      "file": "04-boy-band-or-girl-group-with-over-500-000-monthly-listeners-o.txt",
+      "folder": "04-boy-band-or-girl-group-with-over-500-000-monthly-listeners-o",
+      "prompt": "Name a boy band or girl group with over 500,000 monthly listeners on Spotify",
+      "answers": 535
+    },
+    {
+      "round": 5,
+      "file": "05-part-of-the-school-year-events-like-prom-count-too.txt",
+      "folder": "05-part-of-the-school-year-events-like-prom-count-too",
+      "prompt": "Name a part of the school year (events like prom count too)",
+      "answers": 569
+    },
+    {
+      "round": 6,
+      "file": "06-country-whose-flag-has-a-white-stripe-through-the-centre-hor.txt",
+      "folder": "06-country-whose-flag-has-a-white-stripe-through-the-centre-hor",
+      "prompt": "Name a country whose flag has a white stripe through the centre (horizontal or vertical).",
+      "answers": 42
+    },
+    {
+      "round": 7,
+      "file": "07-one-word-food-or-drink-that-starts-with-ch.txt",
+      "folder": "07-one-word-food-or-drink-that-starts-with-ch",
+      "prompt": "Name a one-word food or drink that starts with Ch",
+      "answers": 758
+    }
+  ],
+  "generated_at": "2026-10-29T12:37:49.472Z"
+}

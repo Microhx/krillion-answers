@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a bird that lives in or by water",
+  "category": "Animals & Nature",
+  "round": 1,
+  "answers": 1466,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1376,
+    "rare": 74,
+    "schooler": 9,
+    "plankton": 6
+  }
+}

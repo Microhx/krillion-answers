@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a food or drink that has an emoji (don't open your emoji keyboard please)",
+  "category": "Food & Drink",
+  "round": 4,
+  "answers": 153,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 37,
+    "rare": 58,
+    "schooler": 45,
+    "plankton": 12
+  }
+}

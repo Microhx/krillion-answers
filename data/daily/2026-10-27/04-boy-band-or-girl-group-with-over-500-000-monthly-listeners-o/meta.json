@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a boy band or girl group with over 500,000 monthly listeners on Spotify",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 535,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 367,
+    "rare": 135,
+    "schooler": 27,
+    "plankton": 5
+  }
+}

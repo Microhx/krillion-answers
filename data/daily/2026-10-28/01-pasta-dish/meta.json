@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a pasta dish",
+  "category": "Food & Drink",
+  "round": 1,
+  "answers": 775,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 649,
+    "rare": 98,
+    "schooler": 21,
+    "plankton": 6
+  }
+}

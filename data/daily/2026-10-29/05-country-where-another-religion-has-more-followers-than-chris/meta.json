@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country where another religion has more followers than Christianity",
+  "category": "Country / Geography / Places",
+  "round": 5,
+  "answers": 69,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 23,
+    "rare": 25,
+    "schooler": 15,
+    "plankton": 5
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name someone who has been a teammate of Lionel Messi, Cristiano Ronaldo, LeBron James or Tom Brady",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 2710,
+  "tiers": {
+    "krillion": 3,
+    "deepcut": 2438,
+    "rare": 204,
+    "schooler": 56,
+    "plankton": 9
+  }
+}

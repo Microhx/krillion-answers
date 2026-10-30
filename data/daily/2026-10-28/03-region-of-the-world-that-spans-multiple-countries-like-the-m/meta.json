@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a region of the world that spans multiple countries (like the Middle East)",
+  "category": "Country / Geography / Places",
+  "round": 3,
+  "answers": 884,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 757,
+    "rare": 79,
+    "schooler": 31,
+    "plankton": 16
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an animal with a one-word name containing \"ck\"",
+  "category": "Animals & Nature",
+  "round": 4,
+  "answers": 395,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 346,
+    "rare": 29,
+    "schooler": 16,
+    "plankton": 3
+  }
+}
