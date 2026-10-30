@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a non-human character from Star Wars, the MCU, or Lord of the Rings",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 16877,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 16761,
+    "rare": 88,
+    "schooler": 19,
+    "plankton": 8
+  }
+}

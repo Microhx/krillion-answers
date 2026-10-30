@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-30",
+  "rounds": 7,
+  "answers": 31361,
+  "categories": {
+    "Sports & Games": 1,
+    "Country / Geography / Places": 1,
+    "Objects, Tools & Materials": 2,
+    "People & Entertainment": 1,
+    "Work, Money & Society": 1,
+    "Food & Drink": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-sport-where-athletes-do-flips-or-somersaults.txt",
+      "folder": "01-sport-where-athletes-do-flips-or-somersaults",
+      "prompt": "Name a sport where athletes do flips or somersaults",
+      "answers": 204
+    },
+    {
+      "round": 2,
+      "file": "02-city-whose-name-starts-with-the-word-los-las-la-le-el-or-the.txt",
+      "folder": "02-city-whose-name-starts-with-the-word-los-las-la-le-el-or-the",
+      "prompt": "Name a city whose name starts with the word Los, Las, La, Le, El or The",
+      "answers": 11506
+    },
+    {
+      "round": 3,
+      "file": "03-name-something-used-to-grip-or-pick-things-up.txt",
+      "folder": "03-name-something-used-to-grip-or-pick-things-up",
+      "prompt": "Name something used to grip or pick things up",
+      "answers": 1378
+    },
+    {
+      "round": 4,
+      "file": "04-non-human-character-from-star-wars-the-mcu-or-lord-of-the-ri.txt",
+      "folder": "04-non-human-character-from-star-wars-the-mcu-or-lord-of-the-ri",
+      "prompt": "Name a non-human character from Star Wars, the MCU, or Lord of the Rings",
+      "answers": 16877
+    },
+    {
+      "round": 5,
+      "file": "05-nail-care-product-or-tool-types-not-brands.txt",
+      "folder": "05-nail-care-product-or-tool-types-not-brands",
+      "prompt": "Name a nail care product or tool (types, not brands)",
+      "answers": 378
+    },
+    {
+      "round": 6,
+      "file": "06-way-to-contact-someone-methods-not-brands-apps.txt",
+      "folder": "06-way-to-contact-someone-methods-not-brands-apps",
+      "prompt": "Name a way to contact someone (methods, not brands/apps)",
+      "answers": 179
+    },
+    {
+      "round": 7,
+      "file": "07-fast-food-chain-that-operates-in-more-than-one-country.txt",
+      "folder": "07-fast-food-chain-that-operates-in-more-than-one-country",
+      "prompt": "Name a fast food chain that operates in more than one country",
+      "answers": 839
+    }
+  ],
+  "generated_at": "2026-10-30T05:43:29.470Z"
+}

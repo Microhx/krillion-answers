@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a way to contact someone (methods, not brands/apps)",
+  "category": "Work, Money & Society",
+  "round": 6,
+  "answers": 179,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 120,
+    "rare": 45,
+    "schooler": 9,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something used to grip or pick things up",
+  "category": "Objects, Tools & Materials",
+  "round": 3,
+  "answers": 1378,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1260,
+    "rare": 92,
+    "schooler": 22,
+    "plankton": 3
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a fast food chain that operates in more than one country",
+  "category": "Food & Drink",
+  "round": 7,
+  "answers": 839,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 738,
+    "rare": 73,
+    "schooler": 20,
+    "plankton": 7
+  }
+}

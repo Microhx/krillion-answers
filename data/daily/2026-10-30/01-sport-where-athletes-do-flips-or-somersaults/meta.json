@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a sport where athletes do flips or somersaults",
+  "category": "Sports & Games",
+  "round": 1,
+  "answers": 204,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 141,
+    "rare": 47,
+    "schooler": 13,
+    "plankton": 2
+  }
+}

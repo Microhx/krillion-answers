@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a city whose name starts with the word Los, Las, La, Le, El or The",
+  "category": "Country / Geography / Places",
+  "round": 2,
+  "answers": 11506,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 11456,
+    "rare": 41,
+    "schooler": 6,
+    "plankton": 2
+  }
+}
