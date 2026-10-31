@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-10-31",
+  "rounds": 7,
+  "answers": 7966,
+  "categories": {
+    "Work, Money & Society": 1,
+    "Food & Drink": 2,
+    "People & Entertainment": 1,
+    "Animals & Nature": 1,
+    "Country / Geography / Places": 1,
+    "Words, Language & Numbers": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-halloween-tradition.txt",
+      "folder": "01-halloween-tradition",
+      "prompt": "Name a Halloween tradition",
+      "answers": 459
+    },
+    {
+      "round": 2,
+      "file": "02-chocolate-with-wafer-biscuit-or-cookie-in-it.txt",
+      "folder": "02-chocolate-with-wafer-biscuit-or-cookie-in-it",
+      "prompt": "Name a chocolate with wafer, biscuit, or cookie in it",
+      "answers": 1403
+    },
+    {
+      "round": 3,
+      "file": "03-fictional-character-who-wears-a-mask.txt",
+      "folder": "03-fictional-character-who-wears-a-mask",
+      "prompt": "Name a fictional character who wears a mask",
+      "answers": 5323
+    },
+    {
+      "round": 4,
+      "file": "04-animal-that-feeds-on-blood.txt",
+      "folder": "04-animal-that-feeds-on-blood",
+      "prompt": "Name an animal that feeds on blood",
+      "answers": 81
+    },
+    {
+      "round": 5,
+      "file": "05-orange-fruit-or-vegetable.txt",
+      "folder": "05-orange-fruit-or-vegetable",
+      "prompt": "Name an orange fruit or vegetable",
+      "answers": 285
+    },
+    {
+      "round": 6,
+      "file": "06-country-with-black-or-orange-on-its-flag.txt",
+      "folder": "06-country-with-black-or-orange-on-its-flag",
+      "prompt": "Name a country with black or orange on its flag",
+      "answers": 83
+    },
+    {
+      "round": 7,
+      "file": "07-word-that-starts-with-boo.txt",
+      "folder": "07-word-that-starts-with-boo",
+      "prompt": "Name a word that starts with “boo”",
+      "answers": 332
+    }
+  ],
+  "generated_at": "2026-10-31T08:56:06.776Z"
+}

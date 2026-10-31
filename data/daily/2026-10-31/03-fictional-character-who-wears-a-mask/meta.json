@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a fictional character who wears a mask",
+  "category": "People & Entertainment",
+  "round": 3,
+  "answers": 5323,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 5112,
+    "rare": 170,
+    "schooler": 34,
+    "plankton": 6
+  }
+}

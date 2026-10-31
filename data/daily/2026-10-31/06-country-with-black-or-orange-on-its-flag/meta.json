@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country with black or orange on its flag",
+  "category": "Country / Geography / Places",
+  "round": 6,
+  "answers": 83,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 31,
+    "rare": 43,
+    "schooler": 5,
+    "plankton": 3
+  }
+}

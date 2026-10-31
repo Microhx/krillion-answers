@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an animal that feeds on blood",
+  "category": "Animals & Nature",
+  "round": 4,
+  "answers": 81,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 61,
+    "rare": 11,
+    "schooler": 3,
+    "plankton": 4
+  }
+}

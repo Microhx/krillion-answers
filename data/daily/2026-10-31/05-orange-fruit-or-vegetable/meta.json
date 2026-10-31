@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an orange fruit or vegetable",
+  "category": "Food & Drink",
+  "round": 5,
+  "answers": 285,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 255,
+    "rare": 15,
+    "schooler": 11,
+    "plankton": 3
+  }
+}
