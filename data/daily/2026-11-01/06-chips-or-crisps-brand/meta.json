@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a chips or crisps brand",
+  "category": "Food & Drink",
+  "round": 6,
+  "answers": 2694,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2603,
+    "rare": 77,
+    "schooler": 9,
+    "plankton": 4
+  }
+}

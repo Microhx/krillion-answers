@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",
+  "category": "People & Entertainment",
+  "round": 6,
+  "answers": 2059,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1792,
+    "rare": 206,
+    "schooler": 54,
+    "plankton": 6
+  }
+}

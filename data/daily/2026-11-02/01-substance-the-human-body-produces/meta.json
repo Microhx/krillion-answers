@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a substance the human body produces",
+  "category": "Body, Health & Medicine",
+  "round": 1,
+  "answers": 12312,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 12046,
+    "rare": 209,
+    "schooler": 49,
+    "plankton": 7
+  }
+}

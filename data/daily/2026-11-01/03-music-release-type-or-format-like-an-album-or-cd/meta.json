@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a music release type or format (like an album or CD)",
+  "category": "People & Entertainment",
+  "round": 3,
+  "answers": 303,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 232,
+    "rare": 56,
+    "schooler": 10,
+    "plankton": 4
+  }
+}

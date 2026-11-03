@@ -1,0 +1,13 @@
+{
+  "prompt": "Name someone with over 10 million Instagram followers",
+  "category": "People & Entertainment",
+  "round": 1,
+  "answers": 1541,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1024,
+    "rare": 433,
+    "schooler": 75,
+    "plankton": 8
+  }
+}

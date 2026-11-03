@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a clear, colourless drink",
+  "category": "Food & Drink",
+  "round": 4,
+  "answers": 261,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 187,
+    "rare": 62,
+    "schooler": 8,
+    "plankton": 3
+  }
+}

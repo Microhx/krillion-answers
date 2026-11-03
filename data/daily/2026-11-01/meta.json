@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-01",
+  "rounds": 7,
+  "answers": 28742,
+  "categories": {
+    "People & Entertainment": 2,
+    "Work, Money & Society": 1,
+    "Animals & Nature": 1,
+    "Objects, Tools & Materials": 1,
+    "Food & Drink": 1,
+    "Words, Language & Numbers": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-name-someone-with-over-10-million-instagram-followers.txt",
+      "folder": "01-name-someone-with-over-10-million-instagram-followers",
+      "prompt": "Name someone with over 10 million Instagram followers",
+      "answers": 1541
+    },
+    {
+      "round": 2,
+      "file": "02-holiday-from-anywhere-in-the-world-that-is-celebrated-in-oct.txt",
+      "folder": "02-holiday-from-anywhere-in-the-world-that-is-celebrated-in-oct",
+      "prompt": "Name a holiday from anywhere in the world that is celebrated in October, November or December",
+      "answers": 3375
+    },
+    {
+      "round": 3,
+      "file": "03-music-release-type-or-format-like-an-album-or-cd.txt",
+      "folder": "03-music-release-type-or-format-like-an-album-or-cd",
+      "prompt": "Name a music release type or format (like an album or CD)",
+      "answers": 303
+    },
+    {
+      "round": 4,
+      "file": "04-animal-that-is-native-to-south-america.txt",
+      "folder": "04-animal-that-is-native-to-south-america",
+      "prompt": "Name an animal that is native to South America",
+      "answers": 19409
+    },
+    {
+      "round": 5,
+      "file": "05-tool-used-for-digging.txt",
+      "folder": "05-tool-used-for-digging",
+      "prompt": "Name a tool used for digging",
+      "answers": 423
+    },
+    {
+      "round": 6,
+      "file": "06-chips-or-crisps-brand.txt",
+      "folder": "06-chips-or-crisps-brand",
+      "prompt": "Name a chips or crisps brand",
+      "answers": 2694
+    },
+    {
+      "round": 7,
+      "file": "07-name-one-of-the-1-000-most-common-first-names-in-the-world.txt",
+      "folder": "07-name-one-of-the-1-000-most-common-first-names-in-the-world",
+      "prompt": "Name one of the 1,000 most common first names in the world",
+      "answers": 997
+    }
+  ],
+  "generated_at": "2026-11-02T08:32:43.269Z"
+}

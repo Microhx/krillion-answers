@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a news organization",
+  "category": "Brands / Companies / Apps",
+  "round": 2,
+  "answers": 99646,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 98964,
+    "rare": 654,
+    "schooler": 23,
+    "plankton": 4
+  }
+}

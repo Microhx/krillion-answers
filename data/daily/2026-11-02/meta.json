@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-02",
+  "rounds": 7,
+  "answers": 122994,
+  "categories": {
+    "Body, Health & Medicine": 1,
+    "Brands / Companies / Apps": 1,
+    "Objects, Tools & Materials": 1,
+    "Food & Drink": 1,
+    "Country / Geography / Places": 1,
+    "People & Entertainment": 2
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-substance-the-human-body-produces.txt",
+      "folder": "01-substance-the-human-body-produces",
+      "prompt": "Name a substance the human body produces",
+      "answers": 12312
+    },
+    {
+      "round": 2,
+      "file": "02-news-organization.txt",
+      "folder": "02-news-organization",
+      "prompt": "Name a news organization",
+      "answers": 99646
+    },
+    {
+      "round": 3,
+      "file": "03-name-something-shaped-like-a-cone.txt",
+      "folder": "03-name-something-shaped-like-a-cone",
+      "prompt": "Name something shaped like a cone",
+      "answers": 2254
+    },
+    {
+      "round": 4,
+      "file": "04-clear-colourless-drink.txt",
+      "folder": "04-clear-colourless-drink",
+      "prompt": "Name a clear, colourless drink",
+      "answers": 261
+    },
+    {
+      "round": 5,
+      "file": "05-country-with-the-letter-h-in-its-name-ignore-the-word-the.txt",
+      "folder": "05-country-with-the-letter-h-in-its-name-ignore-the-word-the",
+      "prompt": "Name a country with the letter H in its name (ignore the word \"the\")",
+      "answers": 30
+    },
+    {
+      "round": 6,
+      "file": "06-movie-rated-8-0-or-higher-on-imdb-at-least-1-000-votes.txt",
+      "folder": "06-movie-rated-8-0-or-higher-on-imdb-at-least-1-000-votes",
+      "prompt": "Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)",
+      "answers": 2059
+    },
+    {
+      "round": 7,
+      "file": "07-music-genre-listed-as-a-genre-on-spotify.txt",
+      "folder": "07-music-genre-listed-as-a-genre-on-spotify",
+      "prompt": "Name a music genre (listed as a genre on Spotify)",
+      "answers": 6432
+    }
+  ],
+  "generated_at": "2026-11-02T08:32:43.269Z"
+}

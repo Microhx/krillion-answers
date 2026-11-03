@@ -1,0 +1,13 @@
+{
+  "prompt": "Name one of the 1,000 most common first names in the world",
+  "category": "Words, Language & Numbers",
+  "round": 7,
+  "answers": 997,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 492,
+    "rare": 374,
+    "schooler": 120,
+    "plankton": 10
+  }
+}

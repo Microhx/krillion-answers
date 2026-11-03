@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an animal that is native to South America",
+  "category": "Animals & Nature",
+  "round": 4,
+  "answers": 19409,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 19083,
+    "rare": 281,
+    "schooler": 38,
+    "plankton": 6
+  }
+}

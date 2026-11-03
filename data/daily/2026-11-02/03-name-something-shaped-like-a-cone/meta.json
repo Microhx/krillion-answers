@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something shaped like a cone",
+  "category": "Objects, Tools & Materials",
+  "round": 3,
+  "answers": 2254,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2071,
+    "rare": 159,
+    "schooler": 20,
+    "plankton": 3
+  }
+}

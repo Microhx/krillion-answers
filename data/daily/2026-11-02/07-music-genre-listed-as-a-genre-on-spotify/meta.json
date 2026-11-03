@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a music genre (listed as a genre on Spotify)",
+  "category": "People & Entertainment",
+  "round": 7,
+  "answers": 6432,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 5963,
+    "rare": 429,
+    "schooler": 32,
+    "plankton": 7
+  }
+}
