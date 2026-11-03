@@ -768,6 +768,13 @@ daily,2026-11-02,4,Food & Drink,"Name a clear, colourless drink"
 daily,2026-11-02,5,Country / Geography / Places,"Name a country with the letter H in its name (ignore the word ""the"")"
 daily,2026-11-02,6,People & Entertainment,"Name a movie rated 8.0 or higher on IMDb (at least 1,000 votes)"
 daily,2026-11-02,7,People & Entertainment,Name a music genre (listed as a genre on Spotify)
+daily,2026-11-03,1,People & Entertainment,Name a TV show that released or had a new season this year or last year
+daily,2026-11-03,2,People & Entertainment,Name a superhero that can fly
+daily,2026-11-03,3,Brands / Companies / Apps,Name a skincare brand
+daily,2026-11-03,4,Sports & Games,Name any Pokémon
+daily,2026-11-03,5,Sports & Games,"Name a team sport (no esports, board games or card games)"
+daily,2026-11-03,6,"Work, Money & Society",Name someone currently serving in a national government or parliament.
+daily,2026-11-03,7,"Objects, Tools & Materials",Name a type of container (no appliances)
 geography,1,1,Country / Geography / Places,Name a country in Africa
 geography,1,2,Country / Geography / Places,Name a national capital that is not its country’s largest city
 geography,1,3,Country / Geography / Places,Name a desert

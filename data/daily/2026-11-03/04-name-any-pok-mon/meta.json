@@ -1,0 +1,13 @@
+{
+  "prompt": "Name any Pokémon",
+  "category": "Sports & Games",
+  "round": 4,
+  "answers": 1025,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 510,
+    "rare": 423,
+    "schooler": 81,
+    "plankton": 9
+  }
+}

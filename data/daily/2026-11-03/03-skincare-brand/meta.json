@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a skincare brand",
+  "category": "Brands / Companies / Apps",
+  "round": 3,
+  "answers": 19359,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 18999,
+    "rare": 334,
+    "schooler": 20,
+    "plankton": 5
+  }
+}

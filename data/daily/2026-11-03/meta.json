@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-03",
+  "rounds": 7,
+  "answers": 102243,
+  "categories": {
+    "People & Entertainment": 2,
+    "Brands / Companies / Apps": 1,
+    "Sports & Games": 2,
+    "Work, Money & Society": 1,
+    "Objects, Tools & Materials": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-tv-show-that-released-or-had-a-new-season-this-year-or-last.txt",
+      "folder": "01-tv-show-that-released-or-had-a-new-season-this-year-or-last",
+      "prompt": "Name a TV show that released or had a new season this year or last year",
+      "answers": 40423
+    },
+    {
+      "round": 2,
+      "file": "02-superhero-that-can-fly.txt",
+      "folder": "02-superhero-that-can-fly",
+      "prompt": "Name a superhero that can fly",
+      "answers": 2443
+    },
+    {
+      "round": 3,
+      "file": "03-skincare-brand.txt",
+      "folder": "03-skincare-brand",
+      "prompt": "Name a skincare brand",
+      "answers": 19359
+    },
+    {
+      "round": 4,
+      "file": "04-name-any-pok-mon.txt",
+      "folder": "04-name-any-pok-mon",
+      "prompt": "Name any Pokémon",
+      "answers": 1025
+    },
+    {
+      "round": 5,
+      "file": "05-team-sport-no-esports-board-games-or-card-games.txt",
+      "folder": "05-team-sport-no-esports-board-games-or-card-games",
+      "prompt": "Name a team sport (no esports, board games or card games)",
+      "answers": 916
+    },
+    {
+      "round": 6,
+      "file": "06-name-someone-currently-serving-in-a-national-government-or-p.txt",
+      "folder": "06-name-someone-currently-serving-in-a-national-government-or-p",
+      "prompt": "Name someone currently serving in a national government or parliament.",
+      "answers": 35727
+    },
+    {
+      "round": 7,
+      "file": "07-type-of-container-no-appliances.txt",
+      "folder": "07-type-of-container-no-appliances",
+      "prompt": "Name a type of container (no appliances)",
+      "answers": 2350
+    }
+  ],
+  "generated_at": "2026-11-03T06:34:13.947Z"
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a TV show that released or had a new season this year or last year",
+  "category": "People & Entertainment",
+  "round": 1,
+  "answers": 40423,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 39778,
+    "rare": 575,
+    "schooler": 65,
+    "plankton": 4
+  }
+}

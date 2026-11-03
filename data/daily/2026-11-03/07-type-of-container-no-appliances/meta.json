@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a type of container (no appliances)",
+  "category": "Objects, Tools & Materials",
+  "round": 7,
+  "answers": 2350,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1831,
+    "rare": 456,
+    "schooler": 55,
+    "plankton": 7
+  }
+}
