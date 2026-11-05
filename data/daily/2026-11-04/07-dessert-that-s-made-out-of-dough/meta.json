@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a dessert that's made out of dough",
+  "category": "Food & Drink",
+  "round": 7,
+  "answers": 5213,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 4837,
+    "rare": 329,
+    "schooler": 42,
+    "plankton": 4
+  }
+}

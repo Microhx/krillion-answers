@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a city with 1–10 million people (within city limits)",
+  "category": "Country / Geography / Places",
+  "round": 6,
+  "answers": 700,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 534,
+    "rare": 116,
+    "schooler": 41,
+    "plankton": 8
+  }
+}

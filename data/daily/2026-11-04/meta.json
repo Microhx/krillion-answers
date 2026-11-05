@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-04",
+  "rounds": 7,
+  "answers": 30015,
+  "categories": {
+    "Science, Space & Tech": 1,
+    "Animals & Nature": 2,
+    "Objects, Tools & Materials": 1,
+    "People & Entertainment": 1,
+    "Country / Geography / Places": 1,
+    "Food & Drink": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-name-something-that-s-mined-from-the-ground.txt",
+      "folder": "01-name-something-that-s-mined-from-the-ground",
+      "prompt": "Name something that's mined from the ground",
+      "answers": 1959
+    },
+    {
+      "round": 2,
+      "file": "02-sea-animal-that-isn-t-a-fish-or-a-bird.txt",
+      "folder": "02-sea-animal-that-isn-t-a-fish-or-a-bird",
+      "prompt": "Name a sea animal that isn't a fish or a bird",
+      "answers": 11826
+    },
+    {
+      "round": 3,
+      "file": "03-name-something-that-s-naturally-blue.txt",
+      "folder": "03-name-something-that-s-naturally-blue",
+      "prompt": "Name something that's naturally blue",
+      "answers": 3880
+    },
+    {
+      "round": 4,
+      "file": "04-item-used-for-eating-or-serving-food-like-a-plate-or-spoon.txt",
+      "folder": "04-item-used-for-eating-or-serving-food-like-a-plate-or-spoon",
+      "prompt": "Name an item used for eating or serving food (like a plate or spoon)",
+      "answers": 2284
+    },
+    {
+      "round": 5,
+      "file": "05-sci-fi-movie-tagged-sci-fi-on-imdb-1-000-votes.txt",
+      "folder": "05-sci-fi-movie-tagged-sci-fi-on-imdb-1-000-votes",
+      "prompt": "Name a sci-fi movie (tagged Sci-Fi on IMDb, 1,000+ votes)",
+      "answers": 4153
+    },
+    {
+      "round": 6,
+      "file": "06-city-with-1-10-million-people-within-city-limits.txt",
+      "folder": "06-city-with-1-10-million-people-within-city-limits",
+      "prompt": "Name a city with 1–10 million people (within city limits)",
+      "answers": 700
+    },
+    {
+      "round": 7,
+      "file": "07-dessert-that-s-made-out-of-dough.txt",
+      "folder": "07-dessert-that-s-made-out-of-dough",
+      "prompt": "Name a dessert that's made out of dough",
+      "answers": 5213
+    }
+  ],
+  "generated_at": "2026-11-04T15:51:37.128Z"
+}

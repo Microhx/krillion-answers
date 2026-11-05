@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a sea animal that isn't a fish or a bird",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 11826,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 11608,
+    "rare": 178,
+    "schooler": 30,
+    "plankton": 9
+  }
+}

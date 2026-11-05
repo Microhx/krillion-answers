@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something that's naturally blue",
+  "category": "Animals & Nature",
+  "round": 3,
+  "answers": 3880,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 3719,
+    "rare": 132,
+    "schooler": 20,
+    "plankton": 8
+  }
+}

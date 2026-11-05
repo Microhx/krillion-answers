@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an item used for eating or serving food (like a plate or spoon)",
+  "category": "Objects, Tools & Materials",
+  "round": 4,
+  "answers": 2284,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1899,
+    "rare": 346,
+    "schooler": 33,
+    "plankton": 5
+  }
+}
