@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a god from mythology (Hindu, Greek, Roman, Norse or Egyptian)",
+  "category": "People & Entertainment",
+  "round": 5,
+  "answers": 2445,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2317,
+    "rare": 97,
+    "schooler": 26,
+    "plankton": 4
+  }
+}

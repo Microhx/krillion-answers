@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an animal that can run faster than a human",
+  "category": "Animals & Nature",
+  "round": 1,
+  "answers": 342,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 249,
+    "rare": 68,
+    "schooler": 19,
+    "plankton": 5
+  }
+}

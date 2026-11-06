@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country that shares a land border with at least four other countries",
+  "category": "Country / Geography / Places",
+  "round": 4,
+  "answers": 84,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 10,
+    "rare": 49,
+    "schooler": 17,
+    "plankton": 7
+  }
+}

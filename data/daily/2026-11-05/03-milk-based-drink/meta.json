@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a milk-based drink",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 1668,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1521,
+    "rare": 117,
+    "schooler": 25,
+    "plankton": 4
+  }
+}

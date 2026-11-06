@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a type of dress",
+  "category": "Objects, Tools & Materials",
+  "round": 6,
+  "answers": 3560,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 3283,
+    "rare": 247,
+    "schooler": 25,
+    "plankton": 4
+  }
+}

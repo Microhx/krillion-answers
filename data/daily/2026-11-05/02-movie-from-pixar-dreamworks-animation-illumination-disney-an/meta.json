@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a movie from Pixar, DreamWorks Animation, Illumination, Disney Animation (including Disneytoon and Disney TV Animation), Sony Pictures Animation or Blue Sky Studios",
+  "category": "People & Entertainment",
+  "round": 2,
+  "answers": 292,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 134,
+    "rare": 83,
+    "schooler": 64,
+    "plankton": 10
+  }
+}
