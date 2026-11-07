@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an animated TV show that isn't meant for kids (no anime).",
+  "category": "People & Entertainment",
+  "round": 2,
+  "answers": 1732,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1600,
+    "rare": 113,
+    "schooler": 14,
+    "plankton": 4
+  }
+}

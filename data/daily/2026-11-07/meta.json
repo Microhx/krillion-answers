@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-07",
+  "rounds": 7,
+  "answers": 24662,
+  "categories": {
+    "Food & Drink": 2,
+    "People & Entertainment": 2,
+    "Country / Geography / Places": 1,
+    "Sports & Games": 1,
+    "Brands / Companies / Apps": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-food-with-a-filling-inside.txt",
+      "folder": "01-food-with-a-filling-inside",
+      "prompt": "Name a food with a filling inside.",
+      "answers": 4534
+    },
+    {
+      "round": 2,
+      "file": "02-animated-tv-show-that-isn-t-meant-for-kids-no-anime.txt",
+      "folder": "02-animated-tv-show-that-isn-t-meant-for-kids-no-anime",
+      "prompt": "Name an animated TV show that isn't meant for kids (no anime).",
+      "answers": 1732
+    },
+    {
+      "round": 3,
+      "file": "03-country-bigger-than-the-uk-but-smaller-than-egypt-by-area.txt",
+      "folder": "03-country-bigger-than-the-uk-but-smaller-than-egypt-by-area",
+      "prompt": "Name a country bigger than the UK but smaller than Egypt, by area.",
+      "answers": 48
+    },
+    {
+      "round": 4,
+      "file": "04-cardio-exercise.txt",
+      "folder": "04-cardio-exercise",
+      "prompt": "Name a cardio exercise.",
+      "answers": 627
+    },
+    {
+      "round": 5,
+      "file": "05-song-released-in-2025-or-2026-with-over-10-million-spotify-s.txt",
+      "folder": "05-song-released-in-2025-or-2026-with-over-10-million-spotify-s",
+      "prompt": "Name a song released in 2025 or 2026 with over 10 million Spotify streams.",
+      "answers": 8792
+    },
+    {
+      "round": 6,
+      "file": "06-red-sauce-dip-or-condiment.txt",
+      "folder": "06-red-sauce-dip-or-condiment",
+      "prompt": "Name a red sauce, dip or condiment.",
+      "answers": 681
+    },
+    {
+      "round": 7,
+      "file": "07-app-or-website-where-you-book-things-like-expedia-for-travel.txt",
+      "folder": "07-app-or-website-where-you-book-things-like-expedia-for-travel",
+      "prompt": "Name an app or website where you book things (like Expedia for travel).",
+      "answers": 8248
+    }
+  ],
+  "generated_at": "2026-11-07T08:02:38.123Z"
+}

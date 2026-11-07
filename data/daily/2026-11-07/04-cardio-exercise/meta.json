@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a cardio exercise.",
+  "category": "Sports & Games",
+  "round": 4,
+  "answers": 627,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 374,
+    "rare": 184,
+    "schooler": 63,
+    "plankton": 5
+  }
+}

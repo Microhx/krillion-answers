@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a red sauce, dip or condiment.",
+  "category": "Food & Drink",
+  "round": 6,
+  "answers": 681,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 553,
+    "rare": 107,
+    "schooler": 15,
+    "plankton": 5
+  }
+}

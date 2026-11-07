@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a song released in 2025 or 2026 with over 10 million Spotify streams.",
+  "category": "People & Entertainment",
+  "round": 5,
+  "answers": 8792,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 7824,
+    "rare": 883,
+    "schooler": 78,
+    "plankton": 6
+  }
+}

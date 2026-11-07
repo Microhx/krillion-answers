@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an app or website where you book things (like Expedia for travel).",
+  "category": "Brands / Companies / Apps",
+  "round": 7,
+  "answers": 8248,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 8062,
+    "rare": 173,
+    "schooler": 8,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country bigger than the UK but smaller than Egypt, by area.",
+  "category": "Country / Geography / Places",
+  "round": 3,
+  "answers": 48,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 11,
+    "rare": 17,
+    "schooler": 16,
+    "plankton": 3
+  }
+}

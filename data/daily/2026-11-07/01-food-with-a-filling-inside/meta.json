@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a food with a filling inside.",
+  "category": "Food & Drink",
+  "round": 1,
+  "answers": 4534,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 3935,
+    "rare": 483,
+    "schooler": 111,
+    "plankton": 4
+  }
+}
