@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a high-protein food ingredient—at least 8g of protein per 100g.",
+  "category": "Food & Drink",
+  "round": 5,
+  "answers": 3470,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 3016,
+    "rare": 408,
+    "schooler": 42,
+    "plankton": 3
+  }
+}

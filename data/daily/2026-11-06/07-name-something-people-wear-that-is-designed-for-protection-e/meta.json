@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something people wear that is designed for protection (everyday clothing doesn’t count)",
+  "category": "Objects, Tools & Materials",
+  "round": 7,
+  "answers": 1346,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1080,
+    "rare": 240,
+    "schooler": 20,
+    "plankton": 5
+  }
+}

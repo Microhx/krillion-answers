@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-06",
+  "rounds": 7,
+  "answers": 8555,
+  "categories": {
+    "Food & Drink": 2,
+    "Sports & Games": 2,
+    "Country / Geography / Places": 1,
+    "Body, Health & Medicine": 1,
+    "Objects, Tools & Materials": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-fruit-or-vegetable-that-is-red-on-the-inside.txt",
+      "folder": "01-fruit-or-vegetable-that-is-red-on-the-inside",
+      "prompt": "Name a fruit or vegetable that is red on the inside.",
+      "answers": 148
+    },
+    {
+      "round": 2,
+      "file": "02-setting-you-can-change-in-a-video-game-s-settings.txt",
+      "folder": "02-setting-you-can-change-in-a-video-game-s-settings",
+      "prompt": "Name a setting you can change in a video game’s settings.",
+      "answers": 1498
+    },
+    {
+      "round": 3,
+      "file": "03-country-with-and-in-its-name.txt",
+      "folder": "03-country-with-and-in-its-name",
+      "prompt": "Name a country with \"and\" in its name",
+      "answers": 22
+    },
+    {
+      "round": 4,
+      "file": "04-name-something-players-aim-at-to-score-in-a-sport-like-a-hoo.txt",
+      "folder": "04-name-something-players-aim-at-to-score-in-a-sport-like-a-hoo",
+      "prompt": "Name something players aim at to score in a sport (like a hoop).",
+      "answers": 201
+    },
+    {
+      "round": 5,
+      "file": "05-high-protein-food-ingredient-at-least-8g-of-protein-per-100g.txt",
+      "folder": "05-high-protein-food-ingredient-at-least-8g-of-protein-per-100g",
+      "prompt": "Name a high-protein food ingredient—at least 8g of protein per 100g.",
+      "answers": 3470
+    },
+    {
+      "round": 6,
+      "file": "06-way-a-person-can-feel-emotionally-or-physically-one-word-onl.txt",
+      "folder": "06-way-a-person-can-feel-emotionally-or-physically-one-word-onl",
+      "prompt": "Name a way a person can feel, emotionally or physically (one word only)",
+      "answers": 1870
+    },
+    {
+      "round": 7,
+      "file": "07-name-something-people-wear-that-is-designed-for-protection-e.txt",
+      "folder": "07-name-something-people-wear-that-is-designed-for-protection-e",
+      "prompt": "Name something people wear that is designed for protection (everyday clothing doesn’t count)",
+      "answers": 1346
+    }
+  ],
+  "generated_at": "2026-11-06T07:37:56.351Z"
+}

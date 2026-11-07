@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something players aim at to score in a sport (like a hoop).",
+  "category": "Sports & Games",
+  "round": 4,
+  "answers": 201,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 170,
+    "rare": 19,
+    "schooler": 8,
+    "plankton": 3
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a fruit or vegetable that is red on the inside.",
+  "category": "Food & Drink",
+  "round": 1,
+  "answers": 148,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 120,
+    "rare": 14,
+    "schooler": 10,
+    "plankton": 3
+  }
+}
