@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-09",
+  "rounds": 7,
+  "answers": 87450,
+  "categories": {
+    "People & Entertainment": 2,
+    "Body, Health & Medicine": 1,
+    "Words, Language & Numbers": 1,
+    "Animals & Nature": 1,
+    "Brands / Companies / Apps": 1,
+    "Country / Geography / Places": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-podcast-1k-ratings-on-spotify.txt",
+      "folder": "01-podcast-1k-ratings-on-spotify",
+      "prompt": "Name a podcast (1K+ ratings on Spotify)",
+      "answers": 9140
+    },
+    {
+      "round": 2,
+      "file": "02-villain-from-star-wars-dc-or-lord-of-the-rings.txt",
+      "folder": "02-villain-from-star-wars-dc-or-lord-of-the-rings",
+      "prompt": "Name a villain from Star Wars, DC, or Lord of the Rings",
+      "answers": 26167
+    },
+    {
+      "round": 3,
+      "file": "03-part-of-the-human-body-below-the-waist.txt",
+      "folder": "03-part-of-the-human-body-below-the-waist",
+      "prompt": "Name a part of the human body below the waist",
+      "answers": 2664
+    },
+    {
+      "round": 4,
+      "file": "04-language-with-more-than-10-million-total-speakers.txt",
+      "folder": "04-language-with-more-than-10-million-total-speakers",
+      "prompt": "Name a language with more than 10 million total speakers",
+      "answers": 123
+    },
+    {
+      "round": 5,
+      "file": "05-animal-that-eats-bugs-documented-regular-part-of-diet.txt",
+      "folder": "05-animal-that-eats-bugs-documented-regular-part-of-diet",
+      "prompt": "Name an animal that eats bugs (documented regular part of diet)",
+      "answers": 41279
+    },
+    {
+      "round": 6,
+      "file": "06-toy-brand.txt",
+      "folder": "06-toy-brand",
+      "prompt": "Name a toy brand",
+      "answers": 8047
+    },
+    {
+      "round": 7,
+      "file": "07-country-with-in-in-its-name.txt",
+      "folder": "07-country-with-in-in-its-name",
+      "prompt": "Name a country with \"in\" in its name",
+      "answers": 30
+    }
+  ],
+  "generated_at": "2026-11-10T01:50:01.306Z"
+}

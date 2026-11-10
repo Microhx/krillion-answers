@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a recurring household bill",
+  "category": "Work, Money & Society",
+  "round": 1,
+  "answers": 358,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 227,
+    "rare": 107,
+    "schooler": 17,
+    "plankton": 6
+  }
+}

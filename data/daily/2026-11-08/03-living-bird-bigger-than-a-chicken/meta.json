@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a living bird bigger than a chicken",
+  "category": "Animals & Nature",
+  "round": 3,
+  "answers": 812,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 645,
+    "rare": 138,
+    "schooler": 22,
+    "plankton": 6
+  }
+}

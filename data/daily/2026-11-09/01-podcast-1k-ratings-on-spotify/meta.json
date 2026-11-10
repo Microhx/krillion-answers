@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a podcast (1K+ ratings on Spotify)",
+  "category": "People & Entertainment",
+  "round": 1,
+  "answers": 9140,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 8308,
+    "rare": 817,
+    "schooler": 12,
+    "plankton": 2
+  }
+}

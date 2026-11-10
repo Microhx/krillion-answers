@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a part of the human body below the waist",
+  "category": "Body, Health & Medicine",
+  "round": 3,
+  "answers": 2664,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2451,
+    "rare": 153,
+    "schooler": 53,
+    "plankton": 6
+  }
+}

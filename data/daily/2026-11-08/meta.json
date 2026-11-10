@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-08",
+  "rounds": 7,
+  "answers": 33900,
+  "categories": {
+    "Work, Money & Society": 2,
+    "Animals & Nature": 2,
+    "Country / Geography / Places": 1,
+    "Sports & Games": 1,
+    "Objects, Tools & Materials": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-recurring-household-bill.txt",
+      "folder": "01-recurring-household-bill",
+      "prompt": "Name a recurring household bill",
+      "answers": 358
+    },
+    {
+      "round": 2,
+      "file": "02-animal-that-stings.txt",
+      "folder": "02-animal-that-stings",
+      "prompt": "Name an animal that stings",
+      "answers": 6676
+    },
+    {
+      "round": 3,
+      "file": "03-living-bird-bigger-than-a-chicken.txt",
+      "folder": "03-living-bird-bigger-than-a-chicken",
+      "prompt": "Name a living bird bigger than a chicken",
+      "answers": 812
+    },
+    {
+      "round": 4,
+      "file": "04-place-or-landmark-with-great-or-grand-in-its-name-like-the-g.txt",
+      "folder": "04-place-or-landmark-with-great-or-grand-in-its-name-like-the-g",
+      "prompt": "Name a place or landmark with Great or Grand in its name (like the Grand Canyon)",
+      "answers": 22534
+    },
+    {
+      "round": 5,
+      "file": "05-name-any-item-in-minecraft-older-versions-count-too.txt",
+      "folder": "05-name-any-item-in-minecraft-older-versions-count-too",
+      "prompt": "Name any item in Minecraft (older versions count too)",
+      "answers": 2414
+    },
+    {
+      "round": 6,
+      "file": "06-name-something-you-empty-regularly-at-home.txt",
+      "folder": "06-name-something-you-empty-regularly-at-home",
+      "prompt": "Name something you empty regularly at home",
+      "answers": 289
+    },
+    {
+      "round": 7,
+      "file": "07-method-of-advertising.txt",
+      "folder": "07-method-of-advertising",
+      "prompt": "Name a method of advertising",
+      "answers": 817
+    }
+  ],
+  "generated_at": "2026-11-10T01:50:01.306Z"
+}

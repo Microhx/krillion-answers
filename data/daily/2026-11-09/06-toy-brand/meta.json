@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a toy brand",
+  "category": "Brands / Companies / Apps",
+  "round": 6,
+  "answers": 8047,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 7620,
+    "rare": 361,
+    "schooler": 60,
+    "plankton": 5
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an animal that stings",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 6676,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 6460,
+    "rare": 201,
+    "schooler": 8,
+    "plankton": 6
+  }
+}

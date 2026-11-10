@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a villain from Star Wars, DC, or Lord of the Rings",
+  "category": "People & Entertainment",
+  "round": 2,
+  "answers": 26167,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 25863,
+    "rare": 270,
+    "schooler": 28,
+    "plankton": 5
+  }
+}

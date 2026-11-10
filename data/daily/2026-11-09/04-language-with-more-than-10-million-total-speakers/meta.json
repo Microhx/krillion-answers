@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a language with more than 10 million total speakers",
+  "category": "Words, Language & Numbers",
+  "round": 4,
+  "answers": 123,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 62,
+    "rare": 38,
+    "schooler": 12,
+    "plankton": 10
+  }
+}
