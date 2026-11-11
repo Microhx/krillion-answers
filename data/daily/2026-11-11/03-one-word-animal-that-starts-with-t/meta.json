@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a one-word animal that starts with T",
+  "category": "Animals & Nature",
+  "round": 3,
+  "answers": 4822,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 4760,
+    "rare": 47,
+    "schooler": 10,
+    "plankton": 4
+  }
+}

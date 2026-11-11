@@ -1,0 +1,13 @@
+{
+  "prompt": "Name any anime (listed on MAL)",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 26503,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 26180,
+    "rare": 275,
+    "schooler": 38,
+    "plankton": 9
+  }
+}

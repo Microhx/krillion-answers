@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a sports team whose logo contains red (NFL, NBA, MLB, NHL, IPL, Premier League, La Liga, Bundesliga, Serie A, Ligue 1, or UEFA Champions League)",
+  "category": "Sports & Games",
+  "round": 3,
+  "answers": 137,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 41,
+    "rare": 60,
+    "schooler": 31,
+    "plankton": 4
+  }
+}

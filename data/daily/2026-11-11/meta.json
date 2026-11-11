@@ -1,0 +1,67 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-11",
+  "rounds": 7,
+  "answers": 57307,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "Body, Health & Medicine": 1,
+    "Animals & Nature": 1,
+    "Objects, Tools & Materials": 1,
+    "People & Entertainment": 1,
+    "Science, Space & Tech": 1,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-where-at-least-50-of-people-speak-english.txt",
+      "folder": "01-country-where-at-least-50-of-people-speak-english",
+      "prompt": "Name a country where at least 50% of people speak English",
+      "answers": 96
+    },
+    {
+      "round": 2,
+      "file": "02-bodily-function-or-biological-process-like-breathing.txt",
+      "folder": "02-bodily-function-or-biological-process-like-breathing",
+      "prompt": "Name a bodily function or biological process (like breathing)",
+      "answers": 1926
+    },
+    {
+      "round": 3,
+      "file": "03-one-word-animal-that-starts-with-t.txt",
+      "folder": "03-one-word-animal-that-starts-with-t",
+      "prompt": "Name a one-word animal that starts with T",
+      "answers": 4822
+    },
+    {
+      "round": 4,
+      "file": "04-name-something-that-has-a-needle.txt",
+      "folder": "04-name-something-that-has-a-needle",
+      "prompt": "Name something that has a needle",
+      "answers": 1881
+    },
+    {
+      "round": 5,
+      "file": "05-original-movie-or-show-from-netflix-prime-video-apple-tv-or.txt",
+      "folder": "05-original-movie-or-show-from-netflix-prime-video-apple-tv-or",
+      "prompt": "Name an original movie or show from Netflix, Prime Video, Apple TV, or Disney+",
+      "answers": 8679
+    },
+    {
+      "round": 6,
+      "file": "06-named-object-in-space-that-s-bigger-than-earth-s-moon-like-j.txt",
+      "folder": "06-named-object-in-space-that-s-bigger-than-earth-s-moon-like-j",
+      "prompt": "Name a named object in space that's bigger than Earth's Moon (like Jupiter)",
+      "answers": 30029
+    },
+    {
+      "round": 7,
+      "file": "07-character-from-mario-zelda-donkey-kong-sonic-or-kirby.txt",
+      "folder": "07-character-from-mario-zelda-donkey-kong-sonic-or-kirby",
+      "prompt": "Name a character from Mario, Zelda, Donkey Kong, Sonic, or Kirby",
+      "answers": 9874
+    }
+  ],
+  "generated_at": "2026-11-11T07:42:25.559Z"
+}

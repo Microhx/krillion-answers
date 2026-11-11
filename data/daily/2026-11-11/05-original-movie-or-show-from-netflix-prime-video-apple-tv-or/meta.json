@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an original movie or show from Netflix, Prime Video, Apple TV, or Disney+",
+  "category": "People & Entertainment",
+  "round": 5,
+  "answers": 8679,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 8096,
+    "rare": 537,
+    "schooler": 38,
+    "plankton": 7
+  }
+}

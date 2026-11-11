@@ -1,0 +1,14 @@
+{
+  "prompt": "Name something that has a needle",
+  "category": "Objects, Tools & Materials",
+  "round": 4,
+  "answers": 1881,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1707,
+    "rare": 147,
+    "schooler": 21,
+    "tooclever": 1,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country where at least 50% of people speak English",
+  "category": "Country / Geography / Places",
+  "round": 1,
+  "answers": 96,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 30,
+    "rare": 40,
+    "schooler": 18,
+    "plankton": 7
+  }
+}

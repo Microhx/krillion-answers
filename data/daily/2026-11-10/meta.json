@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-10",
+  "rounds": 7,
+  "answers": 42700,
+  "categories": {
+    "People & Entertainment": 3,
+    "Work, Money & Society": 1,
+    "Sports & Games": 1,
+    "Animals & Nature": 1,
+    "Country / Geography / Places": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-disney-channel-nickelodeon-or-cartoon-network-show.txt",
+      "folder": "01-disney-channel-nickelodeon-or-cartoon-network-show",
+      "prompt": "Name a Disney Channel, Nickelodeon or Cartoon Network show",
+      "answers": 2891
+    },
+    {
+      "round": 2,
+      "file": "02-branch-or-denomination-of-christianity-islam-hinduism-judais.txt",
+      "folder": "02-branch-or-denomination-of-christianity-islam-hinduism-judais",
+      "prompt": "Name a branch or denomination of Christianity, Islam, Hinduism, Judaism, or Buddhism",
+      "answers": 4523
+    },
+    {
+      "round": 3,
+      "file": "03-sports-team-whose-logo-contains-red-nfl-nba-mlb-nhl-ipl-prem.txt",
+      "folder": "03-sports-team-whose-logo-contains-red-nfl-nba-mlb-nhl-ipl-prem",
+      "prompt": "Name a sports team whose logo contains red (NFL, NBA, MLB, NHL, IPL, Premier League, La Liga, Bundesliga, Serie A, Ligue 1, or UEFA Champions League)",
+      "answers": 137
+    },
+    {
+      "round": 4,
+      "file": "04-name-any-anime-listed-on-mal.txt",
+      "folder": "04-name-any-anime-listed-on-mal",
+      "prompt": "Name any anime (listed on MAL)",
+      "answers": 26503
+    },
+    {
+      "round": 5,
+      "file": "05-song-by-taylor-swift-ariana-grande-olivia-rodrigo-or-sabrina.txt",
+      "folder": "05-song-by-taylor-swift-ariana-grande-olivia-rodrigo-or-sabrina",
+      "prompt": "Name a song by Taylor Swift, Ariana Grande, Olivia Rodrigo, or Sabrina Carpenter.",
+      "answers": 1135
+    },
+    {
+      "round": 6,
+      "file": "06-flower-that-naturally-blooms-blue-purple-or-red.txt",
+      "folder": "06-flower-that-naturally-blooms-blue-purple-or-red",
+      "prompt": "Name a flower that naturally blooms blue, purple, or red",
+      "answers": 7480
+    },
+    {
+      "round": 7,
+      "file": "07-country-whose-second-letter-is-o.txt",
+      "folder": "07-country-whose-second-letter-is-o",
+      "prompt": "Name a country whose second letter is O",
+      "answers": 31
+    }
+  ],
+  "generated_at": "2026-11-11T07:42:25.559Z"
+}

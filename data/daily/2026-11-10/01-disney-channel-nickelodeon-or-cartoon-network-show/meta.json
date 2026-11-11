@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a Disney Channel, Nickelodeon or Cartoon Network show",
+  "category": "People & Entertainment",
+  "round": 1,
+  "answers": 2891,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2551,
+    "rare": 279,
+    "schooler": 52,
+    "plankton": 8
+  }
+}

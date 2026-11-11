@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a song by Taylor Swift, Ariana Grande, Olivia Rodrigo, or Sabrina Carpenter.",
+  "category": "People & Entertainment",
+  "round": 5,
+  "answers": 1135,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 768,
+    "rare": 289,
+    "schooler": 68,
+    "plankton": 9
+  }
+}

@@ -1,0 +1,1 @@
+Name a sports team whose logo contains red (NFL, NBA, MLB, NHL, IPL, Premier League, La Liga, Bundesliga, Serie A, Ligue 1, or UEFA Champions League)

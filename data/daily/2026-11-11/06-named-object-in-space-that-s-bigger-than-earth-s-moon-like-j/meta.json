@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a named object in space that's bigger than Earth's Moon (like Jupiter)",
+  "category": "Science, Space & Tech",
+  "round": 6,
+  "answers": 30029,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 29941,
+    "rare": 72,
+    "schooler": 6,
+    "plankton": 9
+  }
+}
