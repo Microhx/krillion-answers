@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something you can see in the sky (kinds of things, not types)",
+  "category": "Animals & Nature",
+  "round": 1,
+  "answers": 115,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 36,
+    "rare": 51,
+    "schooler": 20,
+    "plankton": 7
+  }
+}

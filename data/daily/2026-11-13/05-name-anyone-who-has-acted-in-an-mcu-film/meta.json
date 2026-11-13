@@ -1,0 +1,13 @@
+{
+  "prompt": "Name anyone who has acted in an MCU film.",
+  "category": "People & Entertainment",
+  "round": 5,
+  "answers": 2245,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2021,
+    "rare": 187,
+    "schooler": 29,
+    "plankton": 7
+  }
+}

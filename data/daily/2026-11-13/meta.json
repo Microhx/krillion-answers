@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-13",
+  "rounds": 7,
+  "answers": 60603,
+  "categories": {
+    "Sports & Games": 1,
+    "Country / Geography / Places": 1,
+    "Science, Space & Tech": 1,
+    "Objects, Tools & Materials": 1,
+    "People & Entertainment": 2,
+    "Brands / Companies / Apps": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-video-game-you-can-play-on-ps5-xbox-series-x-nintendo-switch.txt",
+      "folder": "01-video-game-you-can-play-on-ps5-xbox-series-x-nintendo-switch",
+      "prompt": "Name a video game you can play on PS5, Xbox Series X, Nintendo Switch 1 or 2.",
+      "answers": 29154
+    },
+    {
+      "round": 2,
+      "file": "02-country-that-has-been-colonized-by-spain-or-portugal.txt",
+      "folder": "02-country-that-has-been-colonized-by-spain-or-portugal",
+      "prompt": "Name a country that has been colonized by Spain or Portugal.",
+      "answers": 60
+    },
+    {
+      "round": 3,
+      "file": "03-chemical-element-that-makes-up-the-human-body.txt",
+      "folder": "03-chemical-element-that-makes-up-the-human-body",
+      "prompt": "Name a chemical element that makes up the human body.",
+      "answers": 66
+    },
+    {
+      "round": 4,
+      "file": "04-invention-that-existed-before-1500-no-food-or-drinks.txt",
+      "folder": "04-invention-that-existed-before-1500-no-food-or-drinks",
+      "prompt": "Name an invention that existed before 1500 (no food or drinks).",
+      "answers": 6312
+    },
+    {
+      "round": 5,
+      "file": "05-name-anyone-who-has-acted-in-an-mcu-film.txt",
+      "folder": "05-name-anyone-who-has-acted-in-an-mcu-film",
+      "prompt": "Name anyone who has acted in an MCU film.",
+      "answers": 2245
+    },
+    {
+      "round": 6,
+      "file": "06-book-that-has-been-adapted-into-a-movie.txt",
+      "folder": "06-book-that-has-been-adapted-into-a-movie",
+      "prompt": "Name a book that has been adapted into a movie.",
+      "answers": 20704
+    },
+    {
+      "round": 7,
+      "file": "07-feature-in-tiktok.txt",
+      "folder": "07-feature-in-tiktok",
+      "prompt": "Name a feature in TikTok.",
+      "answers": 2062
+    }
+  ],
+  "generated_at": "2026-11-13T05:48:11.254Z"
+}

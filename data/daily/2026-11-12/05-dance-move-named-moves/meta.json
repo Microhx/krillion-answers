@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a dance move (named moves)",
+  "category": "People & Entertainment",
+  "round": 5,
+  "answers": 3948,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 3634,
+    "rare": 266,
+    "schooler": 41,
+    "plankton": 6
+  }
+}

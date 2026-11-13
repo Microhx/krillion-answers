@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country that has been colonized by Spain or Portugal.",
+  "category": "Country / Geography / Places",
+  "round": 2,
+  "answers": 60,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 24,
+    "rare": 14,
+    "schooler": 19,
+    "plankton": 2
+  }
+}

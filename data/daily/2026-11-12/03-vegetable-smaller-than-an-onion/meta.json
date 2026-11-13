@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a vegetable smaller than an onion",
+  "category": "Food & Drink",
+  "round": 3,
+  "answers": 689,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 520,
+    "rare": 138,
+    "schooler": 28,
+    "plankton": 2
+  }
+}

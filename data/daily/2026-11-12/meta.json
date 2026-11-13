@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-12",
+  "rounds": 7,
+  "answers": 12284,
+  "categories": {
+    "Animals & Nature": 1,
+    "Objects, Tools & Materials": 1,
+    "Food & Drink": 2,
+    "People & Entertainment": 2,
+    "Body, Health & Medicine": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-name-something-you-can-see-in-the-sky-kinds-of-things-not-ty.txt",
+      "folder": "01-name-something-you-can-see-in-the-sky-kinds-of-things-not-ty",
+      "prompt": "Name something you can see in the sky (kinds of things, not types)",
+      "answers": 115
+    },
+    {
+      "round": 2,
+      "file": "02-material-or-product-that-comes-from-animals-excluding-meat-a.txt",
+      "folder": "02-material-or-product-that-comes-from-animals-excluding-meat-a",
+      "prompt": "Name a material or product that comes from animals (excluding meat and dairy)",
+      "answers": 721
+    },
+    {
+      "round": 3,
+      "file": "03-vegetable-smaller-than-an-onion.txt",
+      "folder": "03-vegetable-smaller-than-an-onion",
+      "prompt": "Name a vegetable smaller than an onion",
+      "answers": 689
+    },
+    {
+      "round": 4,
+      "file": "04-tv-game-show.txt",
+      "folder": "04-tv-game-show",
+      "prompt": "Name a TV game show",
+      "answers": 6077
+    },
+    {
+      "round": 5,
+      "file": "05-dance-move-named-moves.txt",
+      "folder": "05-dance-move-named-moves",
+      "prompt": "Name a dance move (named moves)",
+      "answers": 3948
+    },
+    {
+      "round": 6,
+      "file": "06-type-of-injury-like-a-sprain-not-a-sprained-ankle.txt",
+      "folder": "06-type-of-injury-like-a-sprain-not-a-sprained-ankle",
+      "prompt": "Name a type of injury (like a sprain, not a sprained ankle)",
+      "answers": 128
+    },
+    {
+      "round": 7,
+      "file": "07-chocolate-that-has-caramel-in-it.txt",
+      "folder": "07-chocolate-that-has-caramel-in-it",
+      "prompt": "Name a chocolate that has caramel in it",
+      "answers": 606
+    }
+  ],
+  "generated_at": "2026-11-13T05:48:11.254Z"
+}

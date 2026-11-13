@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a material or product that comes from animals (excluding meat and dairy)",
+  "category": "Objects, Tools & Materials",
+  "round": 2,
+  "answers": 721,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 587,
+    "rare": 109,
+    "schooler": 19,
+    "plankton": 5
+  }
+}

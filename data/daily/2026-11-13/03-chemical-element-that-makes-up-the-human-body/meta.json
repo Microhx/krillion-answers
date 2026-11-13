@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a chemical element that makes up the human body.",
+  "category": "Science, Space & Tech",
+  "round": 3,
+  "answers": 66,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 32,
+    "rare": 24,
+    "schooler": 6,
+    "plankton": 3
+  }
+}

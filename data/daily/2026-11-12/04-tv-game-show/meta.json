@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a TV game show",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 6077,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 5876,
+    "rare": 178,
+    "schooler": 17,
+    "plankton": 5
+  }
+}

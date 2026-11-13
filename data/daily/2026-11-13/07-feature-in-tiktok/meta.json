@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a feature in TikTok.",
+  "category": "Brands / Companies / Apps",
+  "round": 7,
+  "answers": 2062,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1348,
+    "rare": 667,
+    "schooler": 38,
+    "plankton": 8
+  }
+}

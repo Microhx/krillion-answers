@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an invention that existed before 1500 (no food or drinks).",
+  "category": "Objects, Tools & Materials",
+  "round": 4,
+  "answers": 6312,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 3483,
+    "rare": 2587,
+    "schooler": 236,
+    "plankton": 5
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a book that has been adapted into a movie.",
+  "category": "People & Entertainment",
+  "round": 6,
+  "answers": 20704,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 19703,
+    "rare": 936,
+    "schooler": 61,
+    "plankton": 3
+  }
+}

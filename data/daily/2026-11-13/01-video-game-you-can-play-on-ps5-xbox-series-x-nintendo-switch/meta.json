@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a video game you can play on PS5, Xbox Series X, Nintendo Switch 1 or 2.",
+  "category": "Sports & Games",
+  "round": 1,
+  "answers": 29154,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 25493,
+    "rare": 3255,
+    "schooler": 400,
+    "plankton": 5
+  }
+}
