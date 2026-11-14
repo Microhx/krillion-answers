@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a ball sport where you don't score by getting the ball into or through an object.",
+  "category": "Sports & Games",
+  "round": 4,
+  "answers": 626,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 576,
+    "rare": 35,
+    "schooler": 10,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a living animal that moves on 2 feet and can't fly.",
+  "category": "Animals & Nature",
+  "round": 3,
+  "answers": 340,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 297,
+    "rare": 35,
+    "schooler": 5,
+    "plankton": 2
+  }
+}

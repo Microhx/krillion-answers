@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an extinct animal that isn't an insect or invertebrate.",
+  "category": "Animals & Nature",
+  "round": 2,
+  "answers": 20215,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 20036,
+    "rare": 160,
+    "schooler": 14,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-14",
+  "rounds": 7,
+  "answers": 110944,
+  "categories": {
+    "Work, Money & Society": 2,
+    "Animals & Nature": 2,
+    "Sports & Games": 1,
+    "Country / Geography / Places": 1,
+    "People & Entertainment": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-billionaire.txt",
+      "folder": "01-billionaire",
+      "prompt": "Name a billionaire.",
+      "answers": 5262
+    },
+    {
+      "round": 2,
+      "file": "02-extinct-animal-that-isn-t-an-insect-or-invertebrate.txt",
+      "folder": "02-extinct-animal-that-isn-t-an-insect-or-invertebrate",
+      "prompt": "Name an extinct animal that isn't an insect or invertebrate.",
+      "answers": 20215
+    },
+    {
+      "round": 3,
+      "file": "03-living-animal-that-moves-on-2-feet-and-can-t-fly.txt",
+      "folder": "03-living-animal-that-moves-on-2-feet-and-can-t-fly",
+      "prompt": "Name a living animal that moves on 2 feet and can't fly.",
+      "answers": 340
+    },
+    {
+      "round": 4,
+      "file": "04-ball-sport-where-you-don-t-score-by-getting-the-ball-into-or.txt",
+      "folder": "04-ball-sport-where-you-don-t-score-by-getting-the-ball-into-or",
+      "prompt": "Name a ball sport where you don't score by getting the ball into or through an object.",
+      "answers": 626
+    },
+    {
+      "round": 5,
+      "file": "05-name-any-island-must-be-inhabited.txt",
+      "folder": "05-name-any-island-must-be-inhabited",
+      "prompt": "Name any island (must be inhabited).",
+      "answers": 9296
+    },
+    {
+      "round": 6,
+      "file": "06-fictional-way-to-travel.txt",
+      "folder": "06-fictional-way-to-travel",
+      "prompt": "Name a fictional way to travel.",
+      "answers": 48690
+    },
+    {
+      "round": 7,
+      "file": "07-name-any-national-government-agency.txt",
+      "folder": "07-name-any-national-government-agency",
+      "prompt": "Name any national government agency.",
+      "answers": 26515
+    }
+  ],
+  "generated_at": "2026-11-14T07:48:17.763Z"
+}
