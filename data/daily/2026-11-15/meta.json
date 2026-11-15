@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-15",
+  "rounds": 7,
+  "answers": 16385,
+  "categories": {
+    "People & Entertainment": 1,
+    "Country / Geography / Places": 1,
+    "Brands / Companies / Apps": 1,
+    "Work, Money & Society": 2,
+    "Objects, Tools & Materials": 1,
+    "Food & Drink": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-movie-involving-time-travel.txt",
+      "folder": "01-movie-involving-time-travel",
+      "prompt": "Name a movie involving time travel.",
+      "answers": 3330
+    },
+    {
+      "round": 2,
+      "file": "02-country-where-french-is-an-official-language.txt",
+      "folder": "02-country-where-french-is-an-official-language",
+      "prompt": "Name a country where French is an official language",
+      "answers": 26
+    },
+    {
+      "round": 3,
+      "file": "03-brand-with-an-animal-in-its-logo.txt",
+      "folder": "03-brand-with-an-animal-in-its-logo",
+      "prompt": "Name a brand with an animal in its logo.",
+      "answers": 3020
+    },
+    {
+      "round": 4,
+      "file": "04-college-or-university-major.txt",
+      "folder": "04-college-or-university-major",
+      "prompt": "Name a college or university major.",
+      "answers": 4381
+    },
+    {
+      "round": 5,
+      "file": "05-name-something-you-light-with-a-match-or-lighter.txt",
+      "folder": "05-name-something-you-light-with-a-match-or-lighter",
+      "prompt": "Name something you light with a match or lighter.",
+      "answers": 1672
+    },
+    {
+      "round": 6,
+      "file": "06-deep-fried-chicken-dish.txt",
+      "folder": "06-deep-fried-chicken-dish",
+      "prompt": "Name a deep-fried chicken dish.",
+      "answers": 714
+    },
+    {
+      "round": 7,
+      "file": "07-job-where-people-wear-a-uniform.txt",
+      "folder": "07-job-where-people-wear-a-uniform",
+      "prompt": "Name a job where people wear a uniform.",
+      "answers": 3242
+    }
+  ],
+  "generated_at": "2026-11-15T05:11:28.053Z"
+}

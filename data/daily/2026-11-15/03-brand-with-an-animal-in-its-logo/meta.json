@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a brand with an animal in its logo.",
+  "category": "Brands / Companies / Apps",
+  "round": 3,
+  "answers": 3020,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2734,
+    "rare": 257,
+    "schooler": 22,
+    "plankton": 6
+  }
+}

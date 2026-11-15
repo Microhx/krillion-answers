@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a college or university major.",
+  "category": "Work, Money & Society",
+  "round": 4,
+  "answers": 4381,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 3803,
+    "rare": 494,
+    "schooler": 75,
+    "plankton": 8
+  }
+}

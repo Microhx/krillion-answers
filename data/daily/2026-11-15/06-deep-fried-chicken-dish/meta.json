@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a deep-fried chicken dish.",
+  "category": "Food & Drink",
+  "round": 6,
+  "answers": 714,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 575,
+    "rare": 109,
+    "schooler": 23,
+    "plankton": 6
+  }
+}

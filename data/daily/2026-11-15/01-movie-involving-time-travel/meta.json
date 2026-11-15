@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a movie involving time travel.",
+  "category": "People & Entertainment",
+  "round": 1,
+  "answers": 3330,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 3151,
+    "rare": 157,
+    "schooler": 17,
+    "plankton": 4
+  }
+}
