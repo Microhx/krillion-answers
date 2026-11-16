@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T05:11:28.053Z",
+  "generated_at": "2026-11-16T06:12:35.843Z",
   "source": "Krillion public reveal data",
   "includes_quips": false,
   "totals": {
-    "prompts": 888,
-    "answers": 1298800,
-    "games": 127,
-    "files": 3679
+    "prompts": 895,
+    "answers": 1406210,
+    "games": 128,
+    "files": 3708
   },
   "files": {
     "jsonl_gz": {
-      "bytes": 10324113,
-      "sha256": "e280d1df41f55592c2d4a753d1ac1ddf63299d91b7a7640e4353bf31551dfcb1"
+      "bytes": 11096918,
+      "sha256": "195ee184c9dbcfc6d23d3e7d42a713f04b2dcfbb881ed471b192640cedac4656"
     },
     "csv_gz": {
-      "bytes": 10010820,
-      "sha256": "49dc7353f8fea899dc7c639a4b83131308fa21735907513c141a410fd99050b1"
+      "bytes": 10759470,
+      "sha256": "144dffc72d1182758c221938cf33d1bb2b5e19f05fc07e061c58d915c8e6ceea"
     }
   }
 }

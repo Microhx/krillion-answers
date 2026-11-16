@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a chemical element whose name has 6 or fewer letters.",
+  "category": "Science, Space & Tech",
+  "round": 6,
+  "answers": 28,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 5,
+    "rare": 6,
+    "schooler": 11,
+    "plankton": 5
+  }
+}

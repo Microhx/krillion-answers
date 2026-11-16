@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-16",
+  "rounds": 7,
+  "answers": 107410,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "People & Entertainment": 2,
+    "Work, Money & Society": 1,
+    "Sports & Games": 1,
+    "Science, Space & Tech": 1,
+    "Body, Health & Medicine": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-with-the-letter-b-in-its-name.txt",
+      "folder": "01-country-with-the-letter-b-in-its-name",
+      "prompt": "Name a country with the letter B in its name.",
+      "answers": 47
+    },
+    {
+      "round": 2,
+      "file": "02-fictional-weapon.txt",
+      "folder": "02-fictional-weapon",
+      "prompt": "Name a fictional weapon.",
+      "answers": 91633
+    },
+    {
+      "round": 3,
+      "file": "03-job-focused-on-repairing-physical-things.txt",
+      "folder": "03-job-focused-on-repairing-physical-things",
+      "prompt": "Name a job focused on repairing physical things.",
+      "answers": 1236
+    },
+    {
+      "round": 4,
+      "file": "04-author-who-has-a-book-that-has-sold-over-500-000-copies.txt",
+      "folder": "04-author-who-has-a-book-that-has-sold-over-500-000-copies",
+      "prompt": "Name an author who has a book that has sold over 500,000 copies.",
+      "answers": 7732
+    },
+    {
+      "round": 5,
+      "file": "05-sport-involving-a-board-no-board-games-tabletop-games-or-esp.txt",
+      "folder": "05-sport-involving-a-board-no-board-games-tabletop-games-or-esp",
+      "prompt": "Name a sport involving a board (no board games, tabletop games or esports).",
+      "answers": 542
+    },
+    {
+      "round": 6,
+      "file": "06-chemical-element-whose-name-has-6-or-fewer-letters.txt",
+      "folder": "06-chemical-element-whose-name-has-6-or-fewer-letters",
+      "prompt": "Name a chemical element whose name has 6 or fewer letters.",
+      "answers": 28
+    },
+    {
+      "round": 7,
+      "file": "07-part-of-the-body-above-the-waist-excluding-the-head.txt",
+      "folder": "07-part-of-the-body-above-the-waist-excluding-the-head",
+      "prompt": "Name a part of the body above the waist, excluding the head.",
+      "answers": 6192
+    }
+  ],
+  "generated_at": "2026-11-16T06:12:35.843Z"
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a part of the body above the waist, excluding the head.",
+  "category": "Body, Health & Medicine",
+  "round": 7,
+  "answers": 6192,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 5847,
+    "rare": 302,
+    "schooler": 30,
+    "plankton": 12
+  }
+}

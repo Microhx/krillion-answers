@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an author who has a book that has sold over 500,000 copies.",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 7732,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 7060,
+    "rare": 616,
+    "schooler": 50,
+    "plankton": 5
+  }
+}

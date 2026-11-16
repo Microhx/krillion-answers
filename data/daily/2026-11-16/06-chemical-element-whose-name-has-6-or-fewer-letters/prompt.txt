@@ -1,0 +1,1 @@
+Name a chemical element whose name has 6 or fewer letters.
