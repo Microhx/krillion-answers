@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-17",
+  "rounds": 7,
+  "answers": 109732,
+  "categories": {
+    "People & Entertainment": 1,
+    "Food & Drink": 2,
+    "Animals & Nature": 1,
+    "Sports & Games": 2,
+    "Country / Geography / Places": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-movie-where-the-main-character-is-a-talking-animal.txt",
+      "folder": "01-movie-where-the-main-character-is-a-talking-animal",
+      "prompt": "Name a movie where the main character is a talking animal",
+      "answers": 4403
+    },
+    {
+      "round": 2,
+      "file": "02-one-word-food-or-drink-that-ends-in-o.txt",
+      "folder": "02-one-word-food-or-drink-that-ends-in-o",
+      "prompt": "Name a one-word food or drink that ends in O",
+      "answers": 3053
+    },
+    {
+      "round": 3,
+      "file": "03-one-word-animal-whose-name-is-7-or-more-letters.txt",
+      "folder": "03-one-word-animal-whose-name-is-7-or-more-letters",
+      "prompt": "Name a one-word animal whose name is 7 or more letters",
+      "answers": 73270
+    },
+    {
+      "round": 4,
+      "file": "04-retired-player-from-the-nba-premier-league-la-liga-afl-or-ip.txt",
+      "folder": "04-retired-player-from-the-nba-premier-league-la-liga-afl-or-ip",
+      "prompt": "Name a retired player from the NBA, Premier League, La Liga, AFL or IPL (women’s equivalents count too)",
+      "answers": 25015
+    },
+    {
+      "round": 5,
+      "file": "05-city-ending-in-ville-burg-burgh-or-bourg.txt",
+      "folder": "05-city-ending-in-ville-burg-burgh-or-bourg",
+      "prompt": "Name a city ending in -ville, -burg, -burgh or -bourg",
+      "answers": 3264
+    },
+    {
+      "round": 6,
+      "file": "06-fruit-or-vegetable-that-s-white-on-the-inside.txt",
+      "folder": "06-fruit-or-vegetable-that-s-white-on-the-inside",
+      "prompt": "Name a fruit or vegetable that’s white on the inside",
+      "answers": 441
+    },
+    {
+      "round": 7,
+      "file": "07-playable-character-from-valorant-overwatch-league-of-legends.txt",
+      "folder": "07-playable-character-from-valorant-overwatch-league-of-legends",
+      "prompt": "Name a playable character from Valorant, Overwatch, League of Legends or Apex Legends",
+      "answers": 286
+    }
+  ],
+  "generated_at": "2026-11-17T06:10:36.680Z"
+}

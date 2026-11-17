@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a retired player from the NBA, Premier League, La Liga, AFL or IPL (women’s equivalents count too)",
+  "category": "Sports & Games",
+  "round": 4,
+  "answers": 25015,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 23842,
+    "rare": 1081,
+    "schooler": 80,
+    "plankton": 10
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a one-word animal whose name is 7 or more letters",
+  "category": "Animals & Nature",
+  "round": 3,
+  "answers": 73270,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 72704,
+    "rare": 479,
+    "schooler": 75,
+    "plankton": 10
+  }
+}

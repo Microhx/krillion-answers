@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a city ending in -ville, -burg, -burgh or -bourg",
+  "category": "Country / Geography / Places",
+  "round": 5,
+  "answers": 3264,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2975,
+    "rare": 272,
+    "schooler": 11,
+    "plankton": 5
+  }
+}

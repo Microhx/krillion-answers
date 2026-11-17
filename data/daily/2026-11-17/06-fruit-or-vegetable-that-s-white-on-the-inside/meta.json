@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a fruit or vegetable that’s white on the inside",
+  "category": "Food & Drink",
+  "round": 6,
+  "answers": 441,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 325,
+    "rare": 96,
+    "schooler": 15,
+    "plankton": 4
+  }
+}

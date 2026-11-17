@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a one-word food or drink that ends in O",
+  "category": "Food & Drink",
+  "round": 2,
+  "answers": 3053,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2883,
+    "rare": 130,
+    "schooler": 32,
+    "plankton": 7
+  }
+}

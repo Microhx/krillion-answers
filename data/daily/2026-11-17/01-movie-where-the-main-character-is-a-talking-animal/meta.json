@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a movie where the main character is a talking animal",
+  "category": "People & Entertainment",
+  "round": 1,
+  "answers": 4403,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 4103,
+    "rare": 223,
+    "schooler": 69,
+    "plankton": 7
+  }
+}
