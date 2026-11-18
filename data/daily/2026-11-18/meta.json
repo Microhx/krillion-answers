@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-18",
+  "rounds": 7,
+  "answers": 69298,
+  "categories": {
+    "People & Entertainment": 1,
+    "Brands / Companies / Apps": 1,
+    "Sports & Games": 2,
+    "Country / Geography / Places": 1,
+    "Food & Drink": 1,
+    "Words, Language & Numbers": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-fictional-food-or-drink.txt",
+      "folder": "01-fictional-food-or-drink",
+      "prompt": "Name a fictional food or drink",
+      "answers": 21375
+    },
+    {
+      "round": 2,
+      "file": "02-website-or-app-designed-for-learning-or-studying-not-apps-si.txt",
+      "folder": "02-website-or-app-designed-for-learning-or-studying-not-apps-si",
+      "prompt": "Name a website or app designed for learning or studying (not apps/sites only for taking notes)",
+      "answers": 8018
+    },
+    {
+      "round": 3,
+      "file": "03-sport-where-competitors-wear-helmets.txt",
+      "folder": "03-sport-where-competitors-wear-helmets",
+      "prompt": "Name a sport where competitors wear helmets",
+      "answers": 658
+    },
+    {
+      "round": 4,
+      "file": "04-city-whose-name-starts-with-d.txt",
+      "folder": "04-city-whose-name-starts-with-d",
+      "prompt": "Name a city whose name starts with D",
+      "answers": 19049
+    },
+    {
+      "round": 5,
+      "file": "05-fruit-or-vegetable-that-starts-with-a-vowel.txt",
+      "folder": "05-fruit-or-vegetable-that-starts-with-a-vowel",
+      "prompt": "Name a fruit or vegetable that starts with a vowel",
+      "answers": 5804
+    },
+    {
+      "round": 6,
+      "file": "06-name-any-athlete-who-competed-at-the-2024-summer-olympics-or.txt",
+      "folder": "06-name-any-athlete-who-competed-at-the-2024-summer-olympics-or",
+      "prompt": "Name any athlete who competed at the 2024 Summer Olympics or 2026 Winter Olympics",
+      "answers": 13679
+    },
+    {
+      "round": 7,
+      "file": "07-real-life-language-that-ends-in-an.txt",
+      "folder": "07-real-life-language-that-ends-in-an",
+      "prompt": "Name a real-life language that ends in -an",
+      "answers": 715
+    }
+  ],
+  "generated_at": "2026-11-18T05:32:44.889Z"
+}

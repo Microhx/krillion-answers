@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a sport where competitors wear helmets",
+  "category": "Sports & Games",
+  "round": 3,
+  "answers": 658,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 505,
+    "rare": 126,
+    "schooler": 22,
+    "plankton": 4
+  }
+}

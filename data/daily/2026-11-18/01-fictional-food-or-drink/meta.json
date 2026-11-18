@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a fictional food or drink",
+  "category": "People & Entertainment",
+  "round": 1,
+  "answers": 21375,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 20805,
+    "rare": 538,
+    "schooler": 27,
+    "plankton": 3
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name any athlete who competed at the 2024 Summer Olympics or 2026 Winter Olympics",
+  "category": "Sports & Games",
+  "round": 6,
+  "answers": 13679,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 12851,
+    "rare": 766,
+    "schooler": 55,
+    "plankton": 5
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a city whose name starts with D",
+  "category": "Country / Geography / Places",
+  "round": 4,
+  "answers": 19049,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 18893,
+    "rare": 138,
+    "schooler": 12,
+    "plankton": 4
+  }
+}
