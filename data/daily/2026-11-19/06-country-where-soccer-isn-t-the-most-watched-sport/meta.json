@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a country where soccer isn't the most watched sport",
+  "category": "Country / Geography / Places",
+  "round": 6,
+  "answers": 66,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 20,
+    "rare": 33,
+    "schooler": 8,
+    "plankton": 4
+  }
+}

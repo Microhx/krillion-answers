@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a location from Star Wars, Lord of the Rings, Fortnite, SpongeBob, or a Disney/Pixar movie (real places don't count)",
+  "category": "People & Entertainment",
+  "round": 2,
+  "answers": 19542,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 18670,
+    "rare": 787,
+    "schooler": 76,
+    "plankton": 7
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a TV show with at least five seasons (listed on IMDb)",
+  "category": "People & Entertainment",
+  "round": 7,
+  "answers": 11443,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 10540,
+    "rare": 796,
+    "schooler": 96,
+    "plankton": 9
+  }
+}

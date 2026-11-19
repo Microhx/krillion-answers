@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-19",
+  "rounds": 7,
+  "answers": 58443,
+  "categories": {
+    "Animals & Nature": 1,
+    "People & Entertainment": 3,
+    "Objects, Tools & Materials": 1,
+    "Science, Space & Tech": 1,
+    "Country / Geography / Places": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-living-animal-bigger-than-a-human.txt",
+      "folder": "01-living-animal-bigger-than-a-human",
+      "prompt": "Name a living animal bigger than a human",
+      "answers": 2654
+    },
+    {
+      "round": 2,
+      "file": "02-location-from-star-wars-lord-of-the-rings-fortnite-spongebob.txt",
+      "folder": "02-location-from-star-wars-lord-of-the-rings-fortnite-spongebob",
+      "prompt": "Name a location from Star Wars, Lord of the Rings, Fortnite, SpongeBob, or a Disney/Pixar movie (real places don't count)",
+      "answers": 19542
+    },
+    {
+      "round": 3,
+      "file": "03-name-something-designed-to-stick-to-your-skin-that-you-peel.txt",
+      "folder": "03-name-something-designed-to-stick-to-your-skin-that-you-peel",
+      "prompt": "Name something designed to stick to your skin that you peel off later",
+      "answers": 206
+    },
+    {
+      "round": 4,
+      "file": "04-name-someone-who-directed-a-movie-with-at-least-1-000-votes.txt",
+      "folder": "04-name-someone-who-directed-a-movie-with-at-least-1-000-votes",
+      "prompt": "Name someone who directed a movie with at least 1,000 votes on IMDb",
+      "answers": 24368
+    },
+    {
+      "round": 5,
+      "file": "05-name-something-an-app-can-ask-permission-to-access-on-your-p.txt",
+      "folder": "05-name-something-an-app-can-ask-permission-to-access-on-your-p",
+      "prompt": "Name something an app can ask permission to access on your phone",
+      "answers": 164
+    },
+    {
+      "round": 6,
+      "file": "06-country-where-soccer-isn-t-the-most-watched-sport.txt",
+      "folder": "06-country-where-soccer-isn-t-the-most-watched-sport",
+      "prompt": "Name a country where soccer isn't the most watched sport",
+      "answers": 66
+    },
+    {
+      "round": 7,
+      "file": "07-tv-show-with-at-least-five-seasons-listed-on-imdb.txt",
+      "folder": "07-tv-show-with-at-least-five-seasons-listed-on-imdb",
+      "prompt": "Name a TV show with at least five seasons (listed on IMDb)",
+      "answers": 11443
+    }
+  ],
+  "generated_at": "2026-11-19T05:26:02.874Z"
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name someone who directed a movie with at least 1,000 votes on IMDb",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 24368,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 23524,
+    "rare": 786,
+    "schooler": 50,
+    "plankton": 6
+  }
+}
