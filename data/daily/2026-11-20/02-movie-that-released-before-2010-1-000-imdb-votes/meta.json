@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a movie that released before 2010 (1,000+ IMDb votes)",
+  "category": "People & Entertainment",
+  "round": 2,
+  "answers": 28808,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 27356,
+    "rare": 1285,
+    "schooler": 154,
+    "plankton": 12
+  }
+}

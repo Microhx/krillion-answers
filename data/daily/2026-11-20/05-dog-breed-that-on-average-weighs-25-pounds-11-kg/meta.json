@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a dog breed that on average weighs 25+ pounds (11 kg)",
+  "category": "Animals & Nature",
+  "round": 5,
+  "answers": 653,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 532,
+    "rare": 91,
+    "schooler": 19,
+    "plankton": 10
+  }
+}

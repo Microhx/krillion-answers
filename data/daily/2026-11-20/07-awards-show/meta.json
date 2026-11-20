@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an awards show",
+  "category": "People & Entertainment",
+  "round": 7,
+  "answers": 3791,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 3696,
+    "rare": 78,
+    "schooler": 12,
+    "plankton": 4
+  }
+}

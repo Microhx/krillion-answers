@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a one-word color",
+  "category": "Words, Language & Numbers",
+  "round": 3,
+  "answers": 538,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 416,
+    "rare": 92,
+    "schooler": 18,
+    "plankton": 11
+  }
+}

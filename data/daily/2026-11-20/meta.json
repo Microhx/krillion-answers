@@ -1,0 +1,64 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-20",
+  "rounds": 7,
+  "answers": 54075,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "People & Entertainment": 4,
+    "Words, Language & Numbers": 1,
+    "Animals & Nature": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-country-with-the-letter-p-in-its-name.txt",
+      "folder": "01-country-with-the-letter-p-in-its-name",
+      "prompt": "Name a country with the letter P in its name",
+      "answers": 24
+    },
+    {
+      "round": 2,
+      "file": "02-movie-that-released-before-2010-1-000-imdb-votes.txt",
+      "folder": "02-movie-that-released-before-2010-1-000-imdb-votes",
+      "prompt": "Name a movie that released before 2010 (1,000+ IMDb votes)",
+      "answers": 28808
+    },
+    {
+      "round": 3,
+      "file": "03-one-word-color.txt",
+      "folder": "03-one-word-color",
+      "prompt": "Name a one-word color",
+      "answers": 538
+    },
+    {
+      "round": 4,
+      "file": "04-song-by-drake-kendrick-lamar-kanye-west-nicki-minaj-sza-or-p.txt",
+      "folder": "04-song-by-drake-kendrick-lamar-kanye-west-nicki-minaj-sza-or-p",
+      "prompt": "Name a song by Drake, Kendrick Lamar, Kanye West, Nicki Minaj, SZA, or Playboi Carti.",
+      "answers": 3504
+    },
+    {
+      "round": 5,
+      "file": "05-dog-breed-that-on-average-weighs-25-pounds-11-kg.txt",
+      "folder": "05-dog-breed-that-on-average-weighs-25-pounds-11-kg",
+      "prompt": "Name a dog breed that on average weighs 25+ pounds (11 kg)",
+      "answers": 653
+    },
+    {
+      "round": 6,
+      "file": "06-protagonist-from-an-anime-or-animated-tv-show-1-000-votes-on.txt",
+      "folder": "06-protagonist-from-an-anime-or-animated-tv-show-1-000-votes-on",
+      "prompt": "Name a protagonist from an anime or animated TV show (1,000+ votes on IMDb or listed on MAL)",
+      "answers": 16757
+    },
+    {
+      "round": 7,
+      "file": "07-awards-show.txt",
+      "folder": "07-awards-show",
+      "prompt": "Name an awards show",
+      "answers": 3791
+    }
+  ],
+  "generated_at": "2026-11-20T05:26:45.267Z"
+}

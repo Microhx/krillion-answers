@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a song by Drake, Kendrick Lamar, Kanye West, Nicki Minaj, SZA, or Playboi Carti.",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 3504,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 3082,
+    "rare": 368,
+    "schooler": 47,
+    "plankton": 6
+  }
+}
