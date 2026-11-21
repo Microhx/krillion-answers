@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something used to scoop",
+  "category": "Objects, Tools & Materials",
+  "round": 4,
+  "answers": 924,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 776,
+    "rare": 123,
+    "schooler": 21,
+    "plankton": 3
+  }
+}

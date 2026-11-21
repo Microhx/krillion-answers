@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-21",
+  "rounds": 7,
+  "answers": 47224,
+  "categories": {
+    "Country / Geography / Places": 1,
+    "People & Entertainment": 1,
+    "Animals & Nature": 2,
+    "Objects, Tools & Materials": 1,
+    "Sports & Games": 2
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-capital-city-of-any-country.txt",
+      "folder": "01-capital-city-of-any-country",
+      "prompt": "Name the capital city of any country",
+      "answers": 217
+    },
+    {
+      "round": 2,
+      "file": "02-rom-com-with-at-least-1-000-votes-on-imdb.txt",
+      "folder": "02-rom-com-with-at-least-1-000-votes-on-imdb",
+      "prompt": "Name a rom-com with at least 1,000 votes on IMDb",
+      "answers": 5365
+    },
+    {
+      "round": 3,
+      "file": "03-one-word-animal-that-starts-with-ch-or-sh.txt",
+      "folder": "03-one-word-animal-that-starts-with-ch-or-sh",
+      "prompt": "Name a one-word animal that starts with “ch” or “sh”",
+      "answers": 1672
+    },
+    {
+      "round": 4,
+      "file": "04-name-something-used-to-scoop.txt",
+      "folder": "04-name-something-used-to-scoop",
+      "prompt": "Name something used to scoop",
+      "answers": 924
+    },
+    {
+      "round": 5,
+      "file": "05-living-fish.txt",
+      "folder": "05-living-fish",
+      "prompt": "Name a living fish",
+      "answers": 37016
+    },
+    {
+      "round": 6,
+      "file": "06-battle-royale-video-game-no-browser-only-games.txt",
+      "folder": "06-battle-royale-video-game-no-browser-only-games",
+      "prompt": "Name a battle royale video game (no browser-only games)",
+      "answers": 1338
+    },
+    {
+      "round": 7,
+      "file": "07-sport-or-game-that-s-played-with-multiple-balls-at-a-time.txt",
+      "folder": "07-sport-or-game-that-s-played-with-multiple-balls-at-a-time",
+      "prompt": "Name a sport or game that’s played with multiple balls at a time",
+      "answers": 692
+    }
+  ],
+  "generated_at": "2026-11-21T05:27:37.679Z"
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a rom-com with at least 1,000 votes on IMDb",
+  "category": "People & Entertainment",
+  "round": 2,
+  "answers": 5365,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 4861,
+    "rare": 435,
+    "schooler": 57,
+    "plankton": 11
+  }
+}

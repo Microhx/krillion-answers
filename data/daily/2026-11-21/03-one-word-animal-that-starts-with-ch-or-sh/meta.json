@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a one-word animal that starts with “ch” or “sh”",
+  "category": "Animals & Nature",
+  "round": 3,
+  "answers": 1672,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1626,
+    "rare": 34,
+    "schooler": 7,
+    "plankton": 4
+  }
+}
