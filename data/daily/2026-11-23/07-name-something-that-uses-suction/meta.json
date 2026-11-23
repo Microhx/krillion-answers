@@ -1,0 +1,13 @@
+{
+  "prompt": "Name something that uses suction",
+  "category": "Objects, Tools & Materials",
+  "round": 7,
+  "answers": 973,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 763,
+    "rare": 157,
+    "schooler": 47,
+    "plankton": 5
+  }
+}

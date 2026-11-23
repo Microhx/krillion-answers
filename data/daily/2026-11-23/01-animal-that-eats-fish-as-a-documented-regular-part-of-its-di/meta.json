@@ -1,0 +1,14 @@
+{
+  "prompt": "Name an animal that eats fish as a documented, regular part of its diet",
+  "category": "Animals & Nature",
+  "round": 1,
+  "answers": 10215,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 9534,
+    "rare": 623,
+    "schooler": 50,
+    "tooclever": 1,
+    "plankton": 6
+  }
+}

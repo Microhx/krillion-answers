@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a natural habitat",
+  "category": "Animals & Nature",
+  "round": 6,
+  "answers": 1684,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1489,
+    "rare": 168,
+    "schooler": 22,
+    "plankton": 4
+  }
+}

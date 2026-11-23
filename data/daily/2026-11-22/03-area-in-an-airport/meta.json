@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an area in an airport",
+  "category": "Country / Geography / Places",
+  "round": 3,
+  "answers": 601,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 375,
+    "rare": 190,
+    "schooler": 29,
+    "plankton": 6
+  }
+}

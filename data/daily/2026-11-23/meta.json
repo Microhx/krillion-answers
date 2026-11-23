@@ -1,0 +1,64 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-23",
+  "rounds": 7,
+  "answers": 43258,
+  "categories": {
+    "Animals & Nature": 2,
+    "People & Entertainment": 2,
+    "Country / Geography / Places": 1,
+    "Objects, Tools & Materials": 2
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-animal-that-eats-fish-as-a-documented-regular-part-of-its-di.txt",
+      "folder": "01-animal-that-eats-fish-as-a-documented-regular-part-of-its-di",
+      "prompt": "Name an animal that eats fish as a documented, regular part of its diet",
+      "answers": 10215
+    },
+    {
+      "round": 2,
+      "file": "02-movie-that-s-at-least-two-and-a-half-hours-long-100-imdb-vot.txt",
+      "folder": "02-movie-that-s-at-least-two-and-a-half-hours-long-100-imdb-vot",
+      "prompt": "Name a movie that's at least two and a half hours long (100+ IMDb votes)",
+      "answers": 5902
+    },
+    {
+      "round": 3,
+      "file": "03-name-one-of-the-seven-wonders-of-the-world-ancient-or-new.txt",
+      "folder": "03-name-one-of-the-seven-wonders-of-the-world-ancient-or-new",
+      "prompt": "Name one of the Seven Wonders of the World (ancient or new)",
+      "answers": 14
+    },
+    {
+      "round": 4,
+      "file": "04-fictional-vampire-werewolf-or-ghost.txt",
+      "folder": "04-fictional-vampire-werewolf-or-ghost",
+      "prompt": "Name a fictional vampire, werewolf, or ghost",
+      "answers": 23383
+    },
+    {
+      "round": 5,
+      "file": "05-object-that-has-a-lens.txt",
+      "folder": "05-object-that-has-a-lens",
+      "prompt": "Name an object that has a lens",
+      "answers": 1087
+    },
+    {
+      "round": 6,
+      "file": "06-natural-habitat.txt",
+      "folder": "06-natural-habitat",
+      "prompt": "Name a natural habitat",
+      "answers": 1684
+    },
+    {
+      "round": 7,
+      "file": "07-name-something-that-uses-suction.txt",
+      "folder": "07-name-something-that-uses-suction",
+      "prompt": "Name something that uses suction",
+      "answers": 973
+    }
+  ],
+  "generated_at": "2026-11-23T05:59:29.559Z"
+}

@@ -1,0 +1,67 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-22",
+  "rounds": 7,
+  "answers": 55918,
+  "categories": {
+    "Brands / Companies / Apps": 1,
+    "People & Entertainment": 1,
+    "Country / Geography / Places": 1,
+    "Objects, Tools & Materials": 1,
+    "Food & Drink": 1,
+    "Body, Health & Medicine": 1,
+    "Sports & Games": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-car-brand.txt",
+      "folder": "01-car-brand",
+      "prompt": "Name a car brand",
+      "answers": 7938
+    },
+    {
+      "round": 2,
+      "file": "02-book-series-1-000-goodreads-ratings-on-any-one-book.txt",
+      "folder": "02-book-series-1-000-goodreads-ratings-on-any-one-book",
+      "prompt": "Name a book series (1,000+ Goodreads ratings on any one book)",
+      "answers": 32176
+    },
+    {
+      "round": 3,
+      "file": "03-area-in-an-airport.txt",
+      "folder": "03-area-in-an-airport",
+      "prompt": "Name an area in an airport",
+      "answers": 601
+    },
+    {
+      "round": 4,
+      "file": "04-weapon-you-throw-or-a-weapon-that-launches-a-projectile-no-g.txt",
+      "folder": "04-weapon-you-throw-or-a-weapon-that-launches-a-projectile-no-g",
+      "prompt": "Name a weapon you throw or a weapon that launches a projectile (no guns)",
+      "answers": 2292
+    },
+    {
+      "round": 5,
+      "file": "05-restaurant-chain-where-you-build-your-own-bowl.txt",
+      "folder": "05-restaurant-chain-where-you-build-your-own-bowl",
+      "prompt": "Name a restaurant chain where you build your own bowl",
+      "answers": 2458
+    },
+    {
+      "round": 6,
+      "file": "06-chronic-medical-condition.txt",
+      "folder": "06-chronic-medical-condition",
+      "prompt": "Name a chronic medical condition",
+      "answers": 10066
+    },
+    {
+      "round": 7,
+      "file": "07-part-of-the-field-or-court-in-basketball-soccer-american-foo.txt",
+      "folder": "07-part-of-the-field-or-court-in-basketball-soccer-american-foo",
+      "prompt": "Name a part of the field or court in basketball, soccer, American football, cricket, or rugby",
+      "answers": 387
+    }
+  ],
+  "generated_at": "2026-11-23T05:59:29.559Z"
+}

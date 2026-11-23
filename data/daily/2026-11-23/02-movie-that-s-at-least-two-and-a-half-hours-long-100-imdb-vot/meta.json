@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a movie that's at least two and a half hours long (100+ IMDb votes)",
+  "category": "People & Entertainment",
+  "round": 2,
+  "answers": 5902,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 5522,
+    "rare": 323,
+    "schooler": 49,
+    "plankton": 7
+  }
+}

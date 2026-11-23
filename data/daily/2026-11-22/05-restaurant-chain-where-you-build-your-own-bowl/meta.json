@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a restaurant chain where you build your own bowl",
+  "category": "Food & Drink",
+  "round": 5,
+  "answers": 2458,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2269,
+    "rare": 182,
+    "schooler": 4,
+    "plankton": 2
+  }
+}

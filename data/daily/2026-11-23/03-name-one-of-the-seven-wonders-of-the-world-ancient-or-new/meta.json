@@ -1,0 +1,13 @@
+{
+  "prompt": "Name one of the Seven Wonders of the World (ancient or new)",
+  "category": "Country / Geography / Places",
+  "round": 3,
+  "answers": 14,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2,
+    "rare": 5,
+    "schooler": 3,
+    "plankton": 3
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a chronic medical condition",
+  "category": "Body, Health & Medicine",
+  "round": 6,
+  "answers": 10066,
+  "tiers": {
+    "krillion": 2,
+    "deepcut": 9346,
+    "rare": 605,
+    "schooler": 107,
+    "plankton": 6
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a weapon you throw or a weapon that launches a projectile (no guns)",
+  "category": "Objects, Tools & Materials",
+  "round": 4,
+  "answers": 2292,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 2170,
+    "rare": 86,
+    "schooler": 31,
+    "plankton": 4
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a car brand",
+  "category": "Brands / Companies / Apps",
+  "round": 1,
+  "answers": 7938,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 7669,
+    "rare": 205,
+    "schooler": 50,
+    "plankton": 13
+  }
+}
