@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a video game company",
+  "category": "Brands / Companies / Apps",
+  "round": 6,
+  "answers": 94525,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 94267,
+    "rare": 227,
+    "schooler": 22,
+    "plankton": 8
+  }
+}

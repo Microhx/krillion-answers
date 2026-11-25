@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an album by an artist with more than 1 million monthly listeners on Spotify",
+  "category": "People & Entertainment",
+  "round": 4,
+  "answers": 195366,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 189944,
+    "rare": 4899,
+    "schooler": 517,
+    "plankton": 5
+  }
+}

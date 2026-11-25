@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-24",
+  "rounds": 7,
+  "answers": 383310,
+  "categories": {
+    "Sports & Games": 1,
+    "Country / Geography / Places": 2,
+    "People & Entertainment": 1,
+    "Animals & Nature": 1,
+    "Brands / Companies / Apps": 1,
+    "Body, Health & Medicine": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-sport-where-you-re-allowed-to-kick-the-ball.txt",
+      "folder": "01-sport-where-you-re-allowed-to-kick-the-ball",
+      "prompt": "Name a sport where you're allowed to kick the ball",
+      "answers": 481
+    },
+    {
+      "round": 2,
+      "file": "02-country-that-has-an-a-as-its-second-letter.txt",
+      "folder": "02-country-that-has-an-a-as-its-second-letter",
+      "prompt": "Name a country that has an A as its second letter",
+      "answers": 49
+    },
+    {
+      "round": 3,
+      "file": "03-city-on-an-island-towns-count-too.txt",
+      "folder": "03-city-on-an-island-towns-count-too",
+      "prompt": "Name a city on an island (towns count too)",
+      "answers": 83693
+    },
+    {
+      "round": 4,
+      "file": "04-album-by-an-artist-with-more-than-1-million-monthly-listener.txt",
+      "folder": "04-album-by-an-artist-with-more-than-1-million-monthly-listener",
+      "prompt": "Name an album by an artist with more than 1 million monthly listeners on Spotify",
+      "answers": 195366
+    },
+    {
+      "round": 5,
+      "file": "05-animal-with-webbed-feet.txt",
+      "folder": "05-animal-with-webbed-feet",
+      "prompt": "Name an animal with webbed feet",
+      "answers": 8059
+    },
+    {
+      "round": 6,
+      "file": "06-video-game-company.txt",
+      "folder": "06-video-game-company",
+      "prompt": "Name a video game company",
+      "answers": 94525
+    },
+    {
+      "round": 7,
+      "file": "07-form-medicine-comes-in-like-a-pill.txt",
+      "folder": "07-form-medicine-comes-in-like-a-pill",
+      "prompt": "Name a form medicine comes in (like a pill)",
+      "answers": 1137
+    }
+  ],
+  "generated_at": "2026-11-24T07:02:42.381Z"
+}

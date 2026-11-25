@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a sport where you're allowed to kick the ball",
+  "category": "Sports & Games",
+  "round": 1,
+  "answers": 481,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 436,
+    "rare": 37,
+    "schooler": 5,
+    "plankton": 2
+  }
+}
