@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a piece of information you can see on a sports scoreboard",
+  "category": "Sports & Games",
+  "round": 3,
+  "answers": 1535,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 875,
+    "rare": 607,
+    "schooler": 47,
+    "plankton": 5
+  }
+}

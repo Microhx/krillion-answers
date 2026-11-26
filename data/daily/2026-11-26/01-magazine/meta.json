@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a magazine",
+  "category": "People & Entertainment",
+  "round": 1,
+  "answers": 117985,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 115882,
+    "rare": 2040,
+    "schooler": 52,
+    "plankton": 10
+  }
+}

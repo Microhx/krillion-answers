@@ -1,0 +1,65 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-26",
+  "rounds": 7,
+  "answers": 146887,
+  "categories": {
+    "People & Entertainment": 2,
+    "Food & Drink": 1,
+    "Sports & Games": 1,
+    "Country / Geography / Places": 2,
+    "Objects, Tools & Materials": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-magazine.txt",
+      "folder": "01-magazine",
+      "prompt": "Name a magazine",
+      "answers": 117985
+    },
+    {
+      "round": 2,
+      "file": "02-one-word-food-or-drink-containing-a-double-letter-like-coffe.txt",
+      "folder": "02-one-word-food-or-drink-containing-a-double-letter-like-coffe",
+      "prompt": "Name a one-word food or drink containing a double letter (like coffee)",
+      "answers": 6456
+    },
+    {
+      "round": 3,
+      "file": "03-piece-of-information-you-can-see-on-a-sports-scoreboard.txt",
+      "folder": "03-piece-of-information-you-can-see-on-a-sports-scoreboard",
+      "prompt": "Name a piece of information you can see on a sports scoreboard",
+      "answers": 1535
+    },
+    {
+      "round": 4,
+      "file": "04-country-where-elephants-live-in-the-wild.txt",
+      "folder": "04-country-where-elephants-live-in-the-wild",
+      "prompt": "Name a country where elephants live in the wild",
+      "answers": 51
+    },
+    {
+      "round": 5,
+      "file": "05-tv-show-that-has-a-spin-off-series.txt",
+      "folder": "05-tv-show-that-has-a-spin-off-series",
+      "prompt": "Name a TV show that has a spin-off series",
+      "answers": 3703
+    },
+    {
+      "round": 6,
+      "file": "06-river-over-50-miles-long-about-80-km.txt",
+      "folder": "06-river-over-50-miles-long-about-80-km",
+      "prompt": "Name a river over 50 miles long (about 80 km)",
+      "answers": 16738
+    },
+    {
+      "round": 7,
+      "file": "07-type-of-device-with-a-built-in-microphone.txt",
+      "folder": "07-type-of-device-with-a-built-in-microphone",
+      "prompt": "Name a type of device with a built-in microphone",
+      "answers": 419
+    }
+  ],
+  "generated_at": "2026-11-26T06:00:30.864Z"
+}

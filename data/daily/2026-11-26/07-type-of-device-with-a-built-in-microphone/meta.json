@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a type of device with a built-in microphone",
+  "category": "Objects, Tools & Materials",
+  "round": 7,
+  "answers": 419,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 270,
+    "rare": 124,
+    "schooler": 18,
+    "plankton": 6
+  }
+}
