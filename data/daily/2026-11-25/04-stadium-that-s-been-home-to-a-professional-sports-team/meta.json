@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a stadium that’s been home to a professional sports team",
+  "category": "Sports & Games",
+  "round": 4,
+  "answers": 16617,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 16168,
+    "rare": 346,
+    "schooler": 95,
+    "plankton": 7
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "mode": "daily",
+  "game_id": "2026-11-25",
+  "rounds": 7,
+  "answers": 187229,
+  "categories": {
+    "People & Entertainment": 1,
+    "Brands / Companies / Apps": 1,
+    "Animals & Nature": 2,
+    "Sports & Games": 1,
+    "Words, Language & Numbers": 1,
+    "Country / Geography / Places": 1
+  },
+  "prompts": [
+    {
+      "round": 1,
+      "file": "01-horror-movie-1-000-votes-on-imdb.txt",
+      "folder": "01-horror-movie-1-000-votes-on-imdb",
+      "prompt": "Name a horror movie (1,000+ votes on IMDb)",
+      "answers": 8730
+    },
+    {
+      "round": 2,
+      "file": "02-international-brand-based-in-japan.txt",
+      "folder": "02-international-brand-based-in-japan",
+      "prompt": "Name an international brand based in Japan",
+      "answers": 8218
+    },
+    {
+      "round": 3,
+      "file": "03-insect-or-arachnid-with-a-one-word-name.txt",
+      "folder": "03-insect-or-arachnid-with-a-one-word-name",
+      "prompt": "Name an insect or arachnid with a one-word name",
+      "answers": 15951
+    },
+    {
+      "round": 4,
+      "file": "04-stadium-that-s-been-home-to-a-professional-sports-team.txt",
+      "folder": "04-stadium-that-s-been-home-to-a-professional-sports-team",
+      "prompt": "Name a stadium that’s been home to a professional sports team",
+      "answers": 16617
+    },
+    {
+      "round": 5,
+      "file": "05-language-that-originated-in-east-or-central-asia.txt",
+      "folder": "05-language-that-originated-in-east-or-central-asia",
+      "prompt": "Name a language that originated in East or Central Asia",
+      "answers": 574
+    },
+    {
+      "round": 6,
+      "file": "06-mountain-peak-over-2-000-metres-above-sea-level.txt",
+      "folder": "06-mountain-peak-over-2-000-metres-above-sea-level",
+      "prompt": "Name a mountain peak over 2,000 metres above sea level",
+      "answers": 135996
+    },
+    {
+      "round": 7,
+      "file": "07-wild-member-of-the-cat-or-dog-family.txt",
+      "folder": "07-wild-member-of-the-cat-or-dog-family",
+      "prompt": "Name a wild member of the cat or dog family",
+      "answers": 1143
+    }
+  ],
+  "generated_at": "2026-11-25T08:02:36.253Z"
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a wild member of the cat or dog family",
+  "category": "Animals & Nature",
+  "round": 7,
+  "answers": 1143,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 1034,
+    "rare": 90,
+    "schooler": 13,
+    "plankton": 5
+  }
+}

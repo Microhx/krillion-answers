@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a horror movie (1,000+ votes on IMDb)",
+  "category": "People & Entertainment",
+  "round": 1,
+  "answers": 8730,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 7709,
+    "rare": 938,
+    "schooler": 71,
+    "plankton": 11
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "prompt": "Name a mountain peak over 2,000 metres above sea level",
+  "category": "Country / Geography / Places",
+  "round": 6,
+  "answers": 135996,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 135848,
+    "rare": 137,
+    "schooler": 7,
+    "plankton": 3
+  }
+}

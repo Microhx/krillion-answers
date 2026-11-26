@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an international brand based in Japan",
+  "category": "Brands / Companies / Apps",
+  "round": 2,
+  "answers": 8218,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 7935,
+    "rare": 258,
+    "schooler": 19,
+    "plankton": 5
+  }
+}

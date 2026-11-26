@@ -74,10 +74,11 @@ Every Daily Dive, newest first. Each link opens that date's folder on GitHub,
 where every prompt has both a `.txt` file and a folder of its own.
 
 <!-- daily-index:start -->
-132 dates · 2,224,634 answers. Newest first.
+133 dates · 2,411,863 answers. Newest first.
 
 | Date | Prompts | Answers |
 |---|---:|---:|
+| [2026-11-25](data/daily/2026-11-25/) | 7 | 187,229 |
 | [2026-11-24](data/daily/2026-11-24/) | 7 | 383,310 |
 | [2026-11-23](data/daily/2026-11-23/) | 7 | 43,258 |
 | [2026-11-22](data/daily/2026-11-22/) | 7 | 55,918 |

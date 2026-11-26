@@ -1,0 +1,13 @@
+{
+  "prompt": "Name an insect or arachnid with a one-word name",
+  "category": "Animals & Nature",
+  "round": 3,
+  "answers": 15951,
+  "tiers": {
+    "krillion": 1,
+    "deepcut": 15852,
+    "rare": 70,
+    "schooler": 19,
+    "plankton": 9
+  }
+}
